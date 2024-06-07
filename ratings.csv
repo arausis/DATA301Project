@@ -1,0 +1,1863 @@
+lastName,firstName,department,numEvals,overallRating,materialClear,studentDifficulties,courses
+Mahjoor,Parisa,CHEM,17,0.64,0.82,0.45,"['CHEM 110', 'CHEM 127', 'CHEM 316']"
+Clark,Chris,CSC,12,3.7,3.62,3.7,"['CPE 103', 'CSC 103', 'CPE 123', 'CRP 430', 'CPE 481', 'CRP 420']"
+LaGuire,Tiev,FSN,13,2.57,2.57,2.71,"['FSN 210', 'FSN 250', 'FSN 251']"
+Lathrop,Amanda,FSN,8,2.22,2.67,1.89,"['FSN 125', 'FSN 275']"
+Rucci,Nancy,SPAN,12,2.5,2.5,2.64,"['SPAN 101', 'SPAN 102', 'SPAN 111', 'SPAN 201', 'SPAN 202', 'SPAN 203']"
+Ngoh,Cheryl-lyn,BUS,1,1.0,3.0,2.0,['BUS']
+Athey,Jean,BUS,5,2.0,2.44,2.11,"['BUS 291', 'BUS 391']"
+Clarke,Jefferson,ART,12,2.58,3.11,3.21,"['ART 101', 'ART 121', 'ART 122', 'ART 182', 'ART 221', 'ART 222']"
+Roberts,Mark,ENGL,205,3.82,3.89,3.84,"['ENGL 101', 'ENGL 114', 'ENGL 134', 'ENGL 143', 'ENGL 145', 'HNRS 145', 'ENGL 201', 'ENGL 215', 'ENGL 251', 'ENGL 253', 'ENGL 302']"
+Drasco,Steve,PHYS,24,2.26,2.33,2.19,"['ASTR 101', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 211']"
+Glover,Allan,ME,1,4.0,3.0,4.0,['ME']
+Neveu,Marc,ARCH,22,2.91,2.96,2.57,"['ARCH 218', 'ARCH 219', 'ARCH 351', 'ARCH 420']"
+Granados,Victor,MATE,24,1.96,1.81,2.07,"['MATE 210', 'MATE 215', 'MATE 225', 'MATE 470']"
+DeJong,Alvin,BIO,29,2.77,2.74,2.26,"['BIO 115', 'BIO 145', 'BIO 151', 'BIO 153', 'BIO 161', 'BIO 361', 'BIO 431', 'BIO 432', 'BIO 433']"
+Taufik,Taufik,EE,2,4.0,4.0,4.0,"['EE 302', 'EE 212']"
+Carroll,Darrian,COMS,4,4.0,4.0,4.0,"['COMS 332', 'COMS 205', 'COMS 435']"
+Cirovic,Michael,EE,24,1.39,1.57,1.43,"['EE 109', 'EE 110', 'EE 309', 'EE 409', 'EE 460']"
+Kaprielian,Gabriel,ARCH,1,3.0,2.5,2.5,['ARCH 253']
+Peterson,Daniel,ASCI,33,2.8,3.0,2.68,"['ASCI 112', 'ASCI 211', 'ASCI 304', 'ASCI 320', 'ASCI 403', 'ASCI 476', 'ASCI 479']"
+Chroman,Tanya,SPAN,21,3.34,3.43,3.43,"['SPAN 101', 'SPAN 102', 'SPAN 103', 'SPAN 124', 'SPAN 202', 'SPAN 203']"
+Douglas,Andrew,PHYS,55,2.55,2.41,2.46,"['PHYS 121', 'PHYS 122', 'PHYS 123', 'PHYS 132', 'PHYS 133', 'PHYS 141']"
+Bracco,Angela,ARCH,19,3.23,2.91,3.05,"['ARCH 131', 'ARCH 132', 'ARCH 133', 'ARCH 251', 'ARCH 252']"
+Hurt,Shelley,POLS,90,1.82,1.86,1.78,"['POLS 111', 'POLS 225', 'POLS 325', 'POLS 333', 'POLS 420', 'POLS 421', 'POLS 426', 'POLS 451', 'POLS 461']"
+Rachman,Kyle,MATH,2,4.0,3.0,4.0,['MATH 118']
+Soto,Carlos,ME,2,3.0,3.0,3.0,"['ME', 'ME 228']"
+Chen,Lei-da,BUS,10,3.55,3.45,3.45,"['BUS 319', 'BUS 391', 'BUS 491']"
+Bates,G.W.,BRAE,13,2.87,2.73,2.73,"['BRAE 232', 'BRAE 237', 'BRAE 239']"
+Keller,John,PHYS,22,3.36,3.28,3.44,"['PSC 101', 'ASTR 102', 'PHYS 103', 'PSC 103', 'PHYS 133', 'ASTR 301']"
+Schoonover,Rod,CHEM,208,3.74,3.74,3.67,"['CHEM 111', 'CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 128', 'CHEM 129', 'CHEM 138', 'CHEM 305', 'CHEM 312', 'CHEM 350', 'CHEM 351', 'CHEM 352', 'CHEM 353', 'CHEM 355', 'CHEM 405']"
+Dobson,John,BUS,70,2.7,2.54,2.67,"['BUS 301', 'BUS 342', 'BUS 346', 'BUS 404', 'BUS 436', 'BUS 443', 'BUS 445', 'BUS 498']"
+Preston,William,SOC,63,3.5,3.65,3.48,"['ENVE 144', 'GEOG 250', 'GEOG 308', 'SOC 308', 'GEOG 315', 'GEOG 325', 'GEOG 333', 'SOC 333', 'POLS 350']"
+Nolan,Frank,COMS,104,3.03,2.96,2.87,"['SPC 101', 'SPC 125', 'PHIL 126', 'SCM 126', 'CM 145', 'COMS 145', 'ENGL 145', 'SCM 145', 'SPC 145', 'SPC 201']"
+Brown,J.,AEPS,27,2.0,2.28,1.69,"['FRSC 110', 'CRSC 120', 'CRSC 190', 'VGSC 190', 'CRSC 210', 'VGSC 220', 'CRSC 230', 'VGSC 230', 'VGSC 231', 'CRSC 232', 'CRSC 250', 'CRSC 401', 'CRSC 421', 'FRSC 461']"
+Mitra,Nalinjan,CE,9,1.67,1.67,1.58,"['CE 207', 'CE 259']"
+Beglin,Katherine,ENGL,2,3.33,2.67,3.0,['ENGL 134']
+Al-Nakib,Farah,HIST,1,4.0,4.0,4.0,['HIST 313']
+Chatziioanou,Alypios,CE,22,3.22,3.13,3.09,"['CE 112', 'CE 114', 'CE 221', 'CE 322', 'CE 525']"
+Winn,Michael,ENGL,109,2.65,2.66,2.68,"['CM 101', 'COMS 101', 'ENGL 101', 'SCM 101', 'SPC 101', 'CM 102', 'COMS 102', 'ENGL 102', 'SCM 102', 'SCM 112']"
+Comelli,Isaac,MATH,1,2.5,2.5,2.0,['MATH 118']
+Vannasupa,Linda,MATE,14,2.54,2.54,2.46,"['MATE 110', 'MATE 120', 'MATE 130', 'MATE 210', 'MATE 215', 'MATE 232', 'MATE 350', 'MATE 400', 'MATE 425', 'MATE 470']"
+Coget,Jean-Francois,BUS,26,3.29,3.5,3.04,['BUS 387']
+Hunkler,Laura,COMS,1,2.0,2.0,3.0,['COMS']
+Bangs,Karen,IME,36,2.11,1.92,2.14,"['IME 101', 'IME 223', 'IME 239', 'IME 303', 'IME 314', 'IME 319', 'IME 401', 'IME 430']"
+Den Hartog,Christopher,POLS,93,3.27,3.36,3.17,"['POLS 112', 'POLS 210', 'POLS 315', 'POLS 318', 'POLS 319', 'POLS 375']"
+Wiley,Amy,ENGL,90,3.01,2.89,3.13,"['ENGL 134', 'ENGL 145', 'HNRS 145', 'ENGL 150', 'ENGL 231', 'ENGL 251', 'HNRS 251', 'ENGL 252', 'ENGL 253', 'ENGL 350']"
+Rasti,Zahra,ARCH,3,0.0,0.0,0.0,"['ARCH 253', 'ARCH 251']"
+Gray,Adam,CSC,1,2.0,2.0,3.0,['CSC 110']
+Jones,Terry,SOC,103,3.35,3.47,3.19,"['ANT 201', 'SOC 201', 'ANT 202', 'SOC 202', 'ANT 206', 'ANT 210', 'ANT 309', 'ANT 311', 'ANT 312', 'ANT 320']"
+Hampson,Brian,FSN,9,2.08,2.33,2.0,"['FSN 230', 'FSN 335', 'FSN 341', 'FSN 408']"
+Matarrese,Teresiana,ITAL,3,3.0,3.0,3.0,"['ITAL 101', 'WLC 310']"
+Echols,Robert,PHYS,84,3.28,3.09,3.19,"['ASTR 101', 'ASTR 102', 'ASTR 103', 'PHYS 111', 'ASTR 112', 'ASTR 121', 'PHYS 121', 'PHYS 123', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 408', 'PHYS 424']"
+Brouwers,Kevin,ME,16,1.39,1.39,1.61,"['ME 130', 'ME 228', 'ME 328']"
+Watts,David,LA,6,1.5,2.0,1.83,"['LA 202', 'LA 211', 'LA 461']"
+Neill,Dawn,SOC,60,2.84,2.93,2.74,"['ANT 201', 'ANT 210', 'ANT 250', 'SOC 250', 'ANT 344', 'ANT 401', 'SOC 401', 'SOC 402']"
+Jones,Preston,CE,3,4.0,4.0,4.0,['CE 113']
+Retz,David,EE,14,3.07,2.57,3.36,"['CSC 225', 'EE 229', 'CPE 315', 'CSC 315', 'EE 315', 'EE 322', 'EE 361']"
+McLamore,Alyson,MU,26,3.12,3.44,2.96,"['MU 320', 'MU 324', 'MU 328', 'MU 333', 'MU 334', 'MU 360']"
+Ward,Amy,COMS,27,2.79,2.92,2.83,['COMS 101']
+Niner,Carolyn,BUS,3,3.0,3.0,3.0,['BUS 439']
+Hackman,Christine,KINE,5,2.08,2.24,3.04,"['KINE 305', 'KINE 434', 'HLTH 434']"
+Burt,Steven,BUS,15,3.88,3.81,3.75,"['BUS 214', 'BUS 215']"
+Keif,Malcolm,GRC,18,2.9,3.16,2.74,"['GRC 102', 'GRC 316', 'GRC 320', 'GRC 324', 'GRC 403', 'GRC 404']"
+Miller,Michael,ART,33,2.79,2.97,2.59,"['ART 101', 'ART 201', 'ART 203', 'ART 301', 'ART 335', 'ART 353']"
+Cornaire,Michael,CHEM,6,0.71,0.71,0.43,['CHEM 111']
+Kominitsky,Nick,ENGL,3,2.5,2.25,2.25,['ENGL 134']
+Mayer,Frances,EDUC,5,3.0,2.5,3.17,"['EDUC 207', 'CD 350']"
+Besel,Richard,COMS,19,3.55,3.55,3.4,"['COMS 101', 'SPC 101', 'COMS 322', 'SPC 322', 'COMS 330', 'SPC 330', 'COMS 331', 'COMS 332', 'SPC 435', 'COMS 470']"
+Rastad,Mahdi,BUS,26,2.43,2.43,2.39,"['BUS 438', 'BUS 439']"
+Fidopiastis,Pat,BIO,25,3.38,3.31,3.31,"['MCRO 221', 'BIO 224', 'MCRO 224', 'BIO 301', 'MCRO 320', 'MCRO 421', 'BIO 424', 'MCRO 424']"
+Goldenberg,Stuart,MATH,70,2.01,1.72,2.03,"['PSC 101', 'MATH 141', 'MATH 142', 'HNRS 143', 'MATH 143', 'PHYS 211', 'MATH 241', 'MATH 242', 'MATH 244', 'MATH 317', 'MATH 418']"
+Gay,Larry,ITP,6,1.78,1.78,1.89,"['IT 330', 'IT 341', 'IT 375', 'IT 409']"
+Bishop,Roger,BUS,64,3.06,3.03,2.97,"['BUS 212', 'BUS 214', 'BUS 215', 'BUS 417', 'GSA 540']"
+Dhonncha,Brian,MATH,9,3.56,3.68,3.23,"['MATH 143', 'MATH 241']"
+Burd,Matthew,ASCI,7,2.17,2.17,1.8,"['ASCI 224', 'ASCI 315', 'ASCI 347', 'ASCI 366', 'ASCI 351']"
+Burnett,Shelby,MATH,18,3.05,2.84,3.26,"['MATH 116', 'MATH 118', 'MATH 221', 'JOUR 342', 'KINE 420']"
+Kou,Martin,EE,5,3.67,3.67,3.67,['EE 361']
+Lewis,George,MATH,84,1.61,1.58,1.34,"['MATH 118', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 206', 'MATH 241', 'MATH 242', 'MATH 244', 'MATH 304', 'MATH 320', 'MATH 442', 'MATH 443']"
+Bishop,Rebecca,MATH,2,0.5,1.5,2.5,['MATH 115']
+Chapman,Arthur,ARCH,14,2.4,2.4,2.27,"['ARCH 101', 'ARCH 235', 'ARCH 251', 'ARCH 252', 'ARCH 253', 'ARCH 457']"
+Nazmi,Giseli,WGS,2,3.33,3.0,2.67,['KINE 260']
+Doremus,Jacqueline,ECON,47,1.84,1.71,1.98,"['ECON 121', 'ECON 221', 'ECON 222', 'ECON 432']"
+Dana,Chuck,CSC,22,1.29,1.47,1.29,"['CSC 101', 'CSC 102', 'CSC 300', 'CSC 302', 'CSC 330', 'CSC 357', 'CSC 361']"
+Kamaiopili,Kyle,ENGL,4,3.0,3.0,3.2,['ENGL 134']
+Caldwell,Roslyn,PSY,33,1.52,1.66,1.42,"['PSY 260', 'PSY 375', 'PSY 400', 'PSY 405', 'PSY 446', 'PSY 472']"
+Faulstich,Tiffany,AEPS,1,4.0,4.0,4.0,['AEPS']
+Newcomer,Aaron,MATH,15,3.0,3.15,2.85,"['MATH 142', 'MATH 143']"
+Bachman,David,MATH,15,3.38,3.31,3.31,"['MATH 142', 'MATH 143', 'MATH 241']"
+Lassanske,Daniel,AEPS,19,3.75,3.8,3.7,"['EHS 120', 'EHS 230']"
+Okuma,Taryn,ENGL,1,2.5,2.5,3.0,['ENGL 231']
+Straus,Zachary,MATH,3,3.33,3.0,3.0,"['MATH 118', 'MATH 221']"
+Martinez,Nathaniel,BIO,12,3.62,3.47,3.7,"['BIO 221', 'MCRO 221', 'BIO 224', 'MCRO 224', 'BIO 342', 'MCRO 342']"
+Lambertz-Berndt,Megan,COMS,18,3.53,3.47,3.26,"['COMS 101', 'COMS 102', 'COMS 213', 'COMS 315', 'COMS 316']"
+Mccomb,James,HIST,1,4.0,4.0,4.0,['HIST']
+Lange,John,ARCH,12,2.46,2.08,2.08,"['ARCH 106', 'ARCH 351', 'ARCH 352']"
+Flores,Carlos,ECON,14,3.01,2.63,2.82,"['ECON 311', 'ECON 313', 'ECON 408', 'ECON 518', 'GSB 518', 'ECON 440']"
+Gragson,Derek,CHEM,88,2.53,2.74,2.4,"['CHEM 121', 'CHEM 127', 'CHEM 128', 'CHEM 129', 'CHEM 252', 'CHEM 351', 'CHEM 354', 'CHEM 446']"
+Jimenez,Alberto,MATH,110,2.44,2.27,2.19,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 161', 'MATH 162', 'MATH 182', 'MATH 221', 'MATH 241', 'MATH 244', 'MATH 252', 'MATH 333', 'MATH 344']"
+Merah,Ralph,MATH,5,2.67,2.83,3.33,['MATH 117']
+Chirica,Laurian,CSC,26,3.0,3.04,2.83,"['CSC 101', 'CSC 346', 'CPE 365', 'CSC 365', 'CPE 366', 'CSC 366', 'CSC 468']"
+Hill,Allesandro,IME,1,4.0,4.0,4.0,['IME 305']
+Starkey,Glen,ENGL,116,2.84,2.89,2.78,"['ENGL 102', 'ENGL 112', 'ENGL 114', 'ENGL 134', 'ENGL 145', 'ENGL 215', 'ENGL 302']"
+Newsome-Slade,Vanessa,MATH,4,1.0,1.0,1.0,"['MATH 118', 'MATH 161']"
+Adams,Nikki,BIO,27,2.82,2.68,2.75,"['BIO 160', 'BIO 336', 'ZOO 336', 'BIO 405', 'BIO 440', 'MSC 440']"
+Connely,John,CSC,25,3.41,3.45,3.64,"['CPE 215', 'CSC 317', 'CPE 357', 'CPE 453', 'CSC 453']"
+Lee,Jess,SOC,3,2.67,2.67,1.67,['SOC 111']
+deYong,Ron,AGB,4,3.0,2.6,2.8,"['AGB 302', 'AGB 312', 'AGB 461']"
+Kelly,Brian,ARCH,2,3.33,2.0,2.67,"['ARCH 105', 'ARCH 133']"
+Cushing,Jim,ENGL,80,2.36,2.39,2.13,"['ENGL 114', 'ENGL 145', 'ENGL 231', 'ENGL 251', 'ENGL 252', 'ENGL 253', 'ENGL 339', 'ENGL 350', 'ENGL 351', 'ENGL 387', 'ENGL 388', 'ENGL 449', 'AERO 465']"
+Westmoreland,Erin,CE,4,3.5,3.5,3.75,['CE 113']
+O'Brien,Dennis,STAT,12,1.77,1.77,1.77,"['STAT 217', 'STAT 218', 'STAT 235', 'STAT 251', 'STAT 252', 'STAT 312']"
+Redden,Paul,CM,4,2.25,1.75,1.75,"['CM 102', 'ARCE 211', 'CM 232']"
+killing,ansgar,ARCH,20,2.14,2.0,2.14,"['ARCH 106', 'ARCH 251', 'ARCH 252', 'ARCH 481']"
+Sperow,Elizabeth,BUS,40,3.6,3.57,3.48,"['BUS 207', 'BUS 214', 'BUS 404', 'BUS 410', 'GSB 514']"
+Fernsler,Jonathan,PHYS,51,2.64,2.55,2.8,"['PSC 101', 'PHYS 121', 'PHYS 122', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 142', 'PHYS 145', 'PHYS 211', 'PHYS 401', 'PHYS 143']"
+Miller,Mark,MU,1,2.0,2.5,2.5,['MU 101']
+Brown,Robert,BIO,45,2.07,1.77,1.75,"['BIO 101', 'BIO 111', 'BIO 115', 'ZOO 240', 'BIO 331', 'ZOO 331', 'BIO 332', 'ZOO 332']"
+Frazier,Tony,BIO,17,3.67,3.5,3.56,"['BIO 111', 'BIO 160', 'BIO 161', 'BIO 162', 'BIO 227']"
+Mulligan,Patricia,EDUC,4,3.2,3.2,2.8,['EDUC 207']
+Keese,James,SOC,82,2.8,2.82,2.61,"['GEOG 150', 'SOC 150', 'ECON 201', 'ECON 211', 'ECON 222', 'GEOG 301', 'GEOG 308', 'GEOG 340', 'ANT 370', 'GEOG 370', 'SOC 370', 'GEOG 350']"
+Veach,Erik,PHYS,6,3.17,3.17,3.83,"['PHYS 141', 'PHYS 143']"
+Brown,Dwight,PHIL,68,3.01,3.08,2.96,"['PHIL 101', 'PHIL 212', 'PHIL 230', 'HNRS 231', 'PHIL 231', 'PHIL 310', 'PHIL 311', 'PHIL 313', 'PHIL 314', 'PHIL 317', 'PHIL 335']"
+Lutz,Ben,ME,3,4.0,3.67,4.0,"['ME 328', 'ME 234']"
+Parkinson,David,CSC,21,3.46,3.42,3.41,"['CPE 102', 'CSC 102', 'CPE 202', 'CSC 202']"
+Johnston,Hal,CM,11,1.31,1.54,1.54,"['CM 213', 'CM 342', 'CM 364', 'CM 431', 'CM 454']"
+Medizade,Mason,ME,47,0.81,0.69,0.64,"['ME 234', 'ME 236', 'ME 302', 'ME 312', 'ME 341', 'ME 346', 'ME 350', 'ME 434', 'ME 435', 'ME 436', 'ME 470', 'ME 488']"
+Ridgely,John,ME,14,2.87,3.07,2.87,"['ME 318', 'ME 329', 'ME 405', 'ME 422', 'ME 507', 'ME 128']"
+Clay,Gary,LA,17,2.32,2.26,2.16,"['LA 114', 'LA 220', 'LA 241', 'LA 351', 'LA 352', 'ARCH 453', 'LA 453', 'LA 454']"
+Niku,Shoreh,FSN,37,2.38,2.31,2.33,"['AG 202', 'FSN 204', 'FSN 230', 'FSN 250', 'FSN 319', 'FSN 374']"
+Brammeier,Meredith,MU,18,3.45,3.55,3.35,"['MU 101', 'MU 103', 'MU 120', 'MU 207', 'MU 212', 'MU 303', 'MU 324']"
+Malone,Daniel,MATH,19,2.81,2.52,2.76,"['MATH 116', 'IME 156', 'EE 201', 'EE 321']"
+blau,jnan,COMS,24,3.6,3.66,3.34,"['COMS 101', 'ENGL 101', 'SPC 101', 'COMS 208', 'SPC 208', 'COMS 308', 'COMS 316', 'COMS 317', 'COMS 416', 'SPC 416', 'COMS 450']"
+Grow,April,CSC,4,3.0,3.0,3.0,"['CSC 378', 'CSC 123']"
+Szlavik,Robert,BMED,16,3.06,3.0,3.0,"['BMED 310', 'ENGR 310', 'BMED 355', 'BMED 440', 'ENGR 440', 'BMED 445', 'ENGR 455', 'BMED 555']"
+Haley,John,POLS,2,1.67,1.33,1.33,['POLS 245']
+Carr,Chris,BUS,173,3.57,3.64,3.38,"['BUS 202', 'BUS 207', 'BUS 227', 'BUS 297', 'BUS 304', 'BUS 410', 'BUS 461']"
+Fraser,Scott,PHYS,44,3.04,2.93,2.93,"['ASTR 102', 'PHYS 121', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 211', 'PHYS 142']"
+Burd,Matt,ASCI,14,3.73,3.67,3.46,"['ASCI 315', 'ASCI 333', 'ASCI 347', 'ASCI 405']"
+Johnson,Johanna,BUS,2,3.0,3.0,2.67,['BUS 382']
+Siembieda,Bill,CRP,10,0.7,0.6,0.7,"['CRP 215', 'CRP 315', 'CRP 409', 'CRP 450', 'CRP 458']"
+Iscold,Amarilis,CD,2,4.0,4.0,4.0,"['HLTH 260', 'CD 340']"
+Vredevoe,Larisa,BIO,2,4.0,3.5,4.0,"['BIO 429', 'MCRO 320']"
+Borzellino,Joseph,MATH,86,3.1,3.36,3.01,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 206', 'MATH 241', 'MATH 244', 'MATH 304', 'MATH 306', 'MATH 416']"
+Washington,Jermaine,ARCH,12,3.0,2.79,2.79,"['ARCH 131', 'ARCH 132', 'ARCH 133', 'ARCH 251']"
+Smith,Hugh,CSC,31,3.28,3.28,3.25,"['CPE 123', 'CSC 123', 'CPE 317', 'CSC 317', 'CPE 357', 'CPE 464', 'CSC 464', 'CPE 465', 'CSC 465', 'CPE 564']"
+Simonian,Lonny,CM,4,3.25,3.0,3.25,"['CM 212', 'CM 352', 'CM 411', 'CM 413']"
+Boswell,Michael,CRP,19,3.2,3.25,2.8,"['CRP 101', 'CRP 212', 'CRP 314', 'CRP 336', 'CRP 338', 'CRP 342', 'CRP 470', 'CRP 510']"
+Treece,Tanner,CHEM,1,4.0,4.0,4.0,['CHEM']
+Crew,James,MATH,8,3.62,3.76,3.62,"['MATH 142', 'MATH 141']"
+Coroneus,John,PHYS,20,2.65,2.33,2.75,"['PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 131']"
+Lawler,Brian,GRC,45,3.5,3.35,3.46,"['GRC 101', 'GRC 201', 'GRC 202', 'GRC 203', 'GRC 212', 'GRC 218', 'GRC 302', 'HUM 303', 'GRC 331', 'GRC 377']"
+Pulitano,Elvira,ES,35,2.17,2.42,2.15,"['ES 241', 'ES 242', 'ES 340', 'ES 380', 'ES 253']"
+Griffin,Kimberly,CHEM,5,3.33,3.17,3.5,"['CHEM 312', 'CHEM 316']"
+Korengel,Felicia,STAT,3,3.33,3.67,3.33,['STAT 217']
+Rwebangira,Mugizi,CSC,11,2.64,2.36,2.73,"['CSC 248', 'CPE 202', 'CSC 466']"
+Inchausti,Robert,ENGL,54,3.65,3.69,3.54,"['ENGL 114', 'ENGL 215', 'ENGL 240', 'ENGL 250', 'ENGL 253', 'ENGL 326', 'ENGL 350', 'ENGL 351', 'ENGL 395', 'ENGL 449', 'ENGL 459']"
+Voltmer,Kathryn,MATH,5,2.0,2.6,2.6,"['MATH 141', 'MATH 119']"
+Horton,William,EE,7,0.56,0.89,0.67,"['PHYS 141', 'EE 242', 'EE 301']"
+Sisodia,Dev ,CSC,14,3.78,3.28,3.94,"['CPE 101', 'CSC 357', 'CSC 101']"
+Alexander,Verena,FSN,1,3.0,2.0,3.0,['FSN']
+Belanger,Jacques,ME,2,3.5,3.5,4.0,"['ME 302', 'ME 437']"
+VanderKelen,Barry,BUS,10,2.9,3.1,2.8,['BUS 401']
+Lai,Norman,WGS,1,1.0,0.5,1.0,['WGS 301']
+Parham,Devon,MATH,2,2.0,1.0,1.67,['CSC 141']
+Villablanca,Francis,BIO,48,2.32,2.48,2.34,"['BIO 213', 'BIO 321', 'ZOO 321', 'BIO 323', 'ZOO 323', 'BIO 342', 'BIO 414', 'BIO 444']"
+Duarte,Lisha,SPAN,1,3.0,3.0,2.5,['SPAN 121']
+Woodruff,Christopher,MU,34,3.74,3.71,3.71,"['MU 101', 'MU 120', 'MU 171', 'MU 172', 'MU 173', 'MU 176', 'MU 340', 'MU 371', 'MU 373', 'MU 376']"
+McGaughey,Karen,STAT,73,3.64,3.77,3.44,"['STAT 212', 'STAT 217', 'STAT 218', 'STAT 251', 'STAT 252', 'STAT 313', 'STAT 321', 'STAT 322', 'STAT 323', 'STAT 513', 'STAT 302']"
+Howard,Wayne,AGB,31,1.94,2.24,1.76,"['AGB 101', 'AGB 212', 'AGB 301', 'AGB 310', 'AGB 313', 'AGB 322', 'AGB 326']"
+McGarry-Wolf,Marianne,AGB,16,2.47,2.57,2.35,"['AG 101', 'AGB 405', 'AGB 443', 'WS 444', 'AGB 101', 'AGB 343', 'AGB 406']"
+Silva,Andrew,KINE,17,2.71,2.76,2.76,"['KINE 230', 'KINE 250', 'KINE 408']"
+Allen,Regulus,ENGL,50,1.89,2.34,1.78,"['ENGL 205', 'ENGL 230', 'ENGL 303', 'ENGL 305', 'ENGL 332', 'ENGL 333', 'ENGL 347', 'PSC 395', 'ENGL 439', 'ENGL 512']"
+Buffa,Anthony,PHYS,49,2.61,2.55,2.55,"['PHYS 121', 'PHYS 122', 'PHYS 123', 'PHYS 131', 'PHYS 132', 'PHYS 133']"
+Keeling,David,CHEM,87,3.28,3.5,3.13,"['BIO 111', 'CHEM 127', 'CHEM 128', 'CHEM 129', 'CHEM 231']"
+Martinez,Charmaine,ART,6,2.23,2.36,2.08,"['ART 237', 'ART 260', 'ART 333', 'ART 338']"
+Frantz,Barbara,GER,22,3.0,3.25,2.96,"['GER 101', 'GER 102', 'GER 103', 'GER 121', 'GER 122']"
+Temko,Lori,COMS,5,3.2,2.8,3.0,['COMS 101']
+Braun,David,EE,87,2.09,2.42,1.79,"['EE 208', 'EE 248', 'EE 306', 'EE 307', 'EE 308', 'EE 347', 'EE 348', 'EE 413', 'EE 422', 'EE 460']"
+Anderson,Eric,BIO,2,2.5,3.0,2.0,"['BIO 263', 'TH 548']"
+Schroeter,Christiane,AGB,54,1.41,1.59,1.33,"['AGB 212', 'AGB 301', 'AGB 304', 'AGB 310', 'AGB 313', 'AGB 318', 'AGB 404', 'AGB 406']"
+Lee,Linda,PSY,31,3.72,3.69,3.69,"['CD 131', 'CD 256', 'PSY 256', 'CD 304', 'CD 305', 'PSY 356', 'CD 417', 'CD 424']"
+Elrod,Susan,BIO,11,2.58,3.0,1.92,"['MCRO 221', 'MCRO 222', 'BIO 351', 'BIO 375']"
+Murphy,Chris,CE,26,3.11,3.11,3.04,"['CE 112', 'CE 204', 'CE 207', 'ME 211', 'CE 259', 'CE 355']"
+Sungar,Nilgun,PHYS,54,3.16,3.2,2.96,"['PHYS 121', 'PHYS 122', 'PHYS 123', 'PHYS 131', 'PHYS 132', 'PHYS 141', 'PHYS 200', 'PHYS 211', 'PHYS 322', 'PHYS 405']"
+Higgins,Brian,ME,17,3.28,3.17,3.17,"['ME 134', 'ME 313', 'ME 446']"
+Michaud,Rebecca,MATH,19,3.44,3.66,3.4,"['MATH 118', 'MATH 119', 'MATH 221', 'MATH 211']"
+Zhang,Alan,ME,2,4.0,4.0,4.0,['ME 211']
+Castro,Joseph,BUS,1,4.0,4.0,4.0,['BUS']
+Pendergast,William,BUS,38,2.29,2.37,2.44,"['BUS 302', 'BUS 303', 'BUS 401', 'BUS 402']"
+Arakaki,Dean,EE,74,1.63,1.7,1.54,"['EE 111', 'EE 151', 'EE 201', 'CPE 202', 'EE 241', 'EE 251', 'EE 335', 'EE 346', 'EE 375', 'EE 401', 'EE 402', 'EE 405', 'EE 440', 'EE 460', 'EE 533', 'EE 599']"
+Costello,Micheal,AEPS,27,2.83,2.81,2.37,"['CRSC 102', 'CRSC 110', 'PSC 110', 'WS 231', 'CRSC 311', 'FRSC 331', 'PSC 411', 'CRSC 431', 'PSC 431', 'CRSC 521', 'AEPS 110']"
+Waitinas,Catherine,ENGL,35,2.77,2.8,2.78,"['ENGL 231', 'ENGL 240', 'ENGL 241', 'ENGL 253', 'ENGL 303', 'ENGL 345']"
+Sherman,Morgan,MATH,63,3.32,3.2,3.28,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 206', 'MATH 241', 'MATH 244', 'MATH 306', 'MATH 344', 'MATH 505', 'MATH 248']"
+Colome,Jaime,BIO,26,1.15,1.19,1.3,"['BIO 224', 'MCRO 224', 'BIO 302', 'BIO 334', 'BIO 351', 'MCRO 401', 'MCRO 402', 'BIO 421']"
+Josey,Jad,ENGL,2,3.0,2.67,3.33,['ENGL 134']
+McNeil,Robert,CE,6,1.88,1.13,1.5,"['CE 114', 'FRSC 120', 'FRSC 202', 'FRSC 220', 'FRSC 230', 'FRSC 332']"
+Zigler,David,CHEM,13,1.16,1.23,1.38,"['CHEM 121', 'CHEM 126', 'CHEM 127', 'CHEM 124', 'CHEM 125']"
+Waldron,Nicholas,MU,3,4.0,3.67,4.0,"['MU 101', 'MU 176']"
+Kuchera,Emma,JOUR,1,3.0,3.33,3.0,['JOUR 415']
+Moreno,Kelly,PSY,7,2.86,2.86,3.0,"['PSY 370', 'PSY 405', 'PSY 560']"
+Keen,Aaron,CSC,90,2.88,2.89,2.77,"['CPE 101', 'CSC 101', 'CPE 102', 'CSC 102', 'CPE 317', 'CSC 317', 'CSC 330', 'CSC 349', 'CPE 357', 'CSC 357', 'CPE 430', 'CSC 430', 'CPE 431', 'CSC 431', 'CSC 530']"
+Cerf,Doug,BUS,25,3.4,3.28,3.36,"['BUS 321', 'BUS 322', 'BUS 323']"
+Wallen,Patrick,EE,12,0.38,0.31,0.31,"['EE 201', 'EE 335', 'EE 361']"
+Sanchez,Alfredo,PHYS,15,0.54,0.61,0.34,['PHYS 133']
+Laird,Joanna,CHEM,4,3.0,3.5,2.25,"['CHEM 124', 'CHEM 110']"
+Kurtz,Christine,MATE,1,4.0,4.0,4.0,['MATE']
+Turner,Clark,CSC,61,2.97,2.92,2.98,"['CPE 101', 'CSC 101', 'CPE 205', 'CSC 205', 'CSC 300', 'CSC 302', 'CPE 307', 'CSC 492', 'CSC 508']"
+Toker,Umut,CRP,11,3.67,3.67,3.67,"['CRP 201', 'CRP 202', 'CRP 203', 'CRP 341', 'ARCH 351', 'ARCH 352', 'CRP 410', 'CRP 452']"
+trudell,carmen,ARCH,12,3.0,2.92,2.83,"['EDES 101', 'ARCH 131', 'ARCH 132', 'ARCH 251', 'ARCH 252']"
+Hendricks,Karin,TH,3,3.11,3.11,3.55,"['TH 201', 'TH 275']"
+Keller,Earl,BUS,72,2.78,2.58,2.62,"['BUS 212', 'BUS 214', 'BUS 215', 'BUS 321', 'BUS 322', 'BUS 420', 'BUS 422', 'BUS 463']"
+Bednarek,Ziemowit,BUS,31,2.05,1.94,2.03,"['BUS 342', 'BUS 431', 'BUS 438', 'BUS 531', 'GSB 531']"
+Beard,Stephen,CPE,8,4.0,3.87,4.0,"['CSC 430', 'CSC 431', 'CSC 524', 'CPE 426', 'CPE 315']"
+Epstein,Gary,MATH,53,1.63,1.69,1.56,"['MATH 133', 'PHYS 133', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 221', 'MATH 242', 'MATH 244', 'MATH 313', 'MATH 317', 'MATH 318']"
+Nahvi,Mahmood,EE,47,1.69,1.73,1.52,"['EE 151', 'EE 211', 'EE 212', 'EE 228', 'EE 301', 'EE 321', 'EE 328', 'EE 341', 'EE 346', 'EE 368']"
+Hall,Wendy,ASCI,1,2.5,2.5,2.5,['ASCI 212']
+Gillis,William,DSCI,13,3.33,3.27,3.33,"['DSCI 134', 'DSCI 202', 'DSCI 231', 'DSCI 233']"
+Charlene,Birdsong,ME,57,2.03,2.13,1.75,"['ME 212', 'ME 236', 'ME 326', 'ME 422']"
+Hoover,Benjamin,AEPS,8,2.35,3.12,2.54,"['EHS 120', 'EHS 124', 'EHS 233', 'EHS 351', 'AEPS 124']"
+Alexander,Dekhtyar,CSC,36,1.93,1.94,1.99,"['CPE 101', 'CSC 101', 'CSC 301', 'CSC 349', 'CSC 365', 'CSC 366', 'CPE 466', 'CSC 466', 'CSC 570', 'CPE 365', 'CSC 560', 'DATA 301']"
+Hudson,Nancie,COMS,3,4.0,4.0,3.33,['COMS 101']
+Schroeter,Robert,BIO,3,3.0,3.67,3.33,"['BIO 161', 'BIO 263', 'BIO 111']"
+Larson,John,ME,43,2.59,2.48,2.35,"['ME 128', 'ME 129', 'IME 130', 'ME 130', 'ME 151', 'ME 152', 'DANC 231', 'ME 251', 'ME 271']"
+DiBernardo,Anthony,PHYS,1,2.5,2.0,3.0,['PHYS 101']
+Sarraf,Krista,ENGL,3,4.0,4.0,4.0,"['ENGL 317', 'ENGL 221', 'ENGL 421']"
+Teufel,Brady,JOUR,13,3.61,3.54,3.38,"['JOUR 203', 'JOUR 285', 'JOUR 352', 'JOUR 390', 'JOUR 407', 'JOUR 410']"
+Meera,Jani,CSC,22,1.0,1.17,1.17,"['CPE 101', 'CSC 101', 'CPE 102', 'CSC 102', 'CPE 103', 'CSC 103']"
+Bartel,Jon,ENGL,81,3.02,3.13,2.9,"['ENGL 134', 'ENGL 142', 'ENGL 145', 'ENGL 245']"
+DePasquale,Thomas,ART,38,3.68,3.71,3.62,"['ART 112', 'ART 212']"
+Clark,Russell,MSL,3,1.75,2.0,1.25,"['MSC 103', 'MSC 401']"
+Nuworsoo,Cornelius,CRP,12,2.0,2.13,1.73,"['CRP 213', 'CRP 214', 'CRP 516', 'CRP 552']"
+Laiho,David,BMED,1,4.0,4.0,4.0,['BMED']
+Wetzel,Jean,ART,31,3.69,3.69,3.59,"['ART 111', 'ART 112', 'ART 118', 'ART 211', 'ART 212', 'ART 315', 'ART 316', 'ART 317', 'ART 318']"
+Papanos,Lauren,FSN,2,1.5,1.0,2.0,['FSN 250']
+Manamperi,Wajira,MATE,2,3.0,2.5,2.0,['MATE 210']
+Jasbinsek,John,PHYS,42,2.07,1.98,1.72,"['PHYS 101', 'PSC 101', 'GEOL 102', 'PSC 103', 'PHYS 132', 'GEOL 201', 'PHYS 202', 'GEOG 205', 'GEOL 205', 'PHYS 205', 'GEOL 305', 'PHYS 410']"
+Askay,David,COMS,15,3.31,3.49,3.07,"['COMS 101', 'COMS 102', 'COMS 217']"
+Sklar,Jeffrey,STAT,61,3.34,3.56,3.14,"['STAT 218', 'STAT 251', 'STAT 252', 'STAT 321', 'STAT 324', 'STAT 419', 'STAT 417']"
+Shlaer,Benjamin,PHYS,4,2.25,2.25,3.0,"['PHYS 142', 'PHYS 141']"
+Goldenberg,Marni,NR,23,1.85,2.07,2.0,"['AG 101', 'REC 101', 'REC 127', 'REC 205', 'REC 210', 'REC 255', 'REC 257', 'REC 328', 'REC 460', 'REC 461']"
+Westphal,Russel,ME,22,3.93,3.93,4.0,"['ME 341', 'ME 350', 'ME 236', 'ME 303', 'ME 343', 'ME 347', 'ME 442', 'ME 541', 'ME 542']"
+Hart,Richard,CM,3,3.2,3.4,3.2,"['CM 113', 'CM 313']"
+Hagobian,Nicole,KINE,13,1.66,1.94,1.8,"['KINE 323', 'KINE 324']"
+Chiu,Yi-Wen,NR,1,1.5,0.5,1.5,['ENVE 218']
+Campbell,Robert,EE,1,2.0,2.0,2.0,['EE 251']
+McQuaid,Patricia,BUS,102,1.67,1.59,1.76,"['BUS 215', 'BUS 391', 'BUS 394', 'BUS 395', 'BUS 429', 'BUS 495', 'BUS 498']"
+Attebery,Stina,ISLA,1,4.0,4.0,4.0,['ISLA']
+Dobson,Sharon,BUS,156,3.16,3.12,3.25,"['BUS 102', 'BUS 215', 'BUS 221', 'DSCI 221', 'ECON 221', 'BUS 342', 'BUS 346', 'BUS 387', 'BUS 433']"
+Johnson,Ian,AERO,6,2.29,2.14,2.29,"['AERO 215', 'AERO 300']"
+Dong,Kevin,ARCE,6,3.0,3.29,2.57,"['ARCE 211', 'ARCE 212', 'ARCE 371', 'ARCE 372']"
+Lynn,Abe,ARCE,17,3.65,3.41,3.71,"['ARCE 211', 'ARCE 212', 'ARCE 221', 'ARCE 223', 'ARCE 227', 'ARCE 302', 'ARCE 483']"
+Winstead,Candace,BIO,20,2.3,2.15,2.55,"['BIO 161', 'MCRO 221', 'MCRO 224', 'BIO 303', 'MCRO 423', 'BIO 426']"
+Rein,Steve,STAT,92,2.15,2.03,2.16,"['STAT 130', 'STAT 217', 'STAT 218', 'STAT 251', 'STAT 252', 'STAT 270', 'STAT 312', 'STAT 313', 'STAT 321', 'STAT 322', 'STAT 324', 'STAT 416', 'STAT 418', 'STAT 513']"
+Medina,Javier,ECON,1,4.0,4.0,4.0,['ECON']
+Englund,Scott,POLS,11,2.92,2.77,2.54,"['POLS 112', 'POLS 225']"
+Gonzalez-Sanchez,Javier,CSC,2,3.5,3.0,2.0,"['CSC 309', 'CSC 307']"
+Eldridge,Michael,CHEM,21,2.41,2.27,2.27,"['CHEM 124', 'CHEM 129', 'CHEM 312', 'CHEM 313', 'CHEM 316']"
+England-Kennedy,Sara,KINE,11,1.33,1.58,1.92,"['KINE 250', 'KINE 298']"
+Srinivasan,Prashant,PHYS,27,2.0,2.26,1.67,"['PHYS 122', 'PHYS 132', 'PHYS 133', 'PHYS 141']"
+Clague,David,BMED,28,2.18,1.97,2.27,"['ENGR 123', 'BMED 213', 'BRAE 213', 'ENGR 213', 'BMED 400', 'BMED 425', 'BRAE 425', 'BMED 500', 'BMED 520']"
+Weisenberger,Gary,BRAE,17,3.0,3.18,2.76,"['BRAE 129', 'BRAE 141', 'BRAE 142', 'IME 142', 'IME 143', 'BRAE 237', 'BRAE 240', 'BRAE 335', 'BRAE 344', 'BRAE 432']"
+Djassemi,Manocher,ITP,27,2.18,2.32,2.13,"['IT 260', 'IT 326', 'IT 329', 'IT 390', 'ITP 150']"
+Morrison,Kent,MATH,15,3.38,3.62,3.31,"['MATH 142', 'MATH 143', 'MATH 200', 'MATH 202', 'MATH 241', 'MATH 244', 'MATH 317', 'MATH 351']"
+Levi,Dan,PSY,29,3.07,2.9,2.7,"['PSY 302', 'PSY 303', 'PSY 310', 'PSY 311', 'PSY 350']"
+Grieve,Sarah,ENGL,19,3.65,3.7,3.5,"['ENGL 134', 'ENGL 145', 'HNRS 145', 'ENGL 302']"
+Vyas,Siddharth,EE,6,4.0,4.0,3.83,"['EE 306', 'EE 307', 'EE 315']"
+Crandall,John,AGED,1,1.0,2.0,2.0,['AGED 202']
+Choboter,Paul,MATH,82,3.5,3.45,3.52,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 241', 'MATH 244', 'MATH 344']"
+Brogno,Courtney,ENGL,131,2.82,2.88,2.87,"['ENGL 134', 'ENGL 145']"
+Langston,Donna,ES,1,1.5,2.5,0.5,['ES 321']
+DePiero,Fred,EE,32,3.57,3.67,3.52,"['EE 112', 'EE 201', 'EE 219', 'EE 228', 'EE 251', 'EE 302', 'CPE 330', 'EE 368', 'EE 419', 'EE 515', 'EE 525', 'CPE 133']"
+Mark,Walter,NR,7,2.9,2.6,2.6,"['FNR 208', 'FNR 402']"
+Andes,Laura,PHIL,66,1.4,1.65,1.25,"['PHIL 126', 'PHIL 230', 'PHIL 231', 'EDES 408']"
+Vernon,Scott,AGED,13,3.54,3.62,3.46,"['AGC 102', 'JOUR 205', 'AGED 404']"
+Wang,Xiaofeng,PHYS,39,1.67,1.44,1.74,"['PHYS 121', 'PHYS 122', 'PHYS 132', 'PHYS 133', 'PHYS 142', 'PHYS 141']"
+Crother,Cyndi,ITP,11,3.5,3.42,3.58,"['IT 303', 'IT 402', 'IT 403', 'BUS 484']"
+Brown,Ken,ENGL,9,1.92,2.17,2.0,"['ENGL 114', 'SPC 201', 'PHIL 231', 'ENGL 342', 'ENGL 346', 'ENGL 515']"
+Doerfler,Jim,ARCH,9,3.3,3.3,3.4,"['ARCH 341', 'ARCH 342', 'ARCH 352', 'ARCH 353']"
+Perrine,John,BIO,14,3.27,3.4,2.93,"['BIO 160', 'BIO 227', 'BIO 327', 'BIO 401']"
+Nic Dhonncha,Soinbhe,MATH,1,4.0,4.0,3.0,['MATH']
+Eckhardt,Christian,CSC,2,4.0,3.5,4.0,['CPE 357']
+Matzke,Aurora,ENGL,2,3.33,3.33,3.33,['ENGL 134']
+Black,Michael,BIO,73,3.31,3.3,3.18,"['BIO 111', 'BIO 121', 'BIO 151', 'BIO 161', 'BIO 375', 'BIO 402', 'MCRO 402', 'BIO 451', 'BIO 452', 'BIO 475', 'BIO 501']"
+Savage,Guy,BUS,2,4.0,4.0,4.0,['BUS 391']
+Hall,Kellie,KINE,13,3.0,3.07,3.14,"['KINE 176', 'KINE 213', 'KINE 250', 'KINE 308', 'KINE 402', 'KINE 404']"
+Peters,Timothy,BUS,15,1.2,1.27,1.4,"['BUS 391', 'BUS 392']"
+Omli,Jens,KINE,12,3.31,3.62,3.46,"['KINE 266', 'KINE 324', 'CD 329']"
+Morrill,Belinda,PSY,77,3.46,3.46,3.41,"['PSY 102', 'PSY 201', 'PSY 202', 'PSY 256', 'PSY 305', 'PSY 318', 'PSY 329', 'PSY 333', 'PSY 340', 'PSY 450']"
+Rawlings,Don,MATH,87,3.12,3.16,2.91,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 206', 'MATH 241', 'MATH 242', 'MATH 244', 'MATH 318', 'MATH 335', 'MATH 336', 'MATH 341', 'MATH 481']"
+Ericson,Leticia,ENGL,3,2.67,3.0,3.0,['ENGL 134']
+Den Otter,Ronald,POLS,34,3.8,3.94,3.74,"['POLS 112', 'POLS 245', 'POLS 331', 'POLS 334', 'POLS 341', 'POLS 343', 'POLS 344']"
+Dakhlia,Lukas,MATH,4,4.0,4.0,3.5,"['MATH 118', 'MATH 161']"
+Pan,Jianbiao,IME,35,2.37,2.21,2.08,"['IME 156', 'IME 157', 'IME 305', 'IME 314', 'IME 326', 'IME 335', 'IME 430', 'IME 458', 'IME 507', 'IME 541']"
+gawthrop,william,PHYS,1,1.5,1.5,1.5,['GEOL 205']
+Magur,Lee,PHYS,12,0.83,0.83,0.83,"['PHYS 104', 'PHYS 121', 'PHYS 123', 'PHYS 132']"
+Dolan,Dale,EE,15,2.12,2.12,2.24,"['EE 201', 'EE 211', 'EE 212', 'EE 255', 'EE 295', 'EE 420']"
+Westermann,Kimberly,BUS,22,2.0,2.43,1.78,"['BUS 424', 'BUS 425']"
+Lehr,Jane,WGS,46,3.21,3.23,3.19,"['ES 112', 'WS 112', 'ES 241', 'WS 301', 'WGS 346', 'ES 350', 'WGS 350', 'WS 350', 'WGS 450']"
+Stevens,Calvin,BUS,20,3.4,3.4,3.35,"['BUS 302', 'BUS 382', 'BUS 386', 'BUS 387', 'BUS 391', 'BUS 471']"
+Vakalis,Ignatios,CSC,27,3.71,3.79,3.64,"['CSC 141', 'CSC 348', 'CSC 400', 'CSC 445']"
+Zetzsche,James,BRAE,11,3.27,3.18,3.18,"['BRAE 141', 'BRAE 142']"
+Kawamura,Lisa,COMS,307,1.77,2.11,1.68,"['CM 101', 'COMS 101', 'SCM 101', 'SPC 101', 'SCM 102', 'SPC 102', 'SCM 110', 'SPC 125', 'SCM 126', 'SPC 126', 'ENGL 134', 'SCM 141', 'SPC 201', 'COMS 208', 'SPC 250']"
+Hickman,Emily,AEPS,2,1.5,1.0,2.0,['BUS 215']
+Ferree,Scott,ENGL,4,3.25,3.0,3.0,"['ENGL 133', 'ENGL 391']"
+Battenburg,John,ENGL,17,3.47,3.63,3.04,"['ENGL 240', 'ENGL 253', 'ENGL 290', 'ENGL 340', 'ENGL 449']"
+Granger,Brian,PHYS,20,0.65,0.65,0.61,"['PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'CSC 301', 'PHYS 302', 'CSC 310']"
+Chandler,Dawn,BUS,17,3.11,3.05,2.95,"['BUS 386', 'BUS 387', 'BUS 489']"
+Garcia,Isabell ,ENGL,3,2.67,2.67,3.0,['ENGL 134']
+Estes,Jason,MATH,37,3.41,3.36,3.28,"['MATH 118', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 221', 'MATH 227', 'MATH 241']"
+Bates,Brian,ENGL,35,3.47,3.68,3.41,"['ENGL 134', 'ENGL 145', 'ENGL 333', 'ENGL 231']"
+Ngayakamo,Blasius,MATE,1,2.0,1.0,4.0,['MATE']
+D'Vignon,India,MU,6,2.56,2.67,2.33,"['MU 101', 'MU 160', 'MU 161']"
+Kuznetsoff,Patricia,ENGL,95,2.32,2.39,2.49,"['ENGL 102', 'ENGL 134', 'ENGL 145', 'ENGL 148', 'ENGL 251', 'ENGL 253', 'ENGL 350']"
+Niebuhr,David,MATE,81,2.31,2.19,2.26,"['CHEM 110', 'CHEM 111', 'PHYS 121', 'PHYS 122', 'CHEM 127', 'PHYS 141', 'CE 204', 'MATE 210', 'MATE 211', 'ME 211', 'MATE 215', 'MATE 230', 'ME 236', 'MATE 340', 'MATE 450', 'ME 212']"
+Schuster,Sonja,BUS,28,3.7,3.7,3.73,"['MATH 104', 'MATH 116', 'MATH 117', 'MATH 118', 'BUS 214', 'MATH 221', 'STAT 251']"
+Mogull,Michael,MATH,15,3.31,3.63,3.38,"['MATH 118', 'MATH 141', 'MATH 143', 'MATH 221', 'MATH 251', 'STAT 251', 'STAT 312']"
+Burt,Charles,BRAE,2,2.67,2.67,2.0,"['BRAE 414', 'BRAE 438']"
+Lugo,Thomas,ENGL,1,4.0,4.0,4.0,['ENGL']
+Hogue,Charlie,MATH,7,0.71,1.43,1.0,"['MATH 141', 'MATH 118']"
+Harding,Trevor,MATE,45,3.12,3.27,3.18,"['MATE 110', 'MATE 120', 'MATE 210', 'MATE 215', 'MATE 222', 'MATE 310']"
+Wilkinson,Steven,CHEM,20,2.85,2.75,2.95,"['CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 128', 'CHEM 313', 'CHEM 371']"
+Haddock,Michelle,AERO,4,2.2,1.8,2.6,['AERO 215']
+Sun,Dennis,STAT,9,3.22,3.44,3.33,"['CSC 301', 'STAT 350']"
+Taskey,Ronald,SS,15,1.88,1.88,1.19,"['SS 120', 'SS 121', 'GEOL 201', 'SS 321', 'SS 440', 'SS 501']"
+Foster,Theodore,PHYS,45,2.95,2.77,2.74,"['PSC 103', 'PHYS 104', 'PHYS 121', 'PHYS 122', 'PHYS 123', 'PHYS 131', 'PHYS 132', 'PHYS 313']"
+Abney,Keith,PHIL,138,2.31,2.61,2.05,"['PHIL 124', 'PHIL 125', 'PHIL 126', 'PHIL 145', 'PHIL 201', 'PHIL 230', 'PHIL 231', 'PHIL 251', 'PHIL 300', 'PHIL 327', 'PHIL 331', 'PHIL 332', 'PHIL 335', 'PHIL 336', 'PHIL 337', 'PHIL 339']"
+Dimitrova,Elena,MATH,6,3.83,3.83,3.83,"['MATH 142', 'MATH 206', 'MATH 202', 'MATH 248']"
+Bermann,James,BRAE,1,2.5,3.0,3.0,['BRAE 301']
+London,Blair,MATE,102,0.99,1.44,0.97,"['MATE 111', 'MATE 210', 'MATE 211', 'MATE 215', 'MATE 220', 'MATE 225', 'MATE 300', 'MATE 310', 'MATE 330', 'MATE 340', 'MATE 350', 'MATE 360', 'MATE 405', 'MATE 440', 'MATE 481', 'MATE 482', 'MATE 510']"
+Jenkins,Ryan,PHIL,31,3.72,3.79,3.86,"['PHIL 126', 'PHIL 231', 'PHIL 322', 'PHIL 323', 'PHIL 342']"
+MacDougall,Neal,AGB,94,1.18,1.35,1.18,"['AGB 212', 'AG 213', 'AGB 213', 'AGB 310', 'AGB 312', 'AGB 313', 'AGB 315', 'AGB 318', 'AGB 369', 'AGB 460', 'AGB 514']"
+Schinck,Amelie,MATH,8,2.25,2.25,2.13,"['MATH 141', 'MATH 227', 'MATH 330', 'MATH 419']"
+Littlefield-Halfman,Carol,LS,7,2.5,2.5,2.63,"['LS 230', 'LS 250']"
+Kwok-Choon,Stephen,ME,2,4.0,3.5,4.0,"['ME 212', 'ME 341']"
+Sakellariou,Nicholas,CSC,12,4.0,4.0,4.0,"['CPE 300', 'CSC 300']"
+Khosmood,Foaad,CSC,15,2.36,2.49,2.05,"['CPE 101', 'CSC 101', 'CSC 171', 'CPE 357', 'CSC 357', 'CPE 453', 'CSC 453', 'CSC 466', 'CSC 480']"
+Ruby,Matthew,DSCI,1,4.0,4.0,4.0,['DSCI 230']
+Kaplan,Robyn,SOC,1,4.0,4.0,4.0,['SOC 110']
+Reynolds,Elizabeth,ASCI,20,2.2,2.05,2.24,"['ASCI 223', 'AG 360', 'ASCI 290']"
+Retallick,Keela,ASCI,11,2.64,2.64,2.36,['ASCI 221']
+Mead,Polly,BUS,5,2.67,2.5,2.67,"['BUS 214', 'BUS 215', 'MU 324']"
+Ryujin,Don,PSY,158,3.8,3.79,3.67,"['PSY 101', 'PSY 102', 'PHYS 201', 'PSY 201', 'PSY 202', 'PSY 217', 'PSY 251', 'PSY 305']"
+Smith,Heather,STAT,110,2.49,2.63,2.46,"['STAT 211', 'STAT 218', 'STAT 221', 'STAT 251', 'STAT 252', 'STAT 312', 'STAT 421', 'STAT 512']"
+Dehghan-Banadaki,Ali,EE,3,4.0,3.67,4.0,"['EE 255', 'EE 228']"
+Foy,Carter,ME,4,4.0,4.0,4.0,['ME 420']
+Hayter,Christopher,ENGL,2,1.0,0.0,2.0,"['ENGL', 'ENGL 145']"
+Clark,Chris,CRP,16,3.75,3.75,3.75,"['CRP 101', 'CRP 212', 'CRP 404', 'CRP 408', 'CRP 412', 'CRP 420', 'CRP 430', 'CRP 535']"
+Krishnan,Ramasubramian,BUS,4,2.8,2.2,3.2,['BUS 346']
+Barnes,Damien,PHIL,5,4.0,4.0,4.0,"['PHIL 126', 'PHIL 230']"
+Stern,Stephen,BUS,43,3.65,3.58,3.6,"['BUS 207', 'JOUR 302', 'BUS 404']"
+Beck,Lauren,ISLA,1,3.0,3.0,3.0,['ISLA']
+Kaul,Anton,MATH,145,3.58,3.64,3.46,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 206', 'MATH 224', 'MATH 241', 'MATH 244', 'MATH 248', 'MATH 306', 'MATH 406', 'MATH 459', 'MATH 481', 'MATH 482']"
+Elangovan,Samy,CHEM,6,0.5,0.33,0.5,"['CHEM 312', 'CHEM 127', 'CHEM 124']"
+Vilkitis,James,NR,34,1.0,1.24,0.89,"['FNR 140', 'FNR 306', 'FNR 321', 'FNR 416', 'FNR 425', 'FNR 465']"
+Hamilton,Stephen,ECON,43,3.45,3.4,3.5,"['ECON 201', 'ECON 221', 'ECON 310', 'ECON 311', 'ECON 403', 'ECON 431', 'ECON 432']"
+King,Neal,BUS,5,1.6,1.6,0.8,"['BUS 391', 'BUS 392']"
+Staley,Clint,CSC,209,2.31,2.5,2.16,"['CPE 101', 'CSC 101', 'CSC 102', 'CPE 108', 'CSC 108', 'CPE 109', 'CSC 109', 'CSC 234', 'CSC 303', 'CPE 305', 'CSC 305', 'CPE 349', 'CSC 349', 'CPE 357', 'CSC 357', 'CPE 365', 'CSC 365', 'CPE 435', 'CSC 435', 'CSC 490']"
+White,Morgan,ENGL,1,4.0,4.0,4.0,['ENGL']
+Labhard,Leslie,ITP,3,3.0,3.25,3.5,"['IT 336', 'IT 341']"
+Howe,Patrick,JOUR,11,2.15,2.08,2.0,"['JOUR 285', 'JOUR 350', 'JOUR 352', 'JOUR 390', 'JOUR 401']"
+Hiltpold,Paul,HIST,103,2.94,3.07,2.83,"['HIST 110', 'HIST 210', 'HIST 215', 'HIST 306', 'HIST 315', 'HIST 347', 'HIST 348', 'HIST 415', 'HIST 441', 'HIST 453', 'HIST 500']"
+Whitt,Joe,COMS,6,4.0,4.0,4.0,['COMS 101']
+Forte,Mary,ENGL,62,3.09,3.29,3.14,"['ENGL 134', 'ENGL 148', 'ENGL 149', 'HNRS 149', 'ENGL 218', 'ENGL 310']"
+Mackin,Thomas,ME,23,3.04,2.92,3.46,"['ME 211', 'ME 212', 'ME 328', 'ME 329']"
+Lewis,Mark,COMS,3,2.5,2.25,1.75,['SPC 201']
+Hurley,Sean,AGB,47,2.85,3.13,2.74,"['AGB 212', 'AGB 260', 'AGB 313', 'AGB 321', 'AGB 322', 'AGB 328', 'AGB 435', 'AGB 461']"
+Hannig,Steve,BRAE,1,4.0,4.0,4.0,['BRAE']
+Bailey,Jr.,CHEM,6,2.71,3.0,2.57,"['CHEM 316', 'CHEM 317', 'CHEM 318']"
+Anderson,Paul,CSC,2,3.0,3.0,3.0,"['CSC 466', 'CSC 448']"
+Draze,Michael,CRP,1,1.0,0.5,0.5,['CRP 430']
+Lema,Sean,BIO,33,3.09,3.23,3.18,"['BIO 161', 'BIO 243', 'BIO 263', 'BIO 328', 'MSC 328']"
+Noori,Mohammad,ME,34,2.86,2.84,2.86,"['ME 211', 'ME 318']"
+Carver,Michael,HIST,55,3.97,3.97,3.97,"['HIST 102', 'HIST 201', 'HIST 202', 'HIST 336']"
+Morey,Kris,FSN,4,2.0,2.2,1.6,"['FSN 328', 'FSN 415']"
+Stewart,Sarah,ASCI,1,3.0,3.0,2.0,['ASCI']
+Johnston,Liz,SOC,42,2.07,2.05,2.37,"['SOC 101', 'SOC 110', 'SOC 111', 'SOC 301', 'SOC 306', 'SOC 326', 'SOC 413']"
+Wiley,Keith,ARCH,28,3.58,3.39,3.43,"['ARCH 101', 'ARCH 105', 'EDES 112', 'ARCH 121', 'ARCH 131', 'ARCH 132', 'ARCH 133', 'ARCH 160', 'ARCH 251', 'ARCH 252']"
+Sendi,Chokri,AERO,3,2.33,2.33,2.0,"['AERO 121', 'AERO 220', 'AERO 300']"
+Rodgers,Julie,PSY,4,3.5,3.5,3.5,"['PSY 320', 'PSY 465']"
+McKinstry,John,SOC,61,2.84,2.77,2.66,"['SOC 105', 'SOC 110', 'HIST 213', 'HUM 310', 'SOC 310', 'SOC 315', 'SOC 325', 'SOC 350']"
+Denel,Serim,ARCH,11,2.17,2.25,2.08,"['ARCH 217', 'ARCH 218', 'ARCH 317', 'ARCH 319', 'ARCH 351', 'ARCH 352']"
+Hamilton,Scott,ENGL,4,3.0,3.0,3.0,['ENGL 145']
+Marlow,Mike,ECON,124,2.73,2.85,2.42,"['ECON 201', 'ECON 221', 'ECON 222', 'ECON 311', 'ECON 410', 'ECON 424', 'ECON 464', 'GSB 500', 'GSB 523', 'GSB 533']"
+Brown,Peter,CRP,5,1.17,2.17,1.83,"['CRP 214', 'CRP 215']"
+Sena,James,BUS,53,1.65,1.5,1.63,"['BUS 371', 'BUS 382', 'BUS 390', 'BUS 391', 'BUS 401', 'MIS 422', 'MIS 435', 'BUS 496', 'BUS 498', 'IT 520', 'GSB 522']"
+Blum,Michael,GRC,5,2.75,3.5,3.25,"['GRC 202', 'GRC 338', 'GRC 429']"
+Mello,Joe,ME,41,3.34,3.39,3.27,"['BIO 111', 'ME 128', 'ME 210', 'ME 211', 'ME 212', 'ME 328', 'ME 329', 'ME 412']"
+Porter,Todd,POLS,3,4.0,3.33,4.0,"['POLS 245', 'POLS 111']"
+Lewis,Jennifer,SOC,117,3.42,3.43,3.25,"['ANT 101', 'ANT 201', 'SOC 201', 'SOC 202', 'ANT 250', 'ANT 302', 'ANT 360', 'SOC 360', 'ANT 415']"
+Langner,Carrie,PSY,16,3.24,3.29,3.12,"['PSY 252', 'PSY 256', 'PSY 352', 'PSY 360']"
+Retsek,Jennifer,CHEM,124,3.4,3.44,3.36,"['CHEM 111', 'CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 128', 'CHEM 129', 'CHEM 142']"
+Raja,Majid,ITP,4,2.5,2.25,2.5,['IT 371']
+Lawson,John,ARCE,3,3.6,3.2,3.4,"['ARCE 211', 'ARCE 422']"
+Abi-Ghanem,Rita,SS,2,1.5,2.5,1.0,['SS 120']
+Garcia-Lemus,Mary,PSY,36,3.3,3.35,3.38,"['CD 203', 'EDUC 207', 'PSY 252', 'PSY 256', 'PSY 323', 'PSY 333', 'PSY 413', 'CD 417', 'PSY 417']"
+Avey,Renny,AGB,15,3.81,3.75,3.63,"['AGB 212', 'AGB 310', 'AGB 324']"
+Engle,Patricia,WGS,6,1.0,0.86,1.57,"['WS 311', 'PSY 329', 'ENVE 350']"
+Neill,Stern,BUS,22,3.37,3.24,3.33,"['BUS 342', 'BUS 346', 'BUS 413', 'BUS 418', 'BUS 446']"
+Hawkins,Benjamin,EE,1,4.0,4.0,4.0,['BMED']
+Hogue,Kathleen,MATH,2,3.0,3.0,3.0,"['MATH', 'MATH 142']"
+Harding,Sarah,ME,23,2.87,2.79,2.64,"['ME 128', 'ME 134', 'ME 229', 'ME 234', 'ME 240']"
+Callenes-Sloan,Joseph,CPE,3,3.0,2.0,3.0,"['CPE 333', 'CPE 133']"
+Pulse,Eric,IME,13,3.42,3.26,3.48,"['IME 143', 'IME 145', 'IME 146', 'ME 111']"
+Williams,Kendra,PSY,18,3.83,3.83,3.78,"['PSY 256', 'CD 306', 'PSY 306', 'SOC 306', 'PSY 323', 'PSY 329', 'PSY 370', 'PSY 405']"
+Giron,Frank,STAT,8,1.62,1.25,2.13,"['STAT 217', 'STAT 312']"
+Velasquez,Maria,MATH,6,1.0,1.0,0.83,"['MATH 143', 'MATH 244']"
+Hawk,Susan,FSN,10,3.0,3.27,2.64,"['FSN 210', 'FSN 429']"
+Williams,Barry,ARCH,2,4.0,3.5,3.5,"['ARCH 451', 'ARCH 481']"
+Alvarez,Francisco ,MATH,2,3.5,3.5,3.0,"['MATH 142', 'MATH 244']"
+Smilkstein,Tina,EE,32,2.36,2.18,2.51,"['CPE 129', 'EE 229', 'CPE 269', 'EE 269', 'EE 307', 'EE 308', 'EE 347', 'EE 348', 'EE 431', 'CPE 133', 'CPE 229']"
+Tseng,Marilyn,FSN,35,1.92,2.06,1.92,"['FSN 255', 'KINE 255', 'KINE 298', 'HLTH 298']"
+Hauck,Allan,CM,3,1.8,2.0,2.2,['CM 332']
+Harper,Louis,AEPS,4,3.0,2.33,2.33,"['CRSC 131', 'CRSC 331']"
+Kantorowski,Eric,CHEM,48,3.57,3.64,3.45,"['CHEM 216', 'CHEM 217', 'CHEM 218', 'CHEM 312', 'CHEM 316', 'CHEM 317', 'CHEM 318', 'CHEM 326', 'CHEM 470']"
+Carlson,Cassandra,COMS,14,3.69,3.63,3.63,"['COMS 101', 'COMS 312', 'COMS 316', 'COMS 322', 'COMS 470']"
+Aleksandrov,Tsvetan,CHEM,3,1.0,0.0,2.0,"['CHEM 129', 'CHEM 128']"
+Arredondo,Rodrigo,ASCI,15,1.82,1.36,1.51,"['ASCI 220', 'ASCI 229', 'ASCI 363', 'ASCI 351']"
+Saliklis,Edmond,ARCE,22,2.55,2.32,2.59,"['ARCH 131', 'ARCE 133', 'ARCH 133', 'ARCE 212', 'ARCE 223', 'ARCE 225', 'ARCE 226', 'ARCE 260', 'ARCE 316', 'ARCE 412']"
+McKay,Ian,PHIL,20,3.29,3.57,3.14,['PHIL 126']
+Cohen,Stephen,ENGL,7,3.25,3.25,3.25,"['ENGL 134', 'ENGL 145']"
+Fisher,Eric,ECON,95,2.29,2.27,2.08,"['ECON 101', 'ECON 201', 'ECON 202', 'ECON 222', 'ECON 330', 'ECON 333', 'ECON 337', 'ECON 339', 'ECON 401', 'ECON 404', 'ECON 405', 'ECON 460']"
+Bartlett,Sara,PSY,7,3.26,3.64,3.77,"['PSY 318', 'SOC 326', 'PSY 310']"
+Leckie,Morgan,ENGL,5,3.5,3.17,3.5,"['ENGL 134', 'ENGL 145']"
+Kato,Goro,MATH,193,3.09,3.03,2.94,"['MATH 112', 'MATH 118', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 241', 'MATH 243', 'MATH 244', 'MATH 248', 'MATH 341']"
+Schuster,Peter,ME,33,2.88,2.82,2.82,"['PHYS 132', 'ME 211', 'ME 234', 'ME 328', 'ME 329', 'ME 401', 'ME 404', 'ME 428', 'ME 502', 'ME 504']"
+Busselen Jr.,Harry,PSY,26,1.65,1.54,1.65,"['PSY 103', 'SOC 105', 'MATH 110', 'PSY 110', 'SOC 110', 'SCM 112', 'SOC 301', 'SOC 306']"
+Davidson,Benjamin,BIO,2,0.33,1.0,0.33,['BIO 263']
+Cengel,Katya,JOUR,5,2.33,2.17,2.67,"['JOUR 203', 'JOUR 219', 'JOUR 401']"
+Thomas,Jafra,KINE,1,2.0,1.0,2.0,['KINE']
+Patchell,Thomas,ENGL,3,2.25,1.5,1.75,"['ENGL 134', 'ENGL 145']"
+Hatch,Ryan,ENGL,14,3.19,3.56,3.19,"['ENGL 202', 'ENGL 253', 'ENGL 349', 'ENGL 352']"
+Tejani,James,HIST,43,3.7,3.79,3.75,"['HIST 201', 'HIST 207', 'HIST 208', 'HIST 227', 'HIST 321', 'HIST 406', 'HIST 440']"
+Iscold,Paulo,AERO,1,4.0,4.0,4.0,['AERO']
+Hodges,Corbin,BIO,19,1.36,1.64,1.36,"['BIO 213', 'BIO 227', 'BIO 325']"
+Jewell,Paige,AERO,1,4.0,4.0,4.0,['AERO']
+McDonald,Rob,AERO,9,1.91,2.18,2.0,"['AERO 425', 'AERO 443', 'AERO 480', 'AERO 517']"
+Lynch,Joe,PHIL,118,2.43,2.38,2.27,"['PHIL 125', 'PHIL 230', 'PHIL 231', 'PHIL 232', 'RELS 305', 'PHIL 307', 'RELS 307', 'PHIL 320', 'PHIL 321', 'PHIL 342', 'PHIL 422']"
+Eisworth,Ron,EE,10,3.58,3.58,3.75,"['CPE 129', 'CSC 129', 'EE 129', 'CPE 169', 'EE 241', 'EE 242', 'EE 361']"
+Waldorf,Dan,IME,15,3.13,3.4,3.07,"['IME 144', 'IME 241', 'IME 251', 'IME 314', 'IME 330', 'IME 335', 'IME 336', 'IME 341', 'IME 352', 'IME 435', 'IME 450']"
+Pedone,Margaret,ARCH,11,3.75,3.33,3.58,"['ARCH 131', 'ARCH 241', 'ARCH 251', 'ARCH 252']"
+Dicus,Christopher,NR,35,1.86,2.0,1.77,"['FNR 204', 'AERO 208', 'FNR 208', 'FNR 307', 'FNR 308', 'FNR 312', 'FNR 339', 'FNR 340', 'FNR 400', 'FNR 455']"
+Lowell,Carol,PHYS,35,3.72,3.64,3.78,"['CHEM 106', 'PHYS 106', 'CHEM 110', 'CHEM 111', 'PSC 304']"
+Swanson,Katherine,DSCI,1,3.0,4.0,4.0,['DSCI']
+Debernardi,Kyle,IME,2,4.0,4.0,4.0,['IME 146']
+Tolin,Jeffrey,BUS,21,3.05,2.95,3.0,"['BUS 320', 'BUS 410', 'GSA 538', 'GSA 550']"
+Regan,Anne,ENGL,60,2.42,2.41,2.46,"['ENGL 134', 'ENGL 148', 'ENGL 149', 'ENGL 210', 'ENGL 310', 'ENGL 147']"
+Smith,Daniel,ENGL,17,3.44,3.39,3.22,"['ENGL 134', 'ENGL 387']"
+Macro,Ken,GRC,29,3.83,3.9,3.87,"['GRC 101', 'GRC 204', 'GRC 324', 'GRC 361', 'GRC 421', 'GRC 472']"
+Shollenberger,Kim,ME,35,2.97,2.91,2.88,"['ME 236', 'ME 302', 'ME 313', 'ME 341', 'ME 343', 'ME 344', 'ME 347', 'ME 554']"
+Keefer,Heather,FSN,1,4.0,4.0,4.0,['FSN']
+Echols,Sean,PHYS,54,2.41,2.45,2.24,"['PHYS 122', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 211', 'PHYS 341']"
+Hart,Marion,SPAN,12,3.23,3.08,3.31,"['SPAN 233', 'SPAN 305', 'HUM 310']"
+Lupo,Christopher,CPE,18,3.64,3.45,3.55,"['CPE 101', 'CPE 315', 'CPE 357', 'CPE 458', 'CPE 520']"
+Saghri,John,EE,63,1.81,1.79,1.49,"['EE 112', 'CPE 129', 'EE 201', 'EE 211', 'EE 212', 'CPE 215', 'AERO 219', 'CPE 219', 'EE 228', 'EE 241', 'EE 242', 'EE 251', 'CPE 259', 'EE 314', 'CPE 319', 'EE 328', 'EE 342', 'EE 424']"
+Weisenthal,Howard,ARCH,46,2.67,2.72,2.54,"['ARCH 106', 'ENGL 148', 'ARCH 241', 'ARCH 242', 'ARCH 251', 'ARCH 252', 'ARCH 253']"
+Oliver,John,CPE,2,4.0,4.0,4.0,"['CPE 350', 'CPE 100']"
+Hoellwarth,Chance,PHYS,47,1.59,1.61,1.48,"['PHYS 101', 'PSC 101', 'PHYS 121', 'PHYS 125', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 206']"
+Salam,MD,EE,2,3.0,2.5,4.0,"['EE 201', 'EE 251']"
+Seiver,Daniel,ECON,73,2.25,2.33,1.99,"['ECON 122', 'ECON 221', 'ECON 222', 'ECON 313', 'ECON 337', 'ECON 405']"
+Menon,Unny,IME,8,3.67,3.56,3.44,"['IME 223', 'IME 418', 'IME 421', 'IME 455']"
+Little,William,SPAN,9,2.93,3.64,2.93,"['SPAN 121', 'SPAN 124', 'SPAN 233']"
+Lindahl,Solina,ECON,262,2.4,2.14,2.52,"['ECON 111', 'ECON 201', 'ECON 221', 'ECON 222', 'ECON 241', 'ECON 252', 'ECON 303', 'ECON 304', 'BUS 523', 'GSB 523']"
+Muleta,Misgana,CE,8,3.44,3.33,3.22,"['CE 336', 'CE 337', 'CE 434', 'CE 435', 'CE 440']"
+Cheng,Nianpin,ITP,18,2.03,1.79,2.22,"['STAT 251', 'IME 301', 'IME 305', 'STAT 312', 'IT 332', 'IME 405', 'IT 410']"
+Haynes,Taylor,CHEM,26,1.85,1.44,1.96,"['CHEM 124', 'CHEM 125', 'CHEM 128', 'CHEM 312']"
+Williams,Jean,POLS,20,3.2,3.2,3.25,"['POLS 180', 'WS 301', 'POLS 310', 'POLS 338', 'POLS 345', 'POLS 360', 'POLS 419', 'POLS 470', 'POLS 481']"
+Mitchell,David,PHYS,64,3.5,3.53,3.49,"['ASTR 101', 'PHYS 101', 'PSC 101', 'ASTR 102', 'PHYS 102', 'PSC 102', 'PHYS 103', 'PSC 103', 'PHYS 121', 'PHYS 122', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 201', 'ASTR 301']"
+Phillips,Stephen,ARCH,28,3.25,3.5,3.04,"['ARCH 217', 'ARCH 351', 'ARCH 420', 'ARCH 451', 'ARCH 452', 'ARCH 481']"
+Perello,Chris,BUS,132,3.57,3.57,3.35,"['BUS 204', 'BUS 207', 'BUS 208', 'BUS 308', 'BUS 404', 'BUS 578']"
+Silvestri,Michael,CHEM,38,3.06,2.89,3.06,"['CHEM 212', 'CHEM 216', 'CHEM 217', 'CHEM 316', 'CHEM 317', 'CHEM 319']"
+Franchi,Daniel,IME,9,3.56,3.64,3.64,"['IME 314', 'IME 409', 'IME 315']"
+Carver,Jennifer,BUS,2,1.67,2.0,2.0,['BUS 207']
+Dang,Li,BUS,44,2.53,2.53,2.6,"['BUS 214', 'BUS 215', 'BUS 319', 'BUS 321', 'BUS 323']"
+Jones,Brian,MATH,30,3.78,3.85,3.82,"['CPE 101', 'CPE 103', 'MATH 118', 'CPE 202', 'MATH 221', 'CSC 430', 'CSC 248']"
+Plummer,William,ASCI,30,1.32,1.1,1.16,"['ASCI 112', 'ASCI 229', 'ASCI 351', 'ASCI 363', 'ASCI 477']"
+Ball,Stephen,PHIL,108,2.88,2.67,2.54,"['PHIL 231', 'PHIL 311', 'PHIL 330', 'PHIL 331', 'PHIL 333', 'PHIL 335']"
+Belsher,John,BUS,2,3.0,3.0,3.0,['BUS 409']
+Green,Sean,ENGL,34,3.53,3.64,3.36,"['ENGL 134', 'ENGL 145', 'ENGL 149']"
+Davol,Andrew,ME,34,3.57,3.51,3.43,"['ME 134', 'ME 151', 'ME 211', 'ME 212', 'ME 318', 'ME 328', 'ME 329', 'ME 404', 'ME 441']"
+Freeby,Brent,ARCH,29,3.3,3.33,3.03,"['ARCH 105', 'ARCH 121', 'ARCH 123', 'ARCH 130', 'ARCH 131', 'ARCH 132', 'ARCH 133', 'ARCH 160', 'ARCH 353']"
+Russak,Justin,CHEM,20,1.86,1.76,1.71,"['CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 128', 'CHEM 312']"
+Marshall,David,AERO,17,2.06,2.56,1.94,"['AERO 300', 'AERO 301', 'AERO 303', 'AERO 304', 'AERO 306', 'AERO 405', 'AERO 525']"
+Alptekin,Sema,IME,8,1.88,1.88,1.75,"['IME 101', 'HNRS 321', 'CE 375', 'IME 420', 'IME 462', 'IME 545']"
+DiSanto,Tom,ARCH,16,3.11,3.11,3.06,"['EDES 113', 'ARCH 251', 'ARCH 252', 'ARCH 253', 'ARCH 343', 'EDES 408', 'ARCH 453']"
+Backus,Laura,ASCI,3,4.0,4.0,4.0,['ASCI 229']
+Montakhab,Afshin,PHYS,12,1.67,1.41,1.66,['PHYS 141']
+Mastoridis,Themistoklis,PHYS,14,3.25,3.19,3.25,"['PHYS 133', 'PHYS 141']"
+Multari,Michael,CRP,6,3.43,3.43,3.29,"['CRP 213', 'CRP 315']"
+Carrigan,Coleen,SOC,22,2.83,3.09,2.7,"['ANT 101', 'ANT 201', 'SOC 201', 'WGS 350']"
+Schaffner,Andrew,STAT,63,3.05,3.18,3.08,"['STAT 218', 'STAT 251', 'STAT 252', 'STAT 324', 'STAT 350', 'STAT 426', 'STAT 430', 'STAT 462', 'STAT 513']"
+Behrouzi,Anahid,ARCE,3,4.0,4.0,4.0,"['ARCE 212', 'ARCE 371']"
+Baltimore,Craig,ARCE,39,2.05,2.24,1.97,"['ARCE 211', 'ARCE 212', 'ARCE 222', 'ARCE 223', 'ARCE 305', 'ARCE 306', 'ARCE 315', 'ARCE 321', 'ARCE 322', 'ARCE 444', 'ARCE 226']"
+Donegan,Lorraine,GRC,14,2.81,2.94,2.5,"['GRC 203', 'GRC 218', 'GRC 339', 'GRC 440']"
+Keese,Jim,GEOG,1,2.0,2.0,2.0,['GEOG']
+Ahmed,Deif,AERO,10,2.67,2.75,2.67,"['BUS 304', 'IT 371', 'IT 403', 'IT 410', 'IT 415', 'GSB 534']"
+Sanford,Jesse,EDUC,1,4.0,4.0,4.0,['EDUC']
+Sandwick ,Ryan ,LA,1,3.0,2.0,0.0,['LA']
+Khan,Omar,CE,1,4.0,4.0,4.0,['CE']
+Miklowitz,Paul,PHIL,92,2.59,2.68,2.39,"['HNRS 230', 'PHIL 230', 'PHIL 231', 'PHIL 315', 'HUM 335', 'PHIL 457']"
+Laursen,Peter,ARCE,6,3.57,3.43,3.29,"['ARCE 211', 'ARCE 212', 'ARCE 223', 'ARCE 306', 'ARCE 412']"
+Settle,Allen,POLS,116,1.89,1.69,1.86,"['POLS 110', 'POLS 111', 'POLS 112', 'POLS 210', 'POLS 236', 'POLS 321', 'POLS 341', 'POLS 471']"
+Hall,Roger,HIST,33,3.39,3.48,3.2,"['HIST 201', 'HIST 202', 'HIST 320']"
+Sean,Maddox,ENGL,27,3.14,3.0,3.24,"['ENGL 134', 'ENGL 141', 'ENGL 145', 'ENGL 149']"
+Berrio,Mark,ARCE,8,2.33,2.78,2.22,"['ARCE 221', 'ARCE 222', 'ARCE 225', 'ARCE 323']"
+Hisham,Assal,CSC,17,2.85,2.43,3.06,"['CPE 101', 'CSC 101', 'CPE 102', 'CSC 102', 'CSC 141', 'CPE 203', 'CSC 480', 'CSC 481', 'CSC 487']"
+Hsieh,Carl,CE,5,2.0,2.0,2.0,"['CE 259', 'ARCE 333', 'CE 351', 'CE 355', 'CE 453']"
+Kennelly,Brian,FR,46,2.58,2.8,2.56,"['FR 101', 'FR 102', 'FR 103', 'FR 122', 'FNR 201', 'FR 201', 'FR 202', 'FR 203', 'FR 233', 'FR 305', 'HUM 310', 'FR 350']"
+Jipson,Jennifer,PSY,25,3.38,3.5,3.27,"['CD 102', 'CD 201', 'CD 208', 'CD 209', 'CD 256', 'PSY 256', 'CD 304', 'CD 324', 'CD 329', 'CD 350', 'CD 462']"
+Patel,Pratish,BUS,27,2.43,2.36,2.21,"['TH 407', 'BUS 434', 'BUS 435', 'BUS 441', 'BUS 442']"
+Ajaib,Muhammad,PHYS,7,2.89,2.89,2.67,"['PHYS 121', 'PHYS 141', 'PHYS 142']"
+Woolley,Julia,COMS,11,3.18,3.27,3.18,"['COMS 101', 'COMS 218', 'COMS 419']"
+Morgan,Donna,MATH,3,3.4,3.2,3.2,['MATH 104']
+Frem,Leonardo,EE,1,2.5,2.0,2.0,['EE 151']
+Schalk,Vidya,MATE,18,0.94,1.01,1.29,"['MATE 210', 'BRAE 348', 'CHEM 127', 'CHEM 110', 'CHEM 124', 'BRAE 345']"
+Chan,Lauren,BIO,2,4.0,4.0,4.0,"['BIO 263', 'BIO 363']"
+Berning,Leanne,DSCI,42,3.89,3.85,3.89,"['DSCI 230', 'DSCI 231', 'DSCI 301', 'DSCI 321']"
+Valle,Philip,TH,87,2.97,2.99,2.8,"['TH 110', 'TH 201', 'TH 210', 'TH 227', 'TH 228', 'TH 360', 'HNRS 299']"
+callow,virginia,IME,36,2.12,1.97,2.15,"['IME 223', 'IME 314', 'IME 319', 'IME 320', 'IT 371', 'IME 410', 'IME 418', 'IME 443', 'IME 315']"
+Mehl,Martin,COMS,277,2.5,2.52,2.53,"['CM 101', 'COMS 101', 'SCM 101', 'SPC 101', 'SCM 102', 'SPC 102', 'COMS 126', 'SCM 126', 'SPC 126', 'SPC 129', 'COMS 131', 'SPC 146', 'SPC 201']"
+Abel,Christina,CHEM,28,3.22,3.35,3.27,"['CHEM 124', 'CHEM 125', 'CHEM 127']"
+Keim,Nathan,PHYS,18,2.05,1.86,1.95,"['PHYS 132', 'PHYS 133', 'PHYS 206']"
+Laver,Gary,PSY,37,2.3,2.35,2.08,"['PSY 201', 'PSY 202', 'PSY 210', 'PSY 333', 'PSY 432', 'PSY 457']"
+Arceneaux,Craig,POLS,52,3.13,3.22,2.81,"['POLS 215', 'POLS 225', 'POLS 229', 'POLS 285', 'POLS 308', 'POLS 324', 'POLS 325', 'POLS 328', 'POLS 338', 'POLS 339', 'POLS 381', 'POLS 482']"
+Planck,John,CPE,32,2.69,2.51,2.83,"['CPE 225', 'CSC 225', 'CPE 315', 'EE 449', 'CPE 357']"
+White,Matt,MATH,107,3.39,3.35,3.42,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 144', 'MATH 161', 'MATH 162', 'MATH 206', 'MATH 241', 'MATH 242', 'MATH 244', 'MATH 248', 'MATH 304', 'MATH 306', 'MATH 317', 'MATH 318', 'MATH 344', 'MATH 406']"
+Easton,Robert,MATH,73,3.82,3.8,3.81,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 206', 'MATH 241', 'MATH 244', 'MATH 306', 'MATH 341', 'MATH 344', 'MATH 481']"
+Amspacher,William,AGB,22,2.42,2.33,2.38,"['AGB 212', 'AGB 213', 'AGB 313', 'AGB 421', 'AGB 422', 'AGB 423', 'WS 423', 'AGB 435', 'AGB 444', 'AGB 450', 'AGB 463', 'EDUC 498']"
+Burleson,James,BUS,25,3.22,3.33,2.78,"['BUS 291', 'BUS 391', 'BUS 394']"
+Kirk,Daniel,ENGL,43,2.85,2.91,2.49,"['ENGL 114', 'ENGL 134', 'ENGL 145']"
+Jacobs,Nicole,ENGL,17,2.53,2.67,2.3,"['WGS 201', 'ENGL 230', 'ENGL 231', 'WGS 301', 'ENGL 339', 'ENGL 145']"
+Mackey,Alison,BUS,8,2.53,2.32,2.54,['BUS 401']
+Hall,Garrett,CE,63,3.14,3.12,3.21,"['CE 204', 'CE 205', 'CE 207', 'CE 251', 'CE 259', 'CE 351', 'CE 355', 'CE 406', 'CE 407', 'CE 501']"
+Gotsick,Jonathan,ENGL,43,3.81,3.72,3.77,"['ENGL 134', 'ENGL 145', 'ENGL 149']"
+Lee,Starr,BUS,1,2.5,3.0,2.0,['BUS 207']
+Theobold,Allison,STAT,1,4.0,4.0,4.0,['STAT']
+Gerbasi,Suzanne,COMS,28,3.42,3.42,3.35,"['COMS 101', 'COMS 102', 'COMS 201']"
+Archer,Graham,ARCE,41,1.74,2.06,1.64,"['ARCE 211', 'ARCE 212', 'ARCE 221', 'ARCE 223', 'ARCE 226', 'ARCE 227', 'ARCE 302', 'ARCE 304', 'ARCE 305', 'ARCE 306', 'ARCE 322', 'ARCE 371', 'ARCE 483', 'ARCE 502']"
+Silver,Rodney,BUS,2,1.0,0.5,0.5,['BUS 455']
+Clarkson,Anton,EE,7,3.25,3.25,3.5,['CPE 169']
+McDonald-Liu,Casey,JOUR,2,4.0,4.0,4.0,['JOUR 218']
+Kaney,Jim,BUS,64,3.18,3.25,3.06,"['BUS 212', 'BUS 214', 'BUS 215', 'BUS 319', 'BUS 321', 'BUS 342', 'BUS 440']"
+Maples,Rebekah,ENGL,25,3.82,3.91,3.86,"['ENGL 134', 'ENGL 145', 'ENGL 147']"
+Himelblau,Edward,BIO,70,3.57,3.58,3.57,"['BIO 161', 'BIO 162', 'BIO 302', 'BIO 351', 'BIO 475', 'BIO 570']"
+Jones,Cameron,HIST,44,3.6,3.68,3.65,"['HIST 201', 'HIST 213', 'HIST 214', 'HIST 222', 'HIST 308', 'HIST 337', 'HIST 420']"
+Genereux,Douglas,AGB,5,2.0,1.8,2.4,"['AGB 101', 'AGB 317']"
+Battista,Claire,ECON,207,1.75,1.95,1.68,"['ECON 201', 'ECON 222', 'BUS 303', 'DSCI 303', 'ECON 303', 'BUS 337', 'ECON 337', 'ECON 339', 'ECON 401', 'ECON 413']"
+Harlan,Craig,HIST,132,2.76,2.9,2.66,"['HIST 202', 'HIST 204', 'HIST 207', 'HIST 210', 'HIST 217', 'HIST 304', 'HIST 323', 'HIST 324', 'HIST 439']"
+Kazerouni,Ayaan,CSC,10,4.0,3.81,4.0,"['CPE 203', 'CSC 313', 'CSC 123', 'CSC 513']"
+Popescu,Radu,ARCE,3,2.33,2.33,2.0,"['ARCE 211', 'ARCE 302']"
+Biering,Ruth,BUS,4,1.67,1.83,1.0,"['BUS 207', 'BUS 404']"
+Doyle,Alicia,MU,1,4.0,4.0,4.0,['MU']
+Famalett,George,GSA,1,2.0,1.5,1.5,['GSA 537']
+Burlingame,Michael,BRAE,4,1.33,1.67,1.67,"['BRAE 133', 'BRAE 152']"
+Fitzhenry,Bill,ENGL,68,3.9,3.84,3.84,"['ENGL 203', 'ENGL 204', 'ENGL 215', 'ENGL 230', 'ENGL 238', 'ENGL 251', 'JPNS 268', 'ENGL 302', 'ENGL 320', 'ENGL 330', 'ENGL 331', 'ENGL 339', 'ENGR 339', 'ENGL 439']"
+LaPorte,Mary,ART,18,1.45,1.45,1.55,"['ART 101', 'ART 232', 'ART 332', 'ART 333', 'ART 334', 'ART 338', 'ART 400', 'ART 432', 'ART 435', 'ART 437']"
+Carico,David,PHYS,14,2.94,3.0,2.69,"['ASTR 101', 'PHYS 131', 'PHYS 132', 'PHYS 211']"
+Greenbaum,Bruce,BUS,7,3.38,3.38,3.38,"['REC 317', 'BUS 401', 'GSB 562']"
+Mulhall,Declan,PHYS,17,2.95,2.63,2.89,"['PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 302']"
+Widmann,James,ME,24,2.98,3.05,2.83,"['ME 211', 'ME 212', 'ME 318', 'ME 326', 'ME 329', 'ME 428']"
+Hasse,Andrew,MATH,1,1.0,0.0,0.0,['MATH']
+Brown,Terran,STAT,11,1.23,1.38,1.23,"['STAT 251', 'STAT 252']"
+Savage,Richard,MATE,22,3.57,3.52,3.65,"['MATE 210', 'MATE 340', 'BMED 436', 'MATE 510']"
+Leithner,Anika,POLS,83,3.42,3.4,3.55,"['POLS 111', 'POLS 131', 'POLS 180', 'POLS 225', 'POLS 324', 'POLS 339', 'POLS 380', 'POLS 382', 'POLS 383', 'POLS 420', 'POLS 428', 'POLS 308']"
+Hamachi,Leslie,CHEM,3,3.33,3.33,2.67,['CHEM 124']
+Kathuria,Ajay,ITP,13,2.67,2.53,2.53,"['GSA 111', 'IT 341']"
+Will,Elizabeth,SS,31,2.56,2.75,2.22,"['SS 101', 'SS 121', 'SS 422']"
+Harris,John,NR,30,1.22,1.47,1.22,"['FNR 101', 'FNR 208', 'FNR 232', 'FNR 311', 'REC 315', 'FNR 323', 'FNR 335']"
+Zhan,Yongcheng,BUS,1,4.0,4.0,4.0,['BUS']
+Leyton,Michael,PHYS,3,3.67,3.67,3.33,['PHYS 132']
+Moody,Lynn,SS,29,3.13,3.0,3.03,"['SS 121', 'ES 144', 'GEOL 201', 'GEOL 223', 'SS 223', 'SS 321']"
+Friend,Kathleen,LS,39,1.57,1.45,1.43,"['LS 230', 'LS 270', 'LS 311', 'LS 461']"
+Meisenheimer,Lester,CHEM,16,3.71,3.82,3.71,"['CHEM 124', 'CHEM 125', 'PSY 305', 'CHEM 327']"
+Ho,Damen,ARCE,13,2.47,2.33,2.53,"['ARCE 211', 'ARCE 221', 'ARCE 222', 'ARCE 351']"
+Wilson,Jonathan,HIST,226,3.77,3.82,3.66,"['HIST 123', 'HIST 201', 'HIST 204', 'HIST 206', 'HIST 207', 'HIST 208', 'HIST 210', 'HIST 211', 'LS 211', 'HIST 214', 'LS 214', 'HIST 227']"
+Floyd,Barry,BUS,83,3.22,3.06,3.12,"['BUS 291', 'BUS 303', 'BUS 391', 'BUS 393', 'BUS 394', 'BUS 461', 'BUS 464', 'BUS 494', 'BUS 498']"
+Verma,Priya,NR,21,2.04,2.13,2.25,"['AG 141', 'ENVE 142', 'FNR 142', 'FNR 306', 'FNR 311', 'ENVE 324', 'FNR 335', 'FR 335', 'FNR 435']"
+Pompeii,Brian,SOC,30,3.35,3.35,3.19,"['GEOG 150', 'SOC 150', 'GEOG 308', 'GEOG 315', 'GEOG 318']"
+Morris,Duane,AEPS,1,2.0,2.5,3.0,['EHS 232']
+Mealy,Bryan,CPE,90,3.56,3.45,3.57,"['CPE 129', 'CPE 133', 'CPE 169', 'CPE 219', 'CPE 229', 'CPE 233', 'CPE 259', 'CPE 269', 'CPE 327', 'CPE 329', 'CPE 336', 'CPE 432', 'CPE 439', 'EE 464', 'CPE 450']"
+Arani,Alexia,WGS,1,4.0,4.0,4.0,['WGS']
+Rice,Peggy,CHEM,57,3.24,3.28,3.14,"['CHEM 111', 'CHEM 124', 'CHEM 127', 'CHEM 313', 'CHEM 327', 'CHEM 371', 'CHEM 372', 'CHEM 374', 'CHEM 472', 'CHEM 528']"
+Sturm,Kirk,AGED,7,3.57,3.43,3.71,"['REC 205', 'REC 245', 'REC 324', 'REC 342', 'REC 350', 'JOUR 412']"
+Chadwell,Charles,CE,34,2.97,3.11,2.78,"['CE 205', 'CE 207', 'CE 351', 'CE 355', 'CE 400', 'CE 452', 'CE 455', 'CE 552']"
+Amin,Samir,FSN,13,2.43,2.29,2.5,"['FSN 121', 'FSN 321']"
+Rubba,Johanna,ENGL,43,1.72,1.79,1.69,"['ENGL 290', 'ENGL 390', 'ENGL 391', 'ENGL 395', 'ENGL 495', 'ENGL 503']"
+Ridout,Tim,BUS,52,3.61,3.59,3.45,"['BUS 214', 'BUS 215', 'BUS 322', 'AGB 214']"
+Lossing,Logan,STAT,32,3.47,3.29,3.59,"['STAT 118', 'STAT 151', 'STAT 218', 'STAT 251', 'STAT 252']"
+Williams,Jason,PSY,24,3.24,3.28,3.16,"['PSY 101', 'PSY 111', 'PSY 201', 'PSY 329', 'PSY 457']"
+Hutchenreuther,Mark,CSC,124,1.47,1.46,1.38,"['CPE 101', 'CSC 101', 'CSC 102', 'CSC 141', 'CPE 169', 'CPE 215', 'CSC 215', 'CSC 231', 'CSC 232', 'CRSC 234', 'CSC 234', 'CSC 251', 'EE 251', 'EE 301']"
+Simard,Carole,MATH,35,3.27,3.21,3.37,"['MATH 112', 'MATH 118', 'MATH 141', 'MATH 221', 'MATH 119']"
+Amanzio,Joseph,ARCH,11,0.9,0.9,0.9,"['ARCH 343', 'ARCH 351', 'ARCH 352', 'ARCH 353', 'ARCH 451', 'ARCH 452', 'ASTR 477', 'ARCH 481']"
+Anderson,Shane,ART,2,4.0,3.5,4.0,['ART 122']
+Hagiya,Teresa,ART,2,1.33,1.33,1.67,['ART 222']
+Gearhart,Richard,AGED,21,3.27,3.14,3.09,"['AGC 102', 'JOUR 102', 'AGC 201', 'JOUR 201', 'AGED 202', 'AGC 205', 'JOUR 205', 'JOUR 333', 'JOUR 348', 'JOUR 353']"
+Burgunder,Lee,BUS,72,3.01,3.08,2.85,"['BUS 311', 'BUS 404', 'BUS 411', 'BUS 500', 'BUS 569']"
+Kline,Richard,POLS,2,4.0,4.0,4.0,"['POLS 230', 'POLS 112']"
+Curry,Michelle,BUS,1,1.67,1.67,2.67,['BUS 214']
+Shields,Bryan,ARCH,4,4.0,4.0,3.0,['ARCH 131']
+Bouvette,Susan,BUS,36,2.77,2.64,2.85,['BUS 346']
+Kelley,James,BIO,6,3.71,3.43,3.29,"['BIO 114', 'BOT 121']"
+Yin,Margarida,ARCH,54,1.42,1.3,1.3,"['ARCH 105', 'ARCH 111', 'EDES 113', 'ARCH 122', 'ARCH 124', 'ARCH 131', 'ARCH 132', 'ARCH 242', 'ARCH 351', 'ARCH 352', 'ARCH 353']"
+Hafez,Dhalia,ARCE,7,3.5,3.38,3.5,"['ARCE 211', 'ARCE 212', 'ARCE 421']"
+Voelker,Kurt,CSC,51,2.29,2.27,2.23,"['CSC 141', 'CSC 231', 'CSC 232', 'CSC 234', 'CSC 235', 'CSC 302', 'CSC 310']"
+Cichowski,Robert,CHEM,9,1.5,1.4,1.2,"['PSC 102', 'CHEM 124']"
+Nash,Daniel,MATH,43,3.47,3.6,3.36,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 161', 'MATH 162', 'MATH 241', 'MATH 244']"
+Nees-Carver,Heidi,TH,9,3.6,3.3,3.6,"['TH 210', 'TH 227']"
+Tan,Jeffrey,MATH,1,4.0,4.0,4.0,['MATH']
+Miller,Caleb,MATH,3,1.25,1.75,1.75,"['MATH 118', 'MATH 221']"
+Berg-Johansen,Britta,BMED,3,4.0,4.0,4.0,"['BMED 420', 'BMED 455']"
+Liou,Charlie,MATH,8,2.88,3.25,3.12,"['MATH 161', 'MATH 118', 'MATH 119', 'MATH 141']"
+Martinez,Andres,CHEM,21,3.59,3.59,3.32,"['CHEM 101', 'CHEM 127', 'CHEM 128', 'CHEM 331']"
+Papakyriazis,Panagiotis,ECON,15,1.31,1.19,1.19,"['ECON 201', 'ECON 221', 'ECON 222', 'ECON 304', 'ECON 401']"
+Davidson,Jean,BIO,3,4.0,4.0,4.0,"['BIO 305', 'BIO 161']"
+Kaviani,Christina,WGS,5,4.0,4.0,4.0,"['WGS 301', 'WGS 145', 'COMS 101', 'COMS 145']"
+Gutierrez,Thomas,PHYS,39,3.05,2.76,3.12,"['PHYS 121', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 211', 'PHYS 212', 'PHYS 302', 'PHYS 303', 'PHYS 317', 'PHYS 408', 'PHYS 424']"
+Amedee,Gaston,SS,8,1.17,1.5,1.0,"['SS 121', 'CPE 252']"
+Boche,Ray,CSC,21,2.43,2.57,2.07,"['CPE 215', 'CSC 215']"
+Englund,Dave,PSY,9,1.6,1.7,1.4,"['CD 306', 'PSY 306']"
+Dolan,Sterling,EE,2,2.0,2.5,1.75,"['EE 212', 'EE 255']"
+Sanchez,Fernando,SPAN,15,3.53,3.47,3.47,"['SPAN 101', 'SPAN 121', 'SPAN 202', 'SPAN 203', 'SPAN 305', 'SPAN 307', 'HUM 310', 'SPAN 410']"
+Howes,Amy,BIO,42,2.21,2.19,2.0,"['BIO 161', 'BIO 202', 'MCRO 224', 'BIO 305', 'BIO 452']"
+Blonsley,Linda,BUS,2,1.33,1.33,1.33,['BUS 207']
+Somers,Riley,MATH,2,1.5,1.0,2.0,['MATH 118']
+Kivy,Mohsen,MATE,1,4.0,4.0,4.0,['MATE 210']
+Houlgate,Larry,PHIL,14,2.64,2.86,2.64,"['PHIL 230', 'PHIL 231', 'PHIL 335']"
+Hunt,Herbert,BUS,11,1.83,1.75,1.5,"['BUS 214', 'BUS 320', 'BUS 474', 'BUS 511']"
+Astaire,John,MU,2,4.0,3.5,4.0,"['MU 101', 'MU 324']"
+Needles,Lisa,BIO,30,1.95,1.83,2.18,"['BIO 160', 'BIO 227', 'MSC 328', 'BIO 437']"
+Kachlakev,Damian,CE,32,1.94,1.91,1.76,"['CE 204', 'CE 205', 'CE 259', 'CE 355', 'CE 356', 'CE 453', 'CE 458', 'CE 459', 'CE 521']"
+Brooks,Kelle,ARCH,10,2.45,2.64,2.27,"['ARCH 251', 'ARCH 252']"
+Tran,Olivia,ES,1,4.0,4.0,4.0,['ES']
+Truch,Nina,COMS,86,2.12,2.07,2.29,"['COMS 101', 'SCM 101', 'SPC 101', 'CM 102', 'COMS 102', 'ENGL 102', 'SCM 102', 'SPC 102', 'SPC 202']"
+Loberg,Molly,HIST,35,3.44,3.53,3.44,"['HIST 110', 'HIST 111', 'HIST 303', 'HIST 334', 'HIST 441', 'HIST 225']"
+Abo-Ismail,Mohammed,ASCI,1,3.0,3.0,2.0,['ASCI']
+Robinson,Fiona,BUS,2,3.0,2.5,3.5,['BUS 310']
+Krivda,Erik,MSL,2,3.0,3.0,3.0,['MSC 240']
+Ritter-Taylor,Michelle,KINE,7,0.71,1.43,0.86,"['KINE 323', 'PE 323']"
+Hughes,Gary,STAT,42,2.45,2.48,2.09,"['GEOL 201', 'STAT 312', 'STAT 321', 'STAT 323', 'STAT 350', 'STAT 416']"
+Hillers,Kenneth,BIO,18,3.0,2.8,3.0,"['BIO 151', 'BIO 303', 'BIO 351']"
+Kiste,Alan,CHEM,67,2.35,2.47,2.26,"['CHEM 125', 'CHEM 127', 'CHEM 128', 'CHEM 129', 'CHEM 312', 'CHEM 316', 'CHEM 318', 'CHEM 465']"
+Ponitz,Jeffrey,ARCH,2,2.0,2.0,2.0,"['ARCH 251', 'ARCH 353']"
+Nicholson,Charles,AGB,6,3.14,3.14,3.14,"['AGB 312', 'AGB 313']"
+Mase,Tom,ME,11,2.08,1.83,2.33,"['ME 211', 'ME 212', 'ME 328', 'ME 329', 'ME 501']"
+Harrington,John,ENGL,5,2.0,2.6,1.6,['ENGL 372']
+Campbell,Brad,ENGL,47,3.78,3.78,3.65,"['ENGL 203', 'ENGL 204', 'ENGL 240', 'ENGL 242', 'ENGL 305', 'ENGL 310', 'ENGL 340', 'ENGL 347', 'ENGL 449']"
+Zach,McFarlane,ASCI,2,4.0,4.0,4.0,"['AEPS 221', 'ASCI 112']"
+Eslami,Reza,CE,2,3.0,1.5,3.5,"['CE 207', 'CE 208']"
+Turner,Barbara,CHEM,20,3.48,3.52,3.48,"['CHEM 110', 'CHEM 312', 'CHEM 313']"
+Patrick,John,COMS,16,3.05,3.11,3.21,"['COMS 101', 'COMS 126']"
+Sharpe,John,PHYS,61,3.46,3.49,3.34,"['ASTR 101', 'ASTR 102', 'PHYS 104', 'PHYS 121', 'PHYS 122', 'PHYS 123', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 342']"
+Deb,Nikhil,SOC,2,4.0,3.0,4.0,['SOC 218']
+Barclay,Charles,POLS,1,4.0,3.0,4.0,['POLS']
+McKell,Kenneth,EE,42,2.89,3.07,2.65,"['EE 112', 'EE 201', 'EE 228', 'EE 302', 'EE 328', 'EE 342', 'EE 368', 'EE 113']"
+Kennedy,Euel,MATH,7,1.38,1.63,1.38,"['MATH 141', 'MATH 142']"
+Tunc,Enar,ITP,1,0.0,0.0,0.0,['ITP 371']
+Mock,Rodney,GSA,49,3.02,2.94,2.86,"['BUS 320', 'BUS 417', 'BUS 540', 'GSA 540', 'GSA 541', 'GSA 549']"
+Prow,Katrina,ENGL,3,3.67,4.0,3.67,"['ENGL 145', 'ENGL 387']"
+Hedge,Carl,PHYS,2,2.67,3.0,3.0,"['GEOL 201', 'GEOL 205']"
+Mastin,Tom,BRAE,42,3.34,3.37,3.15,"['BRAE 237', 'BRAE 239', 'BRAE 345', 'BRAE 447']"
+Murphy,Kathleen,HIST,25,3.43,3.57,3.25,"['HIST 201', 'HIST 205', 'HIST 207', 'HNRS 207', 'HIST 320']"
+Garcia,Antonio,PHYS,113,2.65,2.68,2.44,"['GEOL 101', 'GEOG 102', 'GEOL 102', 'PHYS 102', 'GEOG 201', 'GEOL 201', 'PHYS 201', 'GEOL 202', 'GEOL 203', 'PHYS 203', 'GEOL 241', 'GEOL 250', 'GEOL 323', 'SS 323', 'GEOL 401']"
+Mendel,Norman,PHIL,20,2.81,2.95,3.14,"['PHIL 231', 'RELS 304', 'PHIL 323', 'PHIL 335', 'PHIL 339']"
+Wydzga,Aleksandra,SS,11,3.36,3.55,3.45,['GEOL 201']
+Navarro,Jenell,ES,20,3.53,3.76,3.48,"['ES 112', 'WGS 201', 'ES 340', 'ES 253']"
+Frawley,Tom,AGB,46,3.56,3.6,3.54,"['AGB 101', 'AGB 201', 'AGB 202', 'AGB 212', 'AGB 301', 'AGB 318', 'AGB 406', 'AGB 445']"
+Abshire,Franklin,MATH,3,2.33,2.0,2.33,"['MATH 118', 'MATH 124']"
+Thompson,John,FR,27,3.54,3.62,3.59,"['FR 101', 'FR 103', 'FR 121', 'FR 122', 'FR 233', 'FR 302', 'FR 305', 'HUM 310', 'FR 322', 'FR 400']"
+Carichner,Karla,BMED,1,4.0,4.0,4.0,['BMED']
+Awan,Adnan,CSC,17,1.12,0.89,1.24,['CSC 202']
+Mammen,Kurt,CSC,200,2.98,3.09,2.74,"['CPE 101', 'CSC 101', 'CPE 102', 'CSC 102', 'CPE 103', 'CSC 103', 'CSC 141', 'CSC 142', 'CSC 145', 'CSC 225', 'CSC 234', 'CSC 235', 'CSC 302', 'CPE 357', 'CSC 357']"
+Evans,Emmit,POLS,165,1.79,2.16,1.64,"['POLS 110', 'POLS 112', 'LS 211', 'POLS 225', 'POLS 316', 'POLS 325', 'POLS 326', 'POLS 333', 'POLS 339', 'AG 350', 'POLS 350', 'POLS 360']"
+Lent,Adrienne,HLTH,1,4.0,4.0,3.0,['HLTH']
+Behpour,Kurt,EE,60,1.91,1.84,1.86,"['EE 112', 'CPE 129', 'EE 129', 'EE 151', 'CPE 169', 'EE 201', 'EE 210', 'EE 211', 'EE 241', 'EE 307', 'EE 308', 'EE 309', 'EE 328', 'EE 346', 'EE 347', 'EE 348', 'EE 349', 'EE 368']"
+Zhang,Shanju,CHEM,25,2.88,2.81,2.77,"['CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 128', 'CHEM 129', 'CHEM 351', 'CHEM 547']"
+Zambrano,Eduardo,ECON,42,2.93,2.5,2.68,"['ECON 201', 'ECON 311', 'ECON 312', 'ECON 313', 'ECON 409']"
+Shaw,Unique,SOC,6,3.83,3.5,3.83,"['SOC 355', 'SOC 406', 'SOC 412', 'ES 112']"
+Mike,Moses,AGC,1,2.0,2.0,2.0,['AGC']
+Yep-Rodriguez,Alejandra,BIO,4,3.44,3.63,3.56,['MCRO 224']
+Coates,Joseph,ART,2,0.0,0.67,0.33,"['ART 313', 'ART 433']"
+Maness,Andrew,ENGL,106,2.79,2.71,2.73,"['ENGL 114', 'ENGL 133', 'ENGL 134', 'ENGL 145', 'ENGL 148', 'ENGL 149', 'ENGL 218']"
+Kawashima,Jon,COMS,2,4.0,4.0,4.0,['COMS 101']
+Odell,Janice,BUS,10,2.91,2.73,3.09,"['BUS 215', 'BUS 463']"
+Cai,Xiaowei,AGB,22,2.29,1.96,2.08,"['AGB 202', 'AGB 212', 'AGB 260', 'AGB 308', 'AGB 310', 'AGB 311']"
+Johnson,Elizabeth,SOC,2,2.0,1.67,2.0,['SOC 110']
+Ottesen,Rebecca,STAT,21,3.5,3.46,3.46,"['STAT 217', 'STAT 218', 'STAT 251', 'STAT 252', 'STAT 330']"
+Buckalew,Emilia,CPE,3,1.5,1.25,1.75,"['CPE 101', 'CPE 365', 'CSC 365']"
+Barua,Shiblee,CHEM,11,3.31,3.23,3.54,"['CHEM 127', 'CHEM 128', 'CHEM 129']"
+Benson,Bridget,CPE,21,3.78,3.78,3.61,"['CPE 133', 'EE 211', 'EE 212', 'CPE 233', 'CPE 316']"
+Judge,Megan,AGB,7,3.11,2.89,3.0,['AGB 202']
+Greenwood,Jerusha,NR,8,2.89,2.78,2.78,"['REC 214', 'REC 313', 'REC 317', 'REC 412', 'REC 461']"
+Greco,Ashley,COMS,17,0.72,0.89,0.83,"['COMS 101', 'COMS 210']"
+Clark,Robert,KINE,28,2.67,2.63,2.4,"['KINE 218', 'PE 218', 'KINE 219', 'KINE 301', 'PE 301', 'KINE 302', 'KINE 403', 'KINE 406']"
+Carlton,Matt,STAT,113,3.69,3.75,3.64,"['MATH 118', 'STAT 130', 'MATH 141', 'MATH 142', 'STAT 150', 'STAT 217', 'STAT 221', 'STAT 250', 'STAT 251', 'STAT 252', 'STAT 321', 'STAT 325', 'STAT 350', 'STAT 425', 'STAT 426', 'STAT 427', 'STAT 305']"
+Scattini,Adam ,BRAE,1,4.0,4.0,4.0,['BRAE']
+Babin,Nicholas ,NR,1,4.0,4.0,4.0,['NR']
+Holladay,Bret,STAT,1,4.0,3.0,4.0,['STAT']
+Nelson,Yarrow,CE,21,3.48,3.74,3.57,"['ENVE 111', 'ENVE 331', 'ENVE 421', 'ENVE 434', 'ENVE 438', 'ENVE 450', 'ENVE 472', 'ENGR 581', 'ENGR 583']"
+poma,sasha,ENGL,2,4.0,4.0,4.0,"['ENGL 133', 'ENGL 134']"
+Brennan,Raymond,ENGL,2,4.0,4.0,4.0,"['ENGL 134', 'ENGL 145']"
+Lee,Laurene,MATH,15,3.19,3.13,3.13,"['MATH 116', 'MATH 117', 'MATH 221']"
+Gaudi,Franklin,BRAE,24,3.33,3.44,3.52,"['BRAE 340', 'BRAE 414', 'BRAE 440']"
+Cole,Matthew,ECON,21,2.4,2.4,2.22,"['ECON 201', 'ECON 311', 'ECON 312', 'ECON 404']"
+Walters,William,ENGL,74,2.65,2.65,2.69,"['ENGL 101', 'ENGL 134', 'ENGL 145', 'ENGL 148', 'ENGL 149', 'ENGL 147']"
+Story,Daniel,PHIL,5,3.0,3.2,3.2,"['PHIL 323', 'PHIL 336']"
+Chen,John,ME,42,3.56,3.61,3.48,"['ME 211', 'ME 212', 'ME 302', 'ME 303', 'ME 343', 'ME 350']"
+Kersten,Tim,ECON,43,2.4,2.58,2.33,"['ECON 220', 'ECON 221', 'ECON 222', 'ECON 322', 'ECON 323', 'ECON 324']"
+Yin,Miranda,BUS,2,1.5,1.0,1.5,['BUS 346']
+Varley,Jason,CSC,4,1.5,1.5,1.0,"['CSC 231', 'BUS 346']"
+Livingston,Kim,ASCI,12,1.64,1.5,1.21,"['ASCI 112', 'ASCI 220', 'ASCI 290', 'ASCI 350']"
+Bonner,Larry,AGED,2,1.0,2.0,1.67,['FNR 201']
+Steinmaus,Scott,AEPS,32,3.34,3.25,3.06,"['BOT 121', 'BIO 162', 'CRSC 212', 'BIO 213', 'CRSC 221', 'PSC 221', 'CRSC 321', 'BOT 326', 'AG 406', 'BIO 435']"
+Howland,Jim,ENGL,32,2.13,2.06,1.84,"['ENGL 149', 'ENGL 218', 'ENGL 310', 'ENGL 311', 'ENGL 319']"
+James,Jeremy,NR,1,2.0,0.0,3.0,['NR']
+Seng,John,CPE,50,3.66,3.64,3.64,"['CPE 101', 'CPE 123', 'CPE 315', 'CPE 316', 'CPE 453', 'CPE 482']"
+Pressler,Yamina,SS,1,4.0,4.0,4.0,['SS']
+Swenson,Leland,PSY,15,3.33,3.27,3.33,"['PSY 201', 'PSY 202', 'PSY 330']"
+Groves,Adam ,CHEM,8,2.62,2.25,2.25,"['CHEM 128', 'CHEM 369', 'CHEM 125', 'CHEM 127']"
+Hirsig,Alex,ARCH,2,4.0,3.5,4.0,"['ARCH 353', 'ARCH 351']"
+Eini,Lidar,EDUC,1,4.0,4.0,4.0,['EDUC']
+Hess,Jeff,BUS,25,2.22,2.3,2.14,"['BUS 346', 'BUS 418', 'BUS 419', 'BUS 454', 'BUS 464', 'GSB 524']"
+Lyons ,Rachel,ASCI,1,4.0,4.0,3.0,['ASCI']
+Maddren,Jesse,ME,44,3.64,3.8,3.64,"['ME 302', 'ME 313', 'ME 341', 'ME 343', 'ME 350', 'ME 356', 'ME 440', 'ME 458']"
+Jordanides,Xanthipe,CHEM,16,2.29,2.35,2.12,"['CHEM 124', 'CHEM 127', 'CHEM 128', 'CHEM 129']"
+Pouraghabagher,Reza,IME,15,3.28,3.15,2.93,"['IME 319', 'IME 326', 'IME 410', 'IME 503', 'IME 580']"
+Peters,Jason,ENGL,27,2.37,2.19,2.3,"['ENGL 133', 'ENGL 145', 'ENGL 149', 'ENGL 302', 'ENGL 312']"
+Lynn,Jennifer,ARCE,3,3.25,3.0,2.75,"['CE 204', 'ARCE 212', 'ARCE 226']"
+Lenz,Tony,CSC,6,3.29,3.0,2.71,"['CPE 436', 'CSC 436']"
+Macaranas,RJ,EE,2,4.0,4.0,4.0,['EE 251']
+Hamilton,Steve,ECON,6,1.71,1.57,1.43,"['ECON 201', 'ECON 311', 'ECON 432', 'ECON 464']"
+Miller,Michael,MATH,8,3.62,3.75,3.74,"['MATH 141', 'MATH 142']"
+Gu,Caixing,MATH,152,2.38,2.16,2.33,"['MATH 118', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 221', 'MATH 241', 'MATH 244', 'MATH 304', 'MATH 306', 'MATH 317', 'MATH 318', 'MATH 333', 'MATH 341', 'MATH 344', 'MATH 412', 'MATH 418', 'MATH 431', 'MATH 432', 'MATH 433']"
+Shalhoub,Samuel,MU,1,4.0,4.0,4.0,['MU']
+St. John,Leslie,ENGL,46,3.36,3.4,3.25,"['ENGL 134', 'ENGL 145', 'ENGL 253']"
+Clement,Sandi,BIO,34,3.0,2.88,3.21,"['BIO 161', 'BIO 302', 'WGS 350', 'BIO 351', 'BIO 375']"
+Danes,Jeffrey,BUS,88,1.58,1.56,1.67,"['BUS 123', 'BUS 342', 'BUS 346', 'BUS 347', 'BUS 348', 'BUS 451', 'BUS 454', 'BUS 459', 'BUS 464', 'GSB 524']"
+Stegner,Paul,ENGL,68,3.64,3.72,3.51,"['ENGL 143', 'ENGL 149', 'ENGL 204', 'ENGL 205', 'ENGL 252', 'ENGL 330', 'ENGL 331', 'ENGL 339', 'ENGL 354', 'ENGL 380', 'ENGL 381']"
+Arens,Robert,ARCH,25,3.42,3.38,3.38,"['ARCH 241', 'ARCH 251', 'ARCH 252', 'ARCH 253']"
+Chhean,Rithy,EE,3,3.25,3.0,3.25,['EE 361']
+Long,David,CHEM,7,3.0,3.0,3.29,"['CHEM 312', 'CHEM 127', 'CHEM 125', 'CHEM 217']"
+Peuker,Jennifer,ME,26,1.65,1.73,1.77,"['ME 128', 'ME 302', 'ME 303', 'ME 343', 'ME 420', 'ME 440']"
+Efendi,Jap,BUS,16,2.94,2.59,3.06,"['BUS 321', 'BUS 322']"
+da Silva,Bruno,CSC,2,4.0,4.0,4.0,"['CSC 308', 'CSC 309']"
+Blank,Jason,BIO,25,2.32,2.39,2.28,"['BIO 161', 'BIO 162', 'BIO 361', 'BIO 433', 'BIO 409']"
+Marchbanks,Paul,ENGL,87,2.71,2.83,2.65,"['ENGL 231', 'ENGL 304', 'ENGL 305', 'ENGL 334', 'ENGL 335', 'ENGL 352', 'ENGL 354', 'ENGL 380']"
+Burke,Ellen,EDES,1,4.0,4.0,4.0,['EDES']
+Rucas,Stacey,SOC,94,3.36,3.5,3.36,"['SOC 101', 'ANT 201', 'SOC 201', 'ANT 210', 'ANT 250', 'SOC 250', 'ANT 251', 'ANT 310', 'ANT 330', 'ANT 345', 'ANT 350', 'ANT 455']"
+Kennedy,Jane,MATH,119,2.81,2.92,2.57,"['MATH 116', 'MATH 117', 'MATH 118', 'MATH 119', 'MATH 141', 'ME 211', 'MATH 212', 'ME 212', 'MATH 221', 'MATH 328', 'MATH 341', 'ME 341']"
+Cross,Judith,PHIL,150,1.19,1.19,1.11,"['PHIL 121', 'PHIL 230', 'PHIL 231', 'PHIL 311', 'PHIL 335', 'PHIL 337', 'PHIL 341', 'PHIL 411']"
+Ryan,Walter,PHYS,17,3.72,3.83,3.66,"['PHYS 141', 'PHYS 201', 'PSC 201', 'PSC 210']"
+Couch,Vernon,CHEM,40,1.58,1.8,1.33,"['CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 128', 'CHEM 217', 'CHEM 312']"
+Niku,Saeed,ME,47,1.84,2.0,1.48,"['ME 204', 'ME 211', 'ME 212', 'ME 234', 'ME 423']"
+Prado,Antonio,JOUR,13,3.23,3.38,3.54,"['JOUR 203', 'JOUR 285', 'JOUR 334']"
+nirmal,jhon,AERO,1,2.0,2.0,1.5,['AERO 101']
+Lutrin,Carl,POLS,59,1.52,1.39,1.42,"['POLS 110', 'POLS 112', 'POLS 229', 'POLS 230', 'POLS 319', 'POLS 325', 'POLS 329', 'POLS 339', 'POLS 351']"
+Derickson,Dennis,EE,21,2.47,2.28,2.59,"['EE 111', 'EE 212', 'EE 241', 'EE 306', 'EE 308', 'EE 412', 'EE 416', 'EE 425', 'EE 541', 'EE 151']"
+Duran,Kirk,CSC,6,3.0,2.67,2.67,"['CSC 101', 'CSC 202']"
+James,Jonathan,ECON,126,1.18,1.03,1.21,"['ECON 201', 'ECON 221', 'ECON 339', 'ECON 413', 'ECON 520']"
+Morrow,Michael,LA,12,1.69,1.15,1.23,"['LA 111', 'LA 114', 'CRP 201', 'CRP 202', 'LA 353']"
+McDuff,Mitch,MATH,11,3.18,3.55,2.26,"['MATH 161', 'MATH 141', 'MATH 142']"
+Heston,Nathan,PHYS,51,3.57,3.41,3.47,"['PHYS 104', 'PHYS 122', 'PHYS 133', 'PHYS 141', 'HNRS 299']"
+Fisher,Lori,CSC,4,3.4,3.2,3.0,"['CPE 101', 'CSC 101', 'CSC 300']"
+Vasilaky ,Katya ,ECON,1,4.0,4.0,4.0,['ECON 395']
+Cowen,Brian,ITP,2,2.0,2.33,2.0,"['IT 101', 'IT 371']"
+MacCurdy,Carol,ENGL,31,2.09,2.19,1.94,"['ENGL 215', 'ENGL 305', 'ENGL 341', 'ENGL 342', 'BUS 343', 'ENGL 343', 'ENGL 346', 'ENGL 349', 'ENGL 380', 'ENGL 449', 'ENGL 511']"
+Coombs,Lee,CHEM,6,2.6,3.2,2.4,"['CHEM 125', 'CHEM 128', 'CHEM 129', 'CHEM 331']"
+Denbow,Jennifer,POLS,4,3.0,3.25,3.0,"['POLS 230', 'POLS 245', 'POLS 343']"
+Osmond,Penny,GRC,19,3.05,3.1,3.1,"['GRC 201', 'GRC 203', 'GRC 337', 'GRC 357', 'GRC 377']"
+Knight,Daniel,CM,1,4.0,4.0,4.0,['CM 114']
+Myers,Len,CSC,47,2.29,2.2,2.27,"['CPE 101', 'CSC 101', 'CPE 102', 'CSC 102', 'CPE 103', 'CSC 103', 'PHIL 331', 'CPE 461', 'CSC 462', 'CSC 492']"
+Zimmerman,Jeff,IME,5,3.6,3.2,3.6,"['IME 145', 'IME 144']"
+Fernando,Ray,CHEM,7,0.5,0.75,0.25,"['CHEM 444', 'CHEM 447', 'CHEM 547', 'CHEM 550']"
+Jones,Eric,CHEM,3,4.0,3.67,3.67,"['CHEM 372', 'CHEM 314', 'CHEM 127']"
+Burke,Robert,COMS,4,3.43,3.43,3.14,"['SCM 102', 'SPC 102']"
+Ashley,Jennifer,ENGL,62,3.1,3.1,3.08,"['ENGL 134', 'ENGL 143', 'ENGL 145']"
+Zoerb,Matthew,CHEM,1,3.0,3.0,3.0,['CHEM']
+Wu,Xi,ME,21,2.05,1.67,2.0,"['ME 212', 'ME 318', 'ME 326', 'ME 422', 'ME 470']"
+Feldman,William,ENGL,32,2.5,2.56,2.47,"['ENGL 102', 'ENGL 134', 'ENGL 145', 'ENGL 302']"
+Prodanov,Vladimir,EE,35,3.7,3.59,3.57,"['EE 212', 'EE 306', 'EE 308', 'EE 409', 'EE 412', 'EE 115', 'EE 145', 'EE 215']"
+Shea,Christine,COMS,95,2.94,3.11,2.84,"['COMS 101', 'HNRS 101', 'SCM 101', 'SOC 101', 'SPC 101', 'COMS 102', 'SCM 102', 'SPC 102', 'SPC 201', 'COMS 212', 'SPC 212', 'WS 301', 'COMS 421']"
+Flores,Alex,SPAN,6,2.0,1.83,2.38,"['SPAN 101', 'SPAN 103', 'SPAN 102']"
+Liese,Jeffrey,MATH,71,2.91,2.89,2.72,"['MATH 141', 'MATH 142', 'HNRS 143', 'MATH 143', 'MATH 206', 'MATH 241', 'MATH 306', 'MATH 336', 'MATH 481', 'MATH 482']"
+Rees,Gordon,SS,9,3.89,3.89,4.0,"['SS 121', 'ES 223', 'SS 321']"
+Elwood,Jason,MATH,48,1.43,1.75,1.46,"['MATH 116', 'MATH 118', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 162', 'MATH 221', 'MATH 241']"
+Jansen,Anne,ES,2,4.0,4.0,4.0,['ES 145']
+Hagen,John,CHEM,73,2.29,2.08,2.23,"['CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 128', 'CHEM 129', 'CHEM 305', 'CHEM 351', 'CHEM 352', 'CHEM 353', 'CHEM 354', 'CHEM 446']"
+Khan,Muhammad ,ME,1,1.0,4.0,4.0,['ME 343']
+Resner,Emily,BIO,1,4.0,4.0,4.0,['BIO 232']
+Keller,Melinda,CE,130,1.82,1.95,1.65,"['CE 204', 'CE 211', 'ME 211', 'ME 212', 'CE 302', 'ME 302', 'ME 303', 'AERO 304', 'ME 318', 'ME 341', 'AERO 540', 'ME 448']"
+Levine,Elena,BIO,45,3.31,3.33,3.31,"['BIO 111', 'MU 120', 'BIO 151', 'BIO 161', 'BIO 300', 'BIO 351', 'BIO 423', 'BIO 451', 'BIO 452', 'BIO 453', 'BIO 501', 'BIO 570']"
+Carpenter,Thomas,ME,9,0.73,0.64,0.55,"['ME 302', 'ME 341', 'ME 541']"
+Mewes,Matt,PHYS,20,3.43,3.48,2.85,"['PHYS 123', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 318', 'PHYS 143']"
+Nafisi,Ahmad,EE,65,3.58,3.49,3.69,"['EE 110', 'EE 112', 'EE 201', 'EE 211', 'EE 241', 'EE 242', 'EE 255', 'EE 303', 'EE 325', 'EE 406', 'EE 407', 'EE 212']"
+Busby,Kim,NR,2,3.0,2.67,3.0,"['FNR 306', 'FNR 412']"
+Pantoja,Maria,CPE,1,4.0,4.0,3.0,['CPE']
+Lorenz,Melinda,ART,48,3.46,3.64,3.4,"['ART 111', 'ART 112', 'ART 311', 'ART 312']"
+Endres,Leland,CHEM,23,1.8,1.48,1.72,"['CHEM 127', 'CHEM 216', 'CHEM 312', 'CHEM 316', 'CHEM 317', 'CHEM 318', 'CHEM 319']"
+Yoshinobu,Stan,MATH,11,3.45,3.09,3.36,['MATH 141']
+Javadpour,Roya,IME,7,3.0,2.63,2.25,"['IME 303', 'IME 417']"
+Kopcrak,Anna,MATH,12,2.69,2.62,2.62,"['MATH 141', 'MATH 142', 'MATH 221', 'MATH 329', 'MATH 330']"
+Lee,Brent,MATH,3,3.25,3.5,3.25,"['MATH 151', 'MATH 153']"
+Garner,Lauren,AEPS,20,3.0,3.0,2.92,"['AG 101', 'CRSC 120', 'EHS 120', 'FRSC 120', 'FRSC 132', 'CRSC 133', 'FRSC 133', 'FRSC 202', 'FRSC 230', 'FRSC 342', 'CRSC 410', 'CRSC 470', 'AEPS 101']"
+Fiorenza,Giancarlo,ART,16,3.76,3.71,3.41,"['ART 111', 'ART 212', 'ART 371']"
+Vieira,Alana,COMS,1,4.0,4.0,4.0,['COMS']
+Andrews,Sada,POLS,15,3.7,3.7,3.7,"['POLS 180', 'POLS 225', 'POLS 426', 'POLS 245', 'POLS 334']"
+McMahan,Andrew,MU,6,3.14,3.0,3.0,"['MU 101', 'MU 373']"
+Wilhelm,Deborah,ENGL,66,2.72,2.78,2.72,"['ENGL 131', 'ENGL 134', 'ENGL 145', 'HNRS 145', 'ENGL 148', 'ENGL 149', 'ENGL 302']"
+Ghori,Hajera,ENGL,2,2.67,3.0,2.67,['ENGL 134']
+Ewais,Shaimaa,BUS,3,2.67,2.0,3.33,['BUS 391']
+Elliott,Andrew,CSC,1,1.5,1.5,1.5,['CSC 231']
+Eason,James,ENGR,15,3.25,3.2,3.2,"['BMED 213', 'ENGR 213', 'BMED 430']"
+Coffman,Caryn,FSN,1,1.5,1.0,1.5,['FSN 210']
+Kelly,Erin,MATH,3,2.75,2.75,3.25,['MATH 221']
+Bingaman,James,AGC,4,4.0,4.0,4.0,"['AGC 205', 'AGC 301']"
+Beckett,Jonathon,ASCI,22,3.21,3.38,3.08,"['ASCI 112', 'ASCI 141', 'ASCI 221', 'ASCI 223', 'ASCI 405', 'ASCI 450']"
+Robinson,Emily,STAT,4,3.5,3.5,3.5,"['STAT 331', 'STAT 218']"
+Konate,Mamadou,CE,33,1.97,1.88,2.25,"['CE 204', 'CE 207']"
+Bass,Beverly,LA,9,2.5,2.6,3.0,"['LA 101', 'LA 220', 'LA 405', 'LA 431', 'LA 432', 'LA 436']"
+Brown,Carl,EDUC,2,3.0,1.5,2.0,"['ENGL 134', 'ENGL 253']"
+Freed,Tali,IME,27,2.93,3.14,3.07,"['IME 301', 'IME 305', 'IME 405', 'IME 407', 'IME 420', 'IME 481']"
+Gonzalez,Julie,ECON,17,2.11,2.16,1.95,"['ECON 122', 'ECON 221', 'ECON 222']"
+Martin,Kathleen,ES,58,2.01,2.1,1.85,"['ES 112', 'ES 212', 'ES 241', 'ES 321', 'ES 340', 'ES 360', 'FNR 360']"
+Perry,Nathan ,HIST,6,1.83,2.33,1.33,"['HIST 222', 'HIST 225', 'HIST 306']"
+Doyle,D.Gregg,CRP,10,2.27,2.18,2.09,"['CRP 212', 'CRP 215', 'CRP 410', 'CRP 411', 'CRP 444']"
+Arrivee,David,MU,28,3.77,3.7,3.77,"['MU 101', 'MU 104', 'MU 174', 'MU 325', 'MU 340', 'MU 374']"
+Loving,Bill,JOUR,29,2.19,2.19,2.0,"['JOUR 203', 'JOUR 302', 'JOUR 304', 'JOUR 402']"
+Erickson,Gregg,BUS,20,2.57,2.38,2.57,"['BUS 391', 'BUS 392', 'BUS 393', 'BUS 496']"
+Gillen,Katharina,PHYS,43,2.82,2.89,2.95,"['PHYS 122', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 211', 'PHYS 315', 'PHYS 323', 'PHYS 142']"
+Elghandour,Eltahry,CE,144,2.66,2.54,2.7,"['CE 121', 'CE 204', 'CE 205', 'CE 206', 'CE 207', 'ME 211', 'ME 212', 'CE 251', 'CE 344', 'AERO 432', 'AERO 433', 'ME 161']"
+Grishchenko,Svetlana,MATH,154,2.42,2.4,2.34,"['MATH 101', 'MATH 112', 'MATH 116', 'MATH 117', 'MATH 118', 'MATH 119', 'MATH 141', 'MATH 142', 'MATH 161', 'MATH 221', 'MATH 227']"
+Werner,Ava,ART,17,3.72,3.67,3.61,"['ART 101', 'ART 103', 'ART 111']"
+Heffernan,Travis,EE,1,2.0,2.0,1.5,['EE 241']
+Perisho,Shaun,PSY,39,3.44,3.49,3.27,"['PSY 101', 'PHYS 132', 'PSY 201', 'PSY 252', 'PSY 256', 'PSY 329', 'PSY 340']"
+Hendrix,Ginger,ENGL,36,3.55,3.55,3.3,"['ENGL 102', 'ENGL 134', 'ENGL 145', 'ENGL 147', 'ENGL 148', 'ENGL 149']"
+Nichols,Caleb,ENGL,4,3.25,3.5,3.5,['ENGL 134']
+Kogan,Oleg,PHYS,2,4.0,4.0,4.0,"['PHYS 132', 'PHYS 143']"
+Milbourne,Chelsea,ENGL,7,3.0,3.13,3.63,"['ENGL 149', 'HNRS 149', 'ENGL 310', 'ENGL 317']"
+Kellogg,Bill,AGED,4,3.2,3.4,3.4,"['AGED 102', 'AGED 522']"
+Brady,Lois,CSC,57,1.65,2.05,1.62,"['CSC 103', 'CSC 141', 'CSC 349', 'CSC 445']"
+Ion,Mike,MATH,9,3.8,3.6,3.6,"['MATH 118', 'MATH 161', 'MATH 221']"
+Teitelbaum,Jeremy,COMS,179,1.87,2.18,1.69,"['HNRS 101', 'SCM 101', 'SPC 101', 'CM 102', 'COMS 102', 'SCM 102', 'SPC 102', 'COMS 103', 'SPC 202', 'COMS 101']"
+Wissel,Stephanie,PHYS,16,2.0,1.69,2.06,"['PHYS 132', 'PHYS 133']"
+Lane,Joy,ME,4,3.5,3.25,4.0,"['ME 211', 'ME 234']"
+Patton,J,ME,50,2.16,1.9,2.23,"['ME 302', 'ME 314', 'ME 341', 'ME 347', 'ME 350', 'ME 440', 'ME 552']"
+Herlihy,John,AGB,1,1.5,1.5,1.5,['AGB 101']
+Schlemer,Liz,IME,39,3.79,3.76,3.79,"['IME 101', 'IME 223', 'IME 239', 'IME 314', 'IME 319', 'IME 429', 'IME 443']"
+Janzen,David,CSC,23,2.92,2.8,2.92,"['CPE 101', 'CPE 123', 'CSC 123', 'CSC 307', 'CSC 308', 'CPE 402', 'CSC 402', 'CSC 406', 'CSC 409', 'CSC 436']"
+O'Hara,Christine,LA,17,2.85,2.79,2.68,"['LA 130', 'LA 202', 'LA 204', 'LA 212', 'LA 349', 'LA 352']"
+Riley,Kate,MATH,78,3.24,3.32,3.21,"['MATH 127', 'MATH 132', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 227', 'MATH 241', 'MATH 244', 'MATH 300', 'MATH 327', 'MATH 328', 'MATH 329', 'MATH 443']"
+Ruszczycky,Steven,ENGL,12,3.0,3.0,3.0,"['ENGL 134', 'ENGL 202', 'WGS 340', 'ENGL 381', 'ENGL 382']"
+Gooden,Reginald,POLS,33,0.97,1.03,1.11,"['POLS 110', 'POLS 112', 'POLS 230', 'POLS 333', 'POLS 334', 'POLS 337', 'POLS 344']"
+Oksanish,James,STAT,3,4.0,3.67,3.0,"['STAT 312', 'STAT 251']"
+Qenani-Petrela,Eivis,AGB,26,2.85,2.73,3.23,"['AGB 212', 'AGB 328', 'AGB 401', 'AGB 421']"
+Bland,Chuck,EE,2,3.5,4.0,3.5,"['EE 375', 'EE 241']"
+Hamilton,Lynn,AGB,93,2.27,2.66,2.04,"['AGB 101', 'AGB 212', 'AGB 213', 'AGB 214', 'AGB 312', 'AGB 313', 'AGB 314', 'AGB 412']"
+Baker,Brenda,CHEM,63,3.08,3.16,3.25,"['CHEM 124', 'CHEM 125', 'CHEM 141', 'CHEM 313']"
+Duerk,Donna,ARCH,21,1.7,1.75,1.61,"['ARCH 241', 'ARCH 251', 'ARCH 252', 'ARCH 253', 'ARCH 351', 'ARCH 353']"
+McDonald,Margot,ARCH,6,3.13,3.0,3.13,"['ARCH 207', 'ARCH 307', 'ARCH 452', 'ARCH 453']"
+McDowell,Jim,BUS,36,3.51,3.56,3.41,"['BUS 214', 'BUS 215']"
+Rassti,Roxanne,PSY,2,4.0,4.0,4.0,['PSY 375']
+Fryer,Richard,EE,27,2.9,2.72,2.86,"['CPE 129', 'CPE 206', 'CSC 206', 'EE 219', 'CPE 229', 'EE 229', 'CPE 269', 'CPE 315', 'CPE 316', 'CPE 347']"
+Oulton,Rebecca,CE,6,3.0,3.14,3.29,"['CE 112', 'CE 336', 'CE 434']"
+Castilla,Guillermo,PHYS,26,2.3,2.22,2.15,"['PSC 101', 'PHYS 121', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141']"
+Morris,Andrew,HIST,50,3.29,3.31,3.37,"['HIST 202', 'HIST 300', 'HIST 303', 'HIST 310', 'HIST 315', 'HIST 316', 'HIST 414', 'HIST 416', 'HIST 417', 'HIST 418', 'HIST 504']"
+Wescott,Alex,ES,10,4.0,4.0,4.0,"['ES 256', 'ES 252']"
+Paquin,Dana,MATH,51,3.76,3.76,3.85,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 206', 'MATH 242', 'MATH 244', 'MATH 341']"
+Hill,Adam,ENGL,53,2.9,3.07,2.93,"['ENGL 114', 'ENGL 145', 'ENGL 251', 'ENGL 252', 'ENGL 253', 'ENGL 346', 'ENGL 350', 'ENGL 387', 'ENGL 388']"
+Mork,Kirsten,CSC,10,3.8,3.9,3.9,"['CPE 203', 'CSC 101']"
+Dutt,Samir,BUS,4,2.2,2.0,1.6,"['BUS 438', 'BUS 441']"
+Hatalsky,Paul,CSC,106,2.72,2.84,2.54,"['CPE 101', 'CSC 101', 'CPE 102', 'CPE 103', 'CSC 103', 'CSC 141', 'CPE 202', 'CSC 202', 'CSC 203', 'CPE 225', 'CSC 225', 'CSC 234', 'CSC 357']"
+Densham,Robert,ART,6,1.86,1.14,1.71,"['ART 181', 'ART 331', 'ART 332', 'ART 333', 'ART 402']"
+Habib,Kenneth,MU,41,2.63,2.91,2.49,"['MU 101', 'MU 121', 'MU 227', 'MU 324']"
+Esola,Mario,CE,19,2.53,2.58,2.95,"['ARCE 211', 'ARCE 226', 'ARCE 315', 'ARCE 316', 'CE 351', 'CE 352', 'CE 207']"
+Kubiak,Ken,CSC,3,4.0,4.0,4.0,['CSC 307']
+Dumbledore,Albus,PHIL,3,3.17,3.5,3.0,"['PHIL 150', 'PHIL 230']"
+Ridgely,Pam,ME,14,0.35,0.36,0.21,['ME 236']
+Templeton,Donna,GRC,14,2.43,2.64,2.07,"['GRC 201', 'GRC 324', 'JOUR 390']"
+Brockett,Ryan,ARCH,7,3.24,3.38,3.09,"['ARCH 131', 'ARCH 132', 'ARCH 251', 'ARCH 253']"
+Migler,Andrew,CSC,3,3.67,3.0,3.67,"['CSC 365', 'CSC 357']"
+Curry,Barbara,ECON,10,1.0,1.0,1.25,"['ECON 221', 'ECON 222', 'STAT 252', 'IME 301', 'IME 314', 'IME 405']"
+Dekhtyar,Olga,STAT,122,3.47,3.2,3.51,"['STAT 221', 'STAT 251', 'STAT 252', 'STAT 262', 'STAT 324']"
+Medina,Elsa,MATH,58,3.44,3.38,3.44,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 206', 'MATH 227', 'MATH 327', 'MATH 328', 'MATH 423']"
+Riggs,William,CRP,10,3.6,3.5,3.5,"['CRP 212', 'CRP 213', 'CRP 216', 'CRP 457', 'CRP 530']"
+Tabatabai ,Pasha,PHYS,4,3.0,3.5,3.0,['PHYS 141']
+Martens Biersach,Roric,EE,9,3.1,3.0,3.2,"['EE 151', 'EE 251', 'EE 346']"
+Bustamante,Cesar,LA,5,2.72,3.04,2.4,"['LA 170', 'LA 202', 'LA 204', 'LA 171']"
+Meng,Shien-yi,EE,12,1.21,1.71,1.07,"['EE 201', 'EE 211', 'EE 334', 'EE 335']"
+Lin,Patrick,PHIL,16,3.35,3.35,3.12,"['PHIL 101', 'PHIL 231', 'PHIL 323', 'PHIL 334']"
+Einakian,Sussan,CSC,62,2.07,1.9,2.07,"['CPE 101', 'CSC 101', 'CPE 102', 'CSC 102', 'CPE 103', 'CSC 103', 'CPE 202', 'CSC 202', 'CPE 203', 'CSC 203']"
+Daly,Wendy,ENGL,15,0.53,1.06,0.65,"['ENGL 114', 'ENGL 145', 'ENGL 149', 'ENGL 215']"
+Clancy,Kevin,STAT,37,3.35,3.2,3.18,"['STAT 101', 'STAT 251', 'STAT 252', 'STAT 312', 'STAT 321']"
+Mabry,Philip,ES,13,2.69,2.69,2.56,"['ES 112', 'ES 212', 'SOCS 313', 'ES 322', 'ES 330']"
+Hanson,Michael,BIO,71,1.66,1.84,1.61,"['BIO 111', 'BIO 115', 'BIO 151', 'BIO 153', 'BIO 213', 'BIO 227', 'ZOO 321', 'BIO 325', 'BIO 327', 'BIO 414', 'BIO 444']"
+Blanke,Barbara,EDUC,2,2.5,3.0,2.5,['EDUC 432']
+Meyer,Alex,IME,2,3.5,3.25,3.0,"['IME 156', 'IME 420']"
+Hennessee,David,ENGL,95,1.85,2.08,1.68,"['ENGL 134', 'ENGL 141', 'ENGL 145', 'ENGL 164', 'ENGL 221', 'ENGL 231', 'ENGL 253', 'ENGL 303', 'ENGL 334', 'ENGL 335', 'ENGL 382']"
+Dickerson,Robert,PHYS,13,1.92,2.08,2.15,"['PHYS 131', 'PHYS 132', 'PHYS 133']"
+Canella,Alfonso,BUS,16,2.2,2.4,2.35,"['AGB 260', 'BUS 431', 'BUS 439']"
+Jacobs,Jeffrey,NR,7,2.38,2.38,2.63,"['REC 101', 'REC 205', 'REC 360']"
+Humphrey,Brooke,ASCI,8,1.89,2.22,2.11,"['ASCI 112', 'ASCI 290', 'VS 440', 'ASCI 462']"
+Nguyen,Frank,CHEM,9,1.92,1.92,2.17,"['CHEM 124', 'CHEM 125']"
+Kasper,Eric,CE,81,2.77,2.75,2.74,"['CE 201', 'CE 204', 'CE 205', 'CE 207', 'CE 251', 'CE 407', 'CE 453', 'CE 501', 'CE 504']"
+Ayash,Brian,BUS,30,1.38,1.5,1.19,"['BUS 339', 'BUS 342', 'BUS 436', 'BUS 438', 'BUS 464']"
+Carbonell,Irene,ITP,7,3.0,3.13,3.0,"['IT 234', 'IT 330']"
+Carter,Amy,BUS,1,4.0,4.0,4.0,['BUS']
+Brock,Andrew,ME,2,1.43,1.43,1.14,['ME 326']
+Sethi,Menka,BUS,12,2.92,3.08,2.69,['BUS 434']
+Rueda,Lauren,ME,2,4.0,4.0,4.0,"['ME', 'ME 128']"
+O'Connor,Erin,PHYS,14,2.12,2.12,2.06,"['PHYS 121', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 161']"
+Garcia,Julie,PSY,17,2.86,2.94,2.96,"['PSY 252', 'PSY 314', 'PSY 324', 'PSY 470']"
+Belknap,Jacquelyn,ENGL,38,3.44,3.44,3.23,"['ENGL 124', 'ENGL 133', 'ENGL 134', 'ENGL 149', 'ENGL 349']"
+Lang,Robert,CE,3,3.33,3.33,3.33,"['ENVE 434', 'ENVE 438']"
+Deffo,Arnold,AERO,2,4.0,4.0,4.0,"['AERO 331', 'AERO 300']"
+von Bischopinck,Beate,CRP,1,4.0,4.0,4.0,['CRP']
+Zoller,David,PHIL,13,3.23,3.08,3.08,"['PHIL 230', 'PHIL 231', 'PHIL 331', 'PHIL 335']"
+Foster,Steve,MATH,1,2.0,3.0,2.0,['MATH 117']
+Roberts,Matthew,BUS,7,1.11,1.11,1.22,"['BUS 346', 'BUS 387']"
+Mehiel,Eric,AERO,20,2.76,2.43,2.71,"['AERO 121', 'AERO 215', 'AERO 265', 'AERO 300', 'AERO 320', 'AERO 340', 'AERO 421', 'AERO 451']"
+Falessi,Davide,CSC,2,4.0,4.0,4.0,['CSC 308']
+Franklin,Diana,CSC,35,2.89,2.89,2.68,"['CPE 101', 'CSC 101', 'CPE 103', 'CSC 225', 'CPE 315', 'CSC 315', 'CPE 316']"
+Noel,Eric,BIO,19,3.7,3.65,3.75,"['BIO 111', 'MCRO 224', 'BIO 302', 'BIO 402', 'MCRO 433']"
+Razi,Alpen,ES,35,3.93,3.89,3.91,"['ES 112', 'HNRS 112', 'ES 242', 'ES 320', 'ES 340', 'ES 380', 'ES 254']"
+Bisbing,Sarah,NR,6,3.5,3.63,3.5,"['FNR 141', 'FNR 306', 'FNR 360']"
+Wong,Phyllis,TH,4,3.25,3.25,3.5,['TH 210']
+Richardson,Jessica,ITP,2,4.0,4.0,4.0,['IT 311']
+Gish,Judith,LS,4,0.75,1.0,0.75,"['LS 101', 'ENGL 260']"
+Wright,Chris,AGB,3,4.0,4.0,4.0,"['AGB 369', 'AGB 401', 'AERO 460']"
+Demarest,William,MATH,34,3.49,3.46,3.46,"['MATH 118', 'MATH 141', 'MATH 142', 'MATH 161', 'MATH 162', 'MATH 221', 'MATH 265', 'MATH 327']"
+Ivers,Enrique,CM,2,2.5,2.0,2.5,"['CM 232', 'CM 314']"
+Moraga,Jorge,ES,4,1.5,2.0,2.5,['ES 255']
+Bredeson,Dominique,COMS,44,1.8,2.2,1.8,"['COMS 101', 'COMS 102', 'COMS 217']"
+Yang,Tao,IME,156,0.69,0.72,0.56,"['IME 213', 'CSC 232', 'IME 232', 'IME 303', 'IME 305', 'IME 312', 'IME 314', 'IME 319', 'IME 335', 'IME 407', 'IME 417', 'IME 421']"
+Frayne,Colette,BUS,47,3.92,3.92,3.92,"['JPNS 200', 'BUS 302', 'BUS 303', 'BUS 384', 'BUS 402', 'BUS 407', 'BUS 477']"
+Kaliski,Marty,EE,18,2.84,3.11,2.58,"['EE 112', 'EE 212', 'EE 228', 'CPE 319', 'EE 336', 'EE 346', 'EE 521', 'EE 523']"
+Bockmon,Emily,CHEM,5,4.0,4.0,4.0,"['CHEM 128', 'CHEM 125']"
+Streiff,Meg,SOC,81,3.95,3.91,3.94,"['GEOG 101', 'SOC 101', 'GEOG 150', 'SOC 150', 'ANT 308', 'GEOG 308', 'SOC 308', 'GEOG 377']"
+Haase,Andrew,MATH,2,2.0,2.0,3.0,['MATH 161']
+Bordeman,Adam,BUS,18,2.78,2.68,2.43,"['BUS 214', 'BUS 321']"
+Yu,Xiao-Hua,EE,32,2.19,2.16,1.97,"['EE 112', 'EE 151', 'CPE 219', 'EE 219', 'EE 228', 'CPE 229', 'EE 242', 'EE 301', 'EE 302', 'EE 314', 'EE 328', 'EE 513', 'EE 515', 'EE 570']"
+Altrock,Brian,ENGL,22,2.32,2.5,2.14,"['ENGL 134', 'TH 137', 'ENGL 143', 'ARCH 353']"
+Hahlbeck,Clint,MATH,77,2.81,2.78,2.8,"['MATH 112', 'MATH 118', 'MATH 119', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 161', 'MATH 162', 'STAT 217', 'BUS 221', 'MATH 221', 'STAT 221', 'MATH 236', 'MATH 241', 'MATH 244', 'STAT 251', 'STAT 252', 'STAT 312']"
+Peuker,Steffen,ME,30,2.0,1.93,2.01,"['ME 128', 'ME 163', 'ME 302']"
+Senn,Melanie,ENGL,44,3.39,3.35,3.35,"['ENGL 133', 'ENGL 134', 'ENGL 145']"
+Mullisen,Ronald,ME,31,3.52,3.61,3.48,"['ME 113', 'ME 302', 'ME 303', 'ME 313', 'ME 318', 'ME 341', 'ME 343', 'ME 344']"
+Artho-Bentz,Sam,ME,1,3.33,2.67,2.67,['ME 326']
+Sheehan,Tianna,FSN,3,0.67,1.0,0.33,['FSN 321']
+Reaves,Scott,FSN,36,3.78,3.7,3.65,"['FSN 210', 'FSN 328', 'FSN 329', 'FSN 331', 'FSN 581']"
+Pearse,Erin,MATH,42,2.99,2.81,2.99,"['MATH 142', 'MATH 143', 'MATH 144', 'MATH 241', 'MATH 244', 'MATH 248', 'MATH 335', 'MATH 344', 'MATH 412', 'MATH 453', 'HNRS 244']"
+Zumbro,Emma,ENGL,1,0.0,3.0,2.0,['ENGL 134']
+Rahman,Shikha,CE,18,3.58,3.42,3.53,"['CE 336', 'CE 337', 'CE 433', 'CE 440', 'CE 538']"
+Hertz,Tony,GRC,1,1.5,2.0,2.5,['GRC 377']
+McDaniel,Cole,ARCE,12,3.07,2.93,3.0,"['ARCE 211', 'ARCE 212', 'ARCE 306', 'ARCE 483']"
+Nulman,Eric,ARCH,15,2.18,1.88,1.94,"['ARCH 105', 'ARCH 121', 'ARCH 351', 'ARCH 352', 'ARCH 353', 'ARCH 453', 'ARCH 481']"
+Ritter,Matt,BIO,106,3.74,3.79,3.68,"['BIO 111', 'BIO 114', 'BIO 121', 'BOT 121', 'BOT 122', 'BIO 144', 'BIO 162', 'BIO 213', 'BIO 214', 'BIO 311', 'HUM 330', 'BOT 433', 'BIO 470']"
+Kurtz,Kelly,IME,1,1.0,0.0,0.0,['IME']
+Clegg,Don,KINE,50,3.21,3.27,3.23,"['KINE 180', 'KINE 200', 'KINE 250', 'PE 250', 'KINE 270', 'KINE 303', 'KINE 452', 'KINE 585', 'HLTH 250']"
+Luber,Stephen,TH,7,2.75,2.75,2.63,"['TH 210', 'HUM 240', 'TH 390']"
+Lesiuk,Veronika,KINE,3,1.0,1.25,1.5,"['KINE 303', 'KINE 319']"
+Hanley,Brooks,EE,1,2.67,3.0,2.33,['EE 251']
+Armstrong,Mary,LA,4,3.2,3.2,3.2,"['WS 301', 'BUS 322']"
+Saunders,Ruth,PHYS,21,3.59,3.55,3.77,"['PHYS 121', 'PHYS 122', 'PHYS 132', 'PHYS 141']"
+Ausmus,William,COMS,147,2.63,2.98,2.72,"['CM 101', 'COMS 101', 'SCM 101', 'SPC 101', 'CM 102', 'COMS 102', 'SCM 102', 'SPC 102', 'SPC 111', 'SCM 124', 'SPC 201', 'SPC 217']"
+Yun,David,NR,12,3.0,2.83,3.17,"['ENVE 218', 'FNR 218', 'AGC 318', 'FNR 318', 'FNR 418']"
+Offermann,Gene,AEPS,1,1.5,1.5,3.0,['CRSC 133']
+Yassa,Laura,HLTH,2,3.0,3.0,4.0,['HLTH 297']
+Nelson,Lawrence,ME,13,1.77,1.69,1.69,"['ME 211', 'ME 212', 'ME 401']"
+Pande,Anurag,CE,9,2.7,2.2,2.5,"['CE 101', 'CE 251', 'CE 321', 'CE 322']"
+Hose,Jo,BMED,4,3.0,2.6,2.4,"['ZOO 332', 'BIO 428', 'BMED 428', 'ZOO 428']"
+Jencks,Michael,CRP,16,2.82,2.53,2.71,"['CRP 323', 'FNR 323', 'CRP 404', 'FNR 404', 'FNR 408', 'CRP 420']"
+Lindsey-Mullikin,Joan,BUS,11,1.83,2.17,1.67,"['BUS 346', 'BUS 396', 'BUS 452']"
+Benedict,William,ARCH,9,2.27,2.45,2.27,"['ARCH 124', 'ARCH 131', 'ARCH 132', 'ARCH 260', 'CM 431']"
+Perks,Gary,EE,212,3.56,3.65,3.48,"['EE 112', 'CPE 133', 'IME 154', 'IME 156', 'EE 157', 'IME 157', 'IME 159', 'CPE 169', 'EE 169', 'EE 201', 'EE 211', 'EE 236', 'EE 242', 'EE 251', 'EE 321', 'EE 322', 'EE 342', 'EE 361', 'CPE 233']"
+Thorncroft,Glen,ME,69,3.17,3.29,3.25,"['ME 134', 'ME 231', 'ME 236', 'ME 302', 'ME 303', 'ME 347', 'ME 450']"
+Johnston,Scott,PHYS,51,2.69,2.76,2.43,"['GEOL 102', 'PHYS 102', 'GEOL 121', 'GEOL 150', 'GEOL 201', 'GEOL 241', 'GEOG 102']"
+Preston,Alison,ENGL,58,1.77,2.12,1.55,"['ENGL 133', 'ENGL 134', 'ENGL 145', 'ENGL 253', 'ENGL 320', 'ENGL 350']"
+Werner,Adam,ECON,44,2.56,2.48,2.23,"['ECON 201', 'ECON 210', 'ECON 221', 'ECON 222', 'GSB 523', 'ECON 311']"
+Lindsay,William,ECON,51,3.6,3.46,3.35,"['FRSC 182', 'ECON 201', 'ECON 222', 'ECON 313', 'GSB 533']"
+Robertson,Mike,MATH,198,2.64,2.51,2.41,"['MATH 112', 'MATH 118', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 161', 'MATH 162', 'MATH 182', 'MATH 221', 'MATH 241', 'MATH 244', 'MATH 328', 'MATH 344']"
+Wynn,Greg,ARCH,65,1.82,1.89,1.77,"['ARCH 106', 'ARCH 131', 'ARCH 132', 'ARCH 133', 'ARCH 207', 'ARCH 231', 'ARCH 251', 'ARCH 252', 'ARCH 253', 'ARCH 351', 'ARCH 443']"
+Montoya,Joy,GRC,4,0.8,0.6,0.8,['GRC 429']
+Elbarbary,Ashraf,EE,9,3.23,2.66,2.89,"['EE 211', 'PHYS 133', 'PHYS 142', 'PHYS 141']"
+Abercromby,Kira,AERO,20,3.39,3.34,3.42,"['AERO 101', 'AERO 121', 'MATH 142', 'AERO 300', 'AERO 353', 'AERO 452', 'AERO 351', 'AERO 354', 'AERO 451']"
+Dalbey,John,CSC,106,1.3,1.55,1.21,"['CPE 101', 'CSC 101', 'CPE 103', 'CSC 103', 'CPE 205', 'CSC 205', 'CPE 206', 'CSC 206', 'CSC 301', 'CSC 302', 'CPE 305', 'CSC 305', 'CSC 307', 'CPE 308', 'CSC 308', 'CPE 309', 'CSC 309', 'CSC 310', 'CSC 440', 'CSC 509']"
+Firpo,Christina,HIST,90,2.78,2.74,2.77,"['COMS 101', 'HIST 215', 'HIST 223', 'HIST 228', 'HIST 233', 'HIST 303', 'HIST 317', 'HIST 319', 'HIST 330', 'HIST 405', 'HIST 421']"
+Lange,Karen,ARCH,1,0.25,0.75,0.5,['ARCH 481']
+Piirto,Doug,NR,36,2.63,2.53,2.66,"['FNR 140', 'FNR 141', 'FNR 201', 'FNR 203', 'FNR 206', 'FNR 260', 'FNR 365', 'FNR 434']"
+See,Daniel,CE,11,2.73,2.91,2.82,"['CE 113', 'CE 114', 'CE 207']"
+Smith,Erin,ENGL,15,2.75,3.13,2.75,"['ENGL 133', 'ENGL 134', 'ENGL 145']"
+kumar,arun,AERO,1,3.0,3.0,2.0,['AERO 145']
+Gerfen,Jeffery,ENGR,85,2.8,2.67,2.78,"['EE 112', 'CPE 129', 'ENGR 129', 'CPE 133', 'CPE 169', 'EE 201', 'CPE 229', 'EE 229', 'CPE 233', 'EE 295', 'EE 307', 'CPE 329', 'EE 329', 'EE 347', 'CE 423']"
+Liddicoat,Albert,EE,14,3.27,3.07,3.33,"['EE 111', 'CPE 129', 'CPE 219', 'EE 219', 'CPE 259', 'CPE 329', 'CPE 336']"
+Nazmi,Aydin,FSN,13,2.95,3.0,2.68,"['FSN 101', 'FSN 250', 'FSN 281', 'FSN 321', 'FSN 416', 'FSN 420']"
+Lick,Carol,FR,3,3.0,3.0,2.75,"['FR 102', 'FR 103']"
+Edlund,Eric,PHYS,17,2.35,2.3,2.3,"['PHYS 121', 'PHYS 132']"
+Harris,Jim,EE,38,1.71,1.74,1.5,"['EE 112', 'EE 211', 'EE 212', 'CPE 219', 'CPE 229', 'EE 229', 'EE 241', 'EE 301', 'EE 304', 'EE 313', 'CPE 319', 'EE 328', 'CPE 329', 'EE 329', 'EE 334', 'EE 335', 'EE 375', 'EE 402']"
+Chance,Caroline,KINE,13,0.16,0.54,0.69,"['HLTH 260', 'HLTH 255']"
+Olenowski,Jay,STAT,51,2.85,2.75,2.85,"['STAT 117', 'STAT 134', 'STAT 214', 'STAT 217', 'STAT 218', 'STAT 252', 'STAT 312']"
+Spiller,Robert,ASCI,39,3.69,3.79,3.62,"['PM 121', 'ASCI 145', 'PM 145', 'ASCI 225', 'PM 225', 'PM 230', 'ASCI 255', 'PM 330', 'ASCI 342', 'PM 490']"
+Daza,Oscar,CE,5,1.83,2.0,1.83,"['CE 336', 'CE 337']"
+Vaughan,Karen,SS,4,3.75,3.75,3.5,"['SS 121', 'SS 321', 'SS 421']"
+Deaton,Leonard,MATH,71,1.8,1.81,1.57,"['MATH 118', 'MATH 217', 'STAT 217', 'STAT 218', 'MATH 221', 'STAT 221', 'STAT 251', 'STAT 252', 'STAT 321']"
+Schroth-Glanz,Madeline,STAT,39,2.13,2.12,2.35,"['STAT 218', 'STAT 251', 'STAT 321']"
+Lehr,Corinne,CHEM,44,1.89,1.88,1.97,"['CHEM 110', 'CHEM 128', 'CHEM 129', 'CHEM 331', 'CHEM 341', 'CHEM 439']"
+Houghtelin,Andrew,CRP,5,3.67,3.5,3.17,"['CRP 201', 'CRP 216']"
+Pileggi,Shannon,STAT,9,2.78,2.78,2.33,"['STAT 217', 'STAT 330', 'STAT 417']"
+Griggs,Kenneth,BUS,72,1.64,1.61,1.67,"['BUS 390', 'BUS 391', 'BUS 393', 'BUS 394', 'BUS 395', 'BUS 401', 'BUS 496']"
+Scriven,Tal,PHIL,94,3.4,3.47,3.22,"['PHIL 126', 'PHIL 213', 'PHIL 230', 'HNRS 231', 'PHIL 231', 'PHIL 232', 'PHIL 331', 'PHIL 340', 'PHIL 341']"
+Lu,Lei,PHYS,9,3.88,3.68,4.0,"['PHYS 211', 'PHYS 143', 'PSY 142', 'PHYS 141', 'PHYS 142']"
+Beekman,Matt,PHYS,1,3.0,2.0,4.0,['PHYS 143']
+Ahern,James,AGB,36,1.24,1.05,1.08,"['AG 124', 'AGB 213', 'AGB 303', 'AGB 313', 'AGB 315', 'AGB 405', 'ZOO 418', 'ZOO 420', 'AGB 433', 'AGB 460']"
+McClendon,Marvin,MATH,13,0.3,0.16,0.54,"['MATH 143', 'MATH 118', 'STAT 141', 'MATH 141']"
+York,Jonathan,BUS,10,3.2,3.1,2.9,"['BUS 310', 'BUS 436', 'BUS 454', 'BUS 464']"
+Robbins,Marian,MATH,66,2.02,1.71,2.33,"['MATH 142', 'MATH 143', 'MATH 206', 'MATH 244', 'MATH 248', 'MATH 344', 'MATH 412']"
+Beecher Jr.,Lloyd,HIST,1,0.0,0.67,0.0,['EDUC 340']
+Banghart,Andrew,ENGL,17,1.78,2.06,1.61,"['ENGL 141', 'ENGL 149']"
+Hagobian,Todd,KINE,3,3.4,3.4,3.0,['KINE 303']
+Howell,Robert,ART,10,2.45,2.09,2.45,"['ART 122', 'ART 182', 'ART 224']"
+De Yong,Ronald,AGB,9,3.4,3.2,3.3,"['AGB 312', 'AGB 321', 'AGB 442', 'AGB 452']"
+Stauch,Nancy,PHYS,15,3.88,3.82,3.82,"['PHYS 101', 'PSC 101', 'PHYS 102', 'PSC 102']"
+Fisher,Gene,CSC,61,3.52,3.37,3.42,"['CSC 101', 'CSC 102', 'CSC 103', 'MATE 141', 'MATH 141', 'CSC 204', 'CPE 205', 'CSC 205', 'CPE 206', 'CSC 206', 'CSC 307', 'CSC 308', 'CPE 309', 'CSC 309', 'CSC 330', 'CPE 357', 'CSC 357', 'CSC 590']"
+Navarro,Carmen,COMS,1,4.0,4.0,4.0,['COMS']
+Pascual,Cristopher,ME,42,3.79,3.77,3.74,"['ME 301', 'ME 302', 'ME 303', 'ME 341', 'ME 343', 'ME 344', 'ME 347', 'ME 359', 'ME 440', 'ME 457']"
+Doi,Jimmy,STAT,113,3.63,3.78,3.61,"['STAT 112', 'STAT 118', 'STAT 130', 'STAT 217', 'STAT 218', 'STAT 312', 'STAT 321', 'STAT 322', 'STAT 324', 'STAT 330', 'STAT 418', 'STAT 542', 'AEPS 150']"
+Powers,Ethan,ENGL,7,4.0,4.0,4.0,"['ENGL 134', 'ENGL 145']"
+Helmbrecht,Brenda,ENGL,13,2.58,2.7,2.4,"['ENGL 134', 'WS 301', 'ENGL 371', 'ENGL 469', 'ENGL 505', 'ENGL 220', 'ENGL 373']"
+Bressler,Stephanie,POLS,2,1.67,2.0,2.0,"['POLS 112', 'POLS 338']"
+Lytle,Steven,BIO,9,2.1,2.1,1.7,"['MCRO 221', 'ZOO 331', 'ZOO 332']"
+Davis,Brennan,BUS,61,3.4,3.4,3.43,"['BUS 201', 'BUS 300', 'BUS 305', 'BUS 320', 'BUS 330', 'BUS 335', 'BUS 345', 'BUS 346', 'BUS 421']"
+Bercovici,Daniel,CHEM,16,3.71,3.65,3.59,"['CHEM 216', 'CHEM 217', 'CHEM 220', 'CHEM 223', 'CHEM 312', 'CHEM 321', 'CHEM 324']"
+Illingworth,Melissa,CHEM,53,1.57,1.52,1.5,"['CHEM 110', 'CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 128']"
+Goglio,Tom,GRC,15,2.12,2.47,1.94,"['GRC 201', 'GRC 202', 'GRC 203', 'GRC 338']"
+Headrick,David,AEPS,19,3.8,3.75,3.8,"['BIO 110', 'CRSC 110', 'PSC 110', 'CRSC 123', 'CRSC 304', 'CRSC 311', 'CRSC 313', 'CRSC 411', 'CRSC 431', 'CRSC 441', 'CRSC 470']"
+Anderson,Katie,CE,2,2.5,3.0,3.0,"['ENVE 331', 'IME 589']"
+Yeung,Po,BIO,18,1.83,2.06,2.11,"['BIO 224', 'MCRO 224', 'BIO 244', 'MCRO 421']"
+Ghent,Christine,MATE,8,3.67,3.56,3.56,"['ME 128', 'MATE 215']"
+Alongi,John,MATH,53,3.63,3.7,3.5,"['MATH 124', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 241', 'MATH 242', 'MATH 244', 'MATH 304', 'ENGL 366', 'MATH 367']"
+DeSzendeffy,Kevin,MATH,4,2.2,2.0,2.2,"['MATH 117', 'MATH 118']"
+Grundmeier,Todd,MATH,62,3.82,3.72,3.72,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 227', 'MATH 242', 'MATH 248', 'MATH 300', 'MATH 327', 'MATH 329', 'MATH 341', 'MATH 419', 'MATH 442', 'MATH 443']"
+Orson,Patrick,MATH,4,3.5,3.5,3.75,"['MATH 248', 'MATH 143']"
+Nico,Phillip,CSC,85,3.22,3.23,3.04,"['CPE 101', 'CSC 101', 'CPE 215', 'CPE 317', 'CSC 317', 'CPE 357', 'CSC 357', 'CPE 453', 'CSC 453', 'CPE 464', 'CSC 464']"
+Liwanag,Heather,BIO,12,2.77,2.92,2.54,"['BIO 231', 'BIO 361']"
+Immoos,Chad,CHEM,36,3.19,3.05,3.0,"['CHEM 101', 'CHEM 125', 'CHEM 126', 'CHEM 127', 'CHEM 128', 'CHEM 331', 'CHEM 439', 'CHEM 481']"
+Marlier,John,CHEM,31,3.2,3.2,3.03,"['CHEM 127', 'CHEM 216', 'CHEM 218', 'CHEM 316', 'CHEM 317', 'CHEM 318', 'CHEM 319', 'CHEM 331']"
+Powers,Alex,ME,3,3.75,3.75,3.75,['ME 251']
+Stanton,Diana,TH,23,3.87,4.0,3.78,"['DANC 132', 'DANC 133', 'DANC 134', 'DANC 221', 'TH 221', 'DANC 231', 'DANC 232', 'DANC 233', 'TH 280', 'DANC 340']"
+Lund,Karl,AGED,2,2.67,2.33,2.33,"['AG 102', 'AG 232']"
+Zeng,Wei,MATH,6,2.33,2.17,2.0,"['MATH 116', 'MATH 118']"
+Erickson,Don,CSC,5,2.17,2.17,2.83,['CSC 358']
+Coon-Hildebrand,Jacky,AGB,24,2.74,2.81,2.78,"['AGB 101', 'AGB 212', 'AGB 301', 'AGB 406']"
+Zohns,Mark,BRAE,26,4.0,4.0,4.0,"['BRAE 126', 'BRAE 128', 'BRAE 129', 'BRAE 151', 'BRAE 234', 'BRAE 301', 'BRAE 421']"
+Costello,Enrica,ART,5,1.5,1.17,1.17,"['ART 182', 'ART 183']"
+Halusic,Marc,PSY,1,2.0,3.0,4.0,['PSY']
+Laidlaw,Rebecca,COMS,170,2.87,2.97,2.72,"['CM 101', 'COMS 101', 'HNRS 101', 'SCM 101', 'SPC 101', 'SPC 102', 'SCM 111', 'COMS 202']"
+Kolluru,Gita,BIO,41,3.07,3.34,2.95,"['BIO 123', 'BIO 263', 'BIO 414']"
+Cotkin,George,HIST,20,3.29,3.29,3.24,"['HIST 204', 'HIST 303', 'HIST 304', 'HIST 460']"
+Patterson,William,ME,6,1.5,1.67,1.5,"['ME 211', 'ME 212', 'ME 326']"
+Weber,Paul,CM,22,3.58,3.63,3.54,"['CM 102', 'CM 115', 'CM 211', 'CM 341']"
+DePass,Vera,PSY,2,2.67,2.67,2.67,"['CD 209', 'CD 324']"
+Edwards,Mark,ASCI,40,2.35,2.59,2.14,"['ASCI 112', 'ASCI 220', 'ASCI 221', 'ASCI 290', 'ASCI 346', 'ASCI 363']"
+Dahm,Patricia,BUS,16,3.17,3.33,3.28,"['BUS 387', 'BUS 489']"
+Ozawa,William,CSC,10,2.18,2.18,1.73,"['CSC 110', 'BIO 111']"
+Lund,Michael,ASCI,8,3.5,3.63,3.13,"['ASCI 224', 'ASCI 333', 'ASCI 490']"
+Bertozzi,Dan,BUS,25,3.0,3.04,3.0,"['BUS 207', 'BUS 401', 'BUS 404', 'BUS 454']"
+Dettmar,Christopher,CHEM,23,1.83,1.63,1.92,"['CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 128', 'CHEM 172']"
+Kean,Andrew,ME,34,3.11,3.14,2.97,"['ME 302', 'ME 341', 'ME 415', 'ME 440', 'ME 514', 'ME 236']"
+Shields,Cameron,BIO,15,3.87,3.87,3.93,"['BIO 231', 'BIO 232', 'ZOO 331', 'ZOO 332', 'BIO 410', 'BIO 432']"
+Stankus,Mark,MATH,140,1.86,1.75,1.81,"['MATH 118', 'MATH 133', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 206', 'MATH 241', 'MATH 244', 'MATH 248', 'MATH 306', 'MATH 336', 'MATH 350', 'MATH 351', 'MATH 408', 'MATH 412', 'MATH 481']"
+Jones,Robert,CRP,15,1.63,2.0,1.94,"['EDES 101', 'CRP 211']"
+Mullen,Marcy,BIO,1,1.5,2.0,2.0,['BIO 231']
+Loken,Alexa,COMS,2,4.0,4.0,4.0,['COMS 101']
+Botros,Nazeih,AERO,71,2.24,2.23,2.29,"['CPE 133', 'EE 201', 'EE 212', 'DANC 231', 'EE 251', 'EE 321', 'EHS 321', 'CPE 329', 'EE 361']"
+Kletzing ,Daniel ,LA,1,4.0,4.0,4.0,['LA']
+Schwartz,Pete,PHYS,150,1.81,1.71,1.6,"['PHYS 121', 'PHYS 122', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 200', 'PHYS 211', 'PHYS 301', 'PHYS 310', 'PHYS 320', 'PSC 320', 'PHYS 391', 'PSC 392']"
+Duffy,Bernard,COMS,50,2.89,2.85,2.8,"['SCM 101', 'SPC 101', 'SPC 201', 'SPC 320', 'SCM 322', 'SPC 322', 'COMS 330', 'SPC 330', 'COMS 333', 'COMS 435', 'SPC 435']"
+Fern,Rachel,PHIL,64,3.38,3.51,3.33,"['PHIL 203', 'PHIL 230', 'PHIL 231', 'PHIL 301', 'WS 301', 'PHIL 317', 'PHIL 336', 'PHIL 411', 'WS 450']"
+Augustine,Eriq,CSC,9,3.7,3.6,3.7,"['CPE 101', 'CSC 102', 'CSC 141']"
+Canaan,Rodrigo,CSC,9,4.0,3.33,4.0,"['CSC 349', 'CSC 580']"
+Graziano,Richard,PHIL,66,2.59,2.66,2.45,"['PHIL 132', 'PHIL 230', 'PHIL 231', 'PHIL 314', 'PHIL 317', 'PHIL 330', 'PHIL 412', 'PHIL 423']"
+Bohn,Christine,CHEM,19,0.95,0.8,1.05,"['CHEM 124', 'CHEM 128', 'CHEM 129', 'CHEM 312']"
+Ragsdale,Joseph,LA,10,3.6,3.7,3.5,"['LA 110', 'LA 141', 'LA 202', 'LA 243', 'LA 400', 'LA 436', 'LA 464']"
+Beller,Richard,ARCH,9,2.33,2.44,2.56,"['ARCH 106', 'ARCH 231', 'ARCH 251', 'ARCH 333', 'ARCH 342', 'ARCH 451', 'ARCH 481']"
+Greenwald,Harvey,MATH,153,3.78,3.79,3.71,"['MATH 116', 'MATH 118', 'HNRS 141', 'MATH 141', 'HNRS 142', 'MATH 142', 'MATH 143', 'MATH 152', 'MATH 161', 'MATH 162', 'MATH 221', 'MATH 241', 'MATH 242', 'MATH 244', 'MATH 248', 'MATH 306', 'MATH 412', 'MATH 421']"
+O'Brien,Jennifer,KINE,69,2.33,2.67,2.26,"['KINE 250', 'KINE 255', 'PE 255', 'KINE 260', 'KINE 451']"
+Patterson,W.,AEPS,13,3.4,3.4,3.33,"['FRSC 211', 'CRSC 230', 'FRSC 230', 'FRSC 231', 'CRSC 331', 'FRSC 331', 'FRSC 402', 'FRSC 415']"
+Ward,Sandra,CHEM,4,2.5,3.0,2.75,"['CHEM 216', 'CHEM 128', 'CHEM 125']"
+Womack ,Malia ,WGS,2,4.0,4.0,4.0,['WGS 201']
+Gerami,Saba,MATH,17,3.37,3.37,3.37,"['MATH 112', 'MATH 117', 'MATH 118', 'MATH 119', 'MATH 142', 'MATH 221']"
+Nico,Kim,CSC,12,1.46,1.62,1.62,"['CSC 101', 'CSC 141', 'CPE 315']"
+Lovaglio,Enrica,ART,14,1.69,1.75,1.44,"['ART 181', 'ART 182', 'ART 183', 'ART 184', 'ART 487']"
+Walter,Michelle,TH,4,4.0,4.0,4.0,['DANC 131']
+Holzer,Erin,ENGL,2,2.0,2.0,1.67,['ENGL 134']
+Nakamura,Royden,BIO,114,1.11,0.99,1.11,"['BIO 101', 'BIO 111', 'BIO 112', 'BIO 153', 'BIO 307', 'BIO 322', 'ZOO 322']"
+Javadi,Siamak,BUS,12,3.38,3.31,3.08,"['BUS 301', 'BUS 342', 'BUS 433']"
+Currie,Beth,ENGL,1,2.0,1.0,1.0,['ENGL 134']
+Lancaster,Kathy,BUS,55,2.62,2.49,2.64,"['BUS 214', 'BUS 215', 'BUS 412', 'BUS 429']"
+Kuehn,Joseph,ECON,7,3.72,3.15,3.71,"['ECON 221', 'ECON 339']"
+Fowler,Thomas,ARCH,14,3.33,3.17,3.0,"['ARCH 351', 'ARCH 352', 'ARCH 353']"
+Haungs,Michael,CSC,38,3.26,3.15,3.08,"['CPE 101', 'CSC 101', 'CPE 123', 'CSC 123', 'CSC 171', 'CPE 453', 'CSC 453', 'CSC 543']"
+Muller,Brooke,ARCH,7,3.38,3.5,3.63,"['ARCH 106', 'ARCH 251', 'ARCH 252', 'ARCH 253']"
+Gauch,Alicia,POLS,2,2.0,1.67,2.33,"['POLS 308', 'POLS 324']"
+Durham,Garland,BUS,9,2.7,2.3,2.8,"['BUS 438', 'BUS 464']"
+Chen,Katherine,MATE,23,1.96,2.15,1.96,"['MATE 101', 'MATE 210', 'MATE 215', 'MATE 232', 'MATE 370', 'MATE 405', 'MATE 500', 'MATE 504']"
+Maples,Michael,BIO,1,2.5,2.5,2.5,['BIO 111']
+Altermatt,Joy,DSCI,5,2.6,2.0,2.0,"['AGED 105', 'DSCI 330', 'DSCI 422']"
+Garner,Annie,ENGL,84,2.76,2.59,2.85,"['ENGL 102', 'ENGL 114', 'ENGL 134', 'ENGL 143', 'ENGL 145', 'ENGL 148', 'ENGL 149', 'ENGL 215', 'ENGL 245']"
+Cleave,Junko,JPNS,2,4.0,3.5,3.5,['JPNS 101']
+Rong,Xiaoying,GRC,10,3.5,3.3,3.6,"['GRC 211', 'GRC 328', 'GRC 357']"
+Street,Cierra,MATH,5,4.0,4.0,3.8,"['MATH 141', 'MATH 242']"
+Jacks,Hilary,PHYS,12,1.33,1.66,2.26,"['PHYS 133', 'PHYS 141', 'PHYS 206']"
+Jin,Xiaomin,EE,37,2.06,1.73,2.23,"['EE 212', 'EE 306', 'EE 307', 'EE 335', 'EE 346', 'EE 347', 'EE 375', 'EE 402', 'EE 403']"
+Boyle,Eric,HIST,15,3.13,3.25,2.94,"['HIST 322', 'HIST 440']"
+Selby,Michael,PSY,12,3.09,3.27,2.91,"['PSY 304', 'PSY 340']"
+Workman,Julie,CSC,101,3.47,3.5,3.52,"['CPE 101', 'CSC 101', 'CPE 102', 'CSC 102', 'CPE 123', 'CSC 123', 'CPE 203', 'CSC 225', 'CSC 234', 'CPE 110', 'CPE 353']"
+Daubert,Sara,COMS,71,2.37,2.69,2.28,"['COMS 101', 'SPC 101', 'COMS 102', 'BUS 206', 'BUS 270', 'HNRS 270', 'BUS 387']"
+Schwartz,Gregory,BRAE,10,3.8,3.9,3.4,"['BRAE 128', 'BRAE 203', 'BRAE 320', 'BRAE 348']"
+Lund,Ulric,STAT,97,3.27,3.3,3.14,"['STAT 130', 'STAT 217', 'STAT 221', 'STAT 251', 'STAT 252', 'STAT 312', 'STAT 313', 'STAT 321', 'STAT 324', 'STAT 330', 'STAT 350', 'STAT 425', 'STAT 430', 'STAT 513']"
+DiLeo,Jan,NR,6,2.0,2.14,1.86,"['FNR 142', 'FNR 416', 'FR 416']"
+Allen,Teresa,JOUR,29,3.42,3.45,3.39,"['JOUR 101', 'JOUR 203', 'JOUR 219', 'JOUR 233', 'ENGL 303', 'JOUR 303', 'JOUR 352', 'JOUR 402', 'JOUR 407', 'JOUR 460']"
+Pieris,Ashlee,CSC,5,2.8,1.8,2.2,"['CSC 202', 'CSC 101']"
+Castro,Daniel,ME,1,4.0,4.0,4.0,['ME']
+Byrne,Rob,CHEM,19,1.38,1.57,1.52,"['CHEM 110', 'CHEM 124', 'CHEM 127', 'CHEM 128']"
+Liu,Yang,BUS,5,3.0,3.0,3.0,['BUS 342']
+Lang,Martin,MATH,6,1.0,0.0,0.0,"['MATH 116', 'MATH 142', 'MATH 143']"
+Migler,Theresa,MATH,37,3.2,3.28,3.13,"['MATH 117', 'MATH 118', 'MATH 119', 'MATH 141', 'MATH 221', 'CPE 349', 'CSC 349', 'CPE 101', 'CSC 101', 'CSC 103', 'CPE 348', 'CSC 348']"
+Nouh,Mohamed,MATH,2,0.5,0.5,0.5,"['MATH 244', 'MATH 141']"
+Gaisi De Torres,Nora,SOC,4,2.6,2.2,2.4,"['SOC 110', 'SOC 111']"
+Heesch,Red,GRC,4,2.0,2.0,1.67,"['GRC 357', 'GRC 401', 'GRC 421']"
+Scott,Gregory,CHEM,55,3.41,3.37,3.37,"['CHEM 124', 'CHEM 125', 'CHEM 126', 'CHEM 127', 'CHEM 128', 'CHEM 129']"
+Sen,Naresh,PHYS,37,0.39,0.45,0.4,"['PHYS 121', 'PHYS 122', 'PHYS 123', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 349']"
+Aguilera,Javier,CHEM,50,0.26,0.29,0.21,"['CHEM 124', 'CHEM 125', 'CHEM 312']"
+Frew,Annie,POLS,2,4.0,3.5,3.5,['POLS 112']
+del Rio Nascimento,Vicente,CRP,18,3.25,2.8,3.05,"['CRP 201', 'CRP 202', 'CRP 203', 'CRP 204', 'CRP 341', 'CRP 455']"
+Brown,Nicholas,PHYS,48,1.4,1.58,1.56,"['MATH 118', 'MATH 119', 'PHYS 121', 'PHYS 122', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141']"
+Kauffmann,Krista,ENGL,14,3.27,3.41,3.41,"['ENGL 231', 'ENGL 305', 'ENGL 335', 'ENGL 338', 'ENGL 349', 'ENGL 439']"
+Ross,Kevin,STAT,34,3.56,3.45,3.4,"['STAT 130', 'STAT 217', 'STAT 218', 'STAT 251', 'STAT 252', 'STAT 301', 'STAT 305']"
+Moelter,Matthew,PHYS,79,3.57,3.56,3.49,"['PHYS 101', 'PSC 101', 'PHYS 121', 'PHYS 122', 'PHYS 123', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 202', 'PHYS 211', 'PHYS 340', 'PHYS 341']"
+Saunders,Karl,PHYS,93,2.71,2.8,2.74,"['PHYS 121', 'PHYS 122', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 301', 'PHYS 142']"
+May,Vicki,ARCE,3,3.0,3.25,3.0,"['ARCE 223', 'ARCE 302', 'ARCE 305']"
+Pearson,Staci,MATH,5,1.83,2.17,1.33,['MATH 118']
+Hamilton,Emily,MATH,33,3.39,3.35,3.29,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 241', 'MATH 248', 'MATH 540']"
+Toker,Isinsu,PHYS,2,2.5,2.0,2.5,['PHYS 211']
+Ross,Lindsey,FSN,2,3.0,3.0,2.5,['FSN 319']
+Awwad,Mohamed,IME,1,4.0,4.0,4.0,['IME']
+Ahlgren,William,EE,57,1.91,1.67,1.96,"['EE 111', 'EE 208', 'EE 212', 'EE 295', 'EE 304', 'EE 306', 'EE 307', 'EE 334', 'EE 335', 'EE 346', 'EE 375', 'EE 402', 'EE 406', 'EE 255']"
+Campbell,Tammy,CHEM,41,1.35,1.12,1.6,"['CHEM 110', 'CHEM 111', 'CHEM 124', 'CHEM 127', 'CHEM 371', 'CHEM 128']"
+Heying,Michael,CHEM,41,2.44,2.72,2.37,"['CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 128', 'CHEM 129', 'CHEM 352', 'FSN 444']"
+Poshtan,Majid,EE,23,3.13,3.09,3.26,"['EE 212', 'EE 255', 'EE 295', 'EE 302', 'EE 342', 'EE 511', 'EE 242']"
+Stauffer,Erma,COMS,137,3.86,3.8,3.85,"['SCM 101', 'SOC 101', 'SPC 101', 'CM 102', 'COMS 102', 'CRP 102', 'SCM 102', 'SPC 102', 'SCM 201', 'SPC 201', 'TH 210', 'TH 240']"
+Hawkins,Timothy,CPE,40,3.13,3.1,3.42,"['CPE 101', 'CSC 101', 'CPE 102', 'CPE 103', 'EE 112']"
+Twisseleman,Sheree,COMS,147,2.93,3.12,2.93,"['CM 101', 'COMS 101', 'HNRS 101', 'SCM 101', 'SOC 101', 'SPC 101', 'COMS 111', 'SPC 201', 'COMS 217']"
+Morningstar,Barbara,ART,73,1.9,1.84,1.94,"['ENGL 103', 'ENGL 114', 'ENGL 134', 'ENGL 135', 'ENGL 145', 'ENGL 218']"
+Williams,Immanuel ,STAT,5,3.4,2.8,3.6,"['STAT 252', 'STAT 251']"
+Bennert,Vardha,PHYS,28,2.73,2.6,2.7,"['ASTR 101', 'PHYS 101', 'ASTR 102', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 211', 'ASTR 302']"
+Keeling,Elena,BIO,70,2.51,2.69,2.43,"['BIO 161', 'BIO 351', 'BIO 452']"
+Meserko,Vincent,COMS,4,3.5,4.0,3.5,['COMS 101']
+Dove,Daniel,ART,8,3.11,3.0,2.89,"['ART 209', 'ART 309', 'ART 409']"
+Delaure,Maximilian,COMS,18,3.04,3.29,2.88,"['SPC 114', 'SCM 145', 'SPC 145', 'ENGL 387']"
+Zahn,Sam,PHIL,7,3.72,3.72,3.72,"['PHIL 230', 'PHIL 126']"
+Christian,Karen,SPAN,34,3.56,3.58,3.56,"['ES 112', 'SPAN 121', 'SPAN 122', 'SPAN 124', 'SPAN 202', 'SPAN 203', 'SPAN 233', 'SPAN 301', 'SPAN 302', 'SPAN 305', 'HUM 310']"
+Forster,Sophia,ENGL,19,3.0,3.3,2.7,"['ENGL 240', 'ENGL 242', 'ENGL 304', 'ENGL 305', 'ENGL 341', 'ENGL 449']"
+Haskett,Kevin,EE,3,3.25,3.25,3.25,['EE 361']
+Champney,Danielle,MATH,24,2.93,2.93,2.8,"['MATH 141', 'MATH 142', 'MATH 227', 'MATH 229', 'MATH 242', 'MATH 300', 'MATH 329', 'MATH 143', 'MATH 248']"
+Mueller,Jim,MATH,163,3.91,3.91,3.86,"['MATH 118', 'MATH 119', 'MATH 121', 'MATH 141', 'HNRS 142', 'MATH 142', 'HNRS 143', 'MATH 143', 'MATH 161', 'MATH 162', 'MATH 182', 'MATH 218', 'HNRS 241', 'MATH 241', 'MATH 242', 'MATH 244', 'MATH 304', 'MATH 344', 'MATH 408', 'MATH 409', 'MATH 418']"
+Smith,Taylor,PSY,6,2.83,2.67,3.0,"['PSY 344', 'PSY 456', 'PSY 535']"
+Kirkhart,Bryan,CHEM,3,2.75,2.75,2.5,['CHEM 127']
+Alaniz,Ryan,SOC,55,3.28,3.37,3.4,"['SOC 110', 'SOC 111', 'ANT 201', 'SOC 217', 'SOC 218', 'HUM 310', 'SOC 310']"
+Rahim,Ashraf,CE,42,2.93,3.0,2.77,"['CE 112', 'CE 114', 'CE 205', 'CE 221', 'CE 222', 'CE 322', 'CE 521', 'CE 523']"
+Li,Eldon,BUS,12,2.5,2.0,2.58,"['BUS 321', 'BUS 390', 'BUS 391', 'BUS 496']"
+Choi,Inne,SOC,34,2.47,2.97,1.94,"['ANT 201', 'ANT 203', 'ANT 250', 'ANT 300', 'ANT 360', 'SOC 360']"
+Sine,Elizabeth,HIST,4,3.25,3.25,3.0,"['HIST 202', 'HIST 322']"
+Ahler,Michael,CHEM,2,1.5,1.75,2.0,"['CHEM 350', 'HIST 510']"
+Sharp,Makia,ART,1,4.0,4.0,4.0,['ART']
+Raio,Larry,SS,15,3.07,3.27,2.93,"['SS 121', 'ARCE 421']"
+Orth,Joel,HIST,25,3.33,3.33,3.37,"['HIST 202', 'HIST 207', 'HIST 322', 'HIST 408', 'HNRS 202']"
+Hummel,Paul,CPE,5,3.8,3.8,4.0,"['CPE 233', 'EE 329']"
+Tietje,Brian,BUS,33,2.38,2.67,2.1,"['BUS 342', 'BUS 346', 'BUS 349', 'IT 406', 'BUS 418', 'BUS 419', 'BUS 450']"
+Ma,Rachel,GRC,1,4.0,3.0,4.0,['GRC 328']
+Carter,Rob,MATE,40,3.53,3.18,3.39,"['MATE 110', 'IME 140', 'IME 141', 'IME 144', 'MATE 151', 'IME 156', 'MATE 215']"
+Ryan,Sean,BIO,24,3.67,3.88,3.63,"['BIO 102', 'BIO 114', 'BIO 121', 'BOT 121']"
+Coleman,John,STAT,2,2.67,2.67,3.0,['STAT 251']
+Humer,Irene,CSC,4,3.0,2.75,3.0,"['CSC 203', 'CSC 357']"
+Kincheloe,Nancy,PHYS,6,1.71,1.86,1.29,"['PHYS 132', 'PHYS 133']"
+Stair,Nick,CHEM,6,3.17,3.33,3.33,"['CHEM 124', 'PHYS 141']"
+Hascall,Antony,CHEM,28,2.23,2.27,1.87,"['CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 129']"
+Novak,Matthew,ENGL,15,3.0,3.22,2.78,"['ENGL 148', 'ENGL 205', 'HUM 303', 'ENGL 339', 'HUM 402', 'ENGL 408', 'ENGL 418']"
+Mendes,Anthony,MATH,108,3.8,3.8,3.75,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 206', 'MATH 241', 'MATH 242', 'MATH 244', 'MATH 248', 'MATH 335', 'MATH 336', 'MATH 341', 'MATH 344', 'MATH 435', 'MATH 437', 'MATH 481', 'MATH 550', 'MATH 202']"
+Skiles,Chris,COMS,105,3.59,3.54,3.54,"['CM 101', 'COMS 101', 'HNRS 101', 'SCM 101', 'SPC 101', 'SCM 102', 'SPC 102', 'CM 126', 'COMS 126', 'SCM 126', 'SPC 126', 'SCM 146', 'COMS 201', 'SPC 201', 'COMS 226', 'SPC 226', 'SPC 250', 'COMS 350', 'COMS 385', 'SPC 385']"
+Pennelly,Les,STAT,55,2.15,2.03,2.24,"['STAT 213', 'STAT 217', 'STAT 218']"
+Eppright,Kathryn,BUS,24,3.73,3.55,3.66,"['BUS 207', 'BUS 404']"
+Derelian,Doris,FSN,17,3.72,3.61,3.67,"['FSN 250', 'FSN 415']"
+Lindsay,Bill,ECON,1,4.0,4.0,2.0,['ECON']
+Mackenzie,Susan,AGED,3,1.5,2.0,1.75,['REC 221']
+Fiegel,Gregg,CE,47,3.51,3.32,3.31,"['CE 111', 'CE 114', 'HNRS 161', 'CE 281', 'CE 381', 'CE 382', 'CE 481', 'CE 581', 'CE 112']"
+Charalampidis,Stathis,MATH,5,3.8,3.4,4.0,"['MATH 241', 'MATH 244', 'MATH 143']"
+Perry,Robert,AERO,2,3.0,2.67,1.33,['AERO 300']
+Shapiro,Jonathan,MATH,147,2.27,2.36,2.02,"['MATH 141', 'MATH 142', 'HNRS 143', 'MATH 143', 'MATH 206', 'MATH 241', 'MATH 242', 'MATH 244', 'MATH 248', 'MATH 306', 'MATH 336', 'MATH 341', 'MATH 408', 'MATH 412', 'MATH 413', 'MATH 437', 'MATH 406']"
+Jankovitz,Kristine,KINE,92,2.52,2.74,2.43,"['KINE 250', 'PE 250', 'KINE 265', 'KINE 280', 'KINE 434']"
+Olson,Emily,ENGL,3,1.25,2.0,1.25,['ENGL 134']
+Kauffman,Daniel,CSC,21,3.05,3.55,3.09,"['CPE 101', 'CSC 101', 'CSC 202', 'CSC 225', 'CSC 480']"
+Kline,Loren,EE,4,1.4,1.8,1.0,"['BIO 213', 'EE 242', 'EE 251', 'EE 533']"
+Cline,Melissa,HLTH,2,3.0,3.0,3.0,"['HLTH 453', 'HLTH 260']"
+Humphreys,Debora,BUS,4,1.5,1.33,1.83,['BUS 384']
+Nepsa,Zoe ,MATH,9,2.55,2.33,2.78,"['MATH 118', 'MATH 141', 'MATH 161']"
+Reyes,Robert,POLS,1,4.0,4.0,4.0,['POLS 112']
+Carrasco,Rene,SPAN,2,4.0,4.0,4.0,['SPAN 233']
+Starnes,Heather,KINE,13,3.08,3.08,3.46,"['KINE 250', 'KINE 255', 'KINE 297', 'KINE 298', 'KINE 319', 'HLTH 255']"
+Kronemann,Melanie,GRC,6,2.29,2.29,3.0,"['GRC 337', 'GRC 377']"
+Gregg,Sharlene,COMS,1,2.5,2.0,2.0,['SPC 125']
+Galanti,Tera,ART,19,3.0,2.95,2.95,"['ART 101', 'ART 102', 'ART 105', 'ART 106', 'ART 131', 'ART 132', 'ART 133', 'ART 134', 'ART 201', 'ART 203', 'ART 409']"
+Pokharel,Siroj,ASCI,2,3.5,3.0,3.5,['ASCI 211']
+Helms,Eleanor,PHIL,33,3.26,3.2,3.23,"['PHIL 230', 'PHIL 312', 'PHIL 316', 'PHIL 350', 'PHIL 319']"
+Call,Lewis,HIST,106,2.67,2.94,2.55,"['HIST 111', 'HIST 204', 'HIST 213', 'HIST 215', 'HIST 217', 'HIST 307', 'HIST 310', 'HIST 315', 'HIST 317', 'WGS 340', 'HIST 354', 'HIST 441']"
+Lucas,Becca,ES,1,2.0,1.0,3.0,['ES']
+Bodwin,Kelly ,STAT,2,2.5,2.0,2.0,"['DATA 302', 'DATA 301']"
+O'Neill,Hugh,PHYS,3,2.75,2.5,1.75,['PHYS 132']
+Browne,Angelica,GER,4,3.16,3.33,3.66,"['GER 201', 'GER 233', 'WLC 101', 'WLC 310']"
+Rhatigan,Brendan,EE,5,3.4,3.4,3.8,"['EE 242', 'EE 201']"
+White,Emily,ARCH,11,3.0,3.09,2.73,"['ARCH 101', 'ARCH 131', 'ARCH 132', 'ARCH 133']"
+Rivera,Vanessa,CSC,10,3.4,3.1,3.5,"['CSC 101', 'CSC 203']"
+Brussel,Eric,MATH,54,3.18,3.12,3.1,"['MATH 142', 'MATH 143', 'MATH 206', 'MATH 241', 'MATH 408', 'MATH 481', 'HNRS 241', 'HNRS 143', 'MATH 482']"
+Hopper,Matthew,HIST,54,3.72,3.75,3.68,"['HIST 110', 'HIST 210', 'HIST 215', 'HIST 221', 'HIST 222', 'HIST 224', 'HIST 304', 'HIST 444', 'HIST 461', 'HIST 501', 'HIST 510', 'HIST 223']"
+Lefevre Latner,Christina,WGS,31,1.19,1.22,1.34,"['WGS 101', 'WGS 201', 'WGS 202']"
+BenShea,Adam,PHIL,14,3.34,3.68,3.15,"['RELS 201', 'RELS 302', 'PHIL 304', 'RELS 304', 'RELS 374', 'PHIL 378']"
+Lucas,Michael,ARCH,22,3.48,3.09,3.3,"['ARCH 101', 'ARCH 106', 'EDES 123', 'ARCH 131', 'ARCH 132', 'ARCH 251', 'ES 370', 'ARCH 401', 'ARCH 481']"
+Papathakis,Peggy,FSN,11,3.17,3.0,3.17,"['FSN 310', 'FSN 416', 'FSN 429']"
+Sritharan,Ramanan,ME,6,2.5,3.0,2.33,"['ME 328', 'ME 251', 'ME 329']"
+Mastako,Kimberly,CE,17,2.72,2.72,2.5,"['CE 222', 'CE 321', 'CE 322', 'CE 421', 'CE 423', 'CE 523']"
+Trexler,Grant,BUS,15,2.27,1.6,2.47,"['BUS 214', 'BUS 215']"
+Mott,Jennifer,ME,1,2.0,1.0,2.0,['ME']
+Cunningham,Allison,MATH,7,3.13,3.13,3.13,"['MATH 118', 'MATH 221']"
+Staniec,Jennifer,ASCI,7,4.0,4.0,4.0,"['ASCI 127', 'ASCI 227']"
+Self,Brian,ME,48,2.04,2.16,2.12,"['ME 212', 'ME 326', 'ME 328', 'ME 402', 'ME 410', 'ME 422']"
+Bonini,Vincent,MATH,43,3.51,3.61,3.32,"['MATH 141', 'MATH 143', 'MATH 206', 'MATH 241', 'MATH 244', 'MATH 304', 'MATH 306']"
+Chen,Johnathan,ME,2,3.33,3.0,3.0,"['ME 211', 'ME 302']"
+Fox,Kris,CSC,7,1.5,1.3,1.7,"['CSC 110', 'CSC 234', 'CSC 307']"
+Conroy,Bob,IME,25,3.35,3.42,3.42,"['IME 130', 'IME 143', 'IME 144']"
+Toker,Sidika,MATE,5,4.0,4.0,4.0,"['MATE 210', 'MATE 215']"
+Minehart,Cooper,ME,4,4.0,4.0,4.0,"['ME 228', 'ME 234']"
+Iqbal,Zafar,BUS,20,2.05,2.19,2.0,"['BUS 215', 'BUS 321', 'BUS 322', 'BUS 412', 'BUS 427', 'GSB 511']"
+Steele,Jodie,COMS,28,3.54,3.64,3.54,"['COMS 102', 'PSY 302', 'PSY 329']"
+Maughan,Jack,IME,2,3.5,4.0,3.5,['IME 142']
+Graham,Rebecca,SS,4,2.75,3.0,2.75,['SS 120']
+Clark,Serena,POLS,3,2.0,1.33,2.67,['POLS 111']
+Wang,Jenny,CSC,3,1.67,1.67,2.0,"['CSC 484', 'CSC 365']"
+Ocegueda,Eric,ME,4,4.0,4.0,4.0,"['ME 211', 'ME 212']"
+Medaris,Jeremy,MSL,3,3.6,3.4,3.2,"['MSC 111', 'MSC 202', 'MSC 302']"
+Armstrong,Mary,ENGL,21,3.59,3.73,3.64,"['WS 301', 'WS 310', 'ENGL 334', 'WS 340', 'ENGL 345', 'WS 401', 'ENGL 502']"
+Bolivar,Marisa,FSN,4,4.0,4.0,4.0,['FSN 250']
+Lee,Jean,MATE,46,1.42,1.7,1.48,"['ENGR 110', 'MATE 210', 'MATE 215', 'MATE 232', 'MATE 410']"
+Frame,Samuel,STAT,89,1.94,2.35,1.6,"['STAT 217', 'STAT 251', 'STAT 252', 'STAT 312', 'STAT 313', 'STAT 322', 'STAT 331', 'STAT 416', 'GSB 512', 'STAT 301', 'STAT 302']"
+Bodemer,Margaret,HIST,44,3.5,3.54,3.54,"['ANT 201', 'HIST 206', 'HIST 316', 'HIST 319', 'HIST 409', 'WLC 310']"
+Chiu,Yi,NR,6,1.43,1.71,1.71,"['ENVE 140', 'FNR 142', 'FNR 218', 'FNR 311']"
+Agbo,Samuel,EE,80,1.23,1.28,1.01,"['EE 112', 'EE 151', 'EE 211', 'EE 212', 'EE 228', 'EE 242', 'EE 301', 'EE 306', 'EE 307', 'EE 309', 'EE 310', 'EE 314', 'EE 346', 'EE 347', 'EE 409', 'EE 414', 'EE 418', 'EE 449']"
+Hayes,Kirby,DSCI,1,2.0,2.5,2.0,['DSCI 231']
+Rodriguez,Aaron,ES,35,3.37,3.43,3.17,"['ES 110', 'ES 112', 'ES 114', 'ES 210', 'ES 212', 'ES 243', 'SOC 316', 'ES 323']"
+Piburn,Patricia,JOUR,17,2.89,2.72,2.67,"['JOUR 203', 'JOUR 214', 'JOUR 219', 'JOUR 303', 'JOUR 333', 'JOUR 346', 'JOUR 353']"
+Zhang,Jane,EE,42,2.62,2.63,2.43,"['EE 101', 'EE 151', 'EE 228', 'EE 328', 'CPE 428', 'EE 112', 'CHEM 127', 'EE 211', 'EE 212', 'EE 241', 'EE 252', 'EE 302', 'EE 314', 'EE 525', 'EE 528']"
+Arellanes,Guadalupe,ES,1,4.0,2.0,4.0,['ES']
+Kearns,Tim,CSC,88,1.87,1.84,1.8,"['CSC 101', 'CSC 102', 'CPE 103', 'CSC 103', 'CSC 141', 'CPE 202', 'CSC 202', 'CPE 205', 'CSC 205', 'CSC 206', 'BIO 213', 'ENGR 213', 'CSC 249', 'CSC 300', 'CPE 349', 'CSC 349', 'CPE 365', 'CSC 365', 'CSC 375', 'ENGR 550', 'CSC 480']"
+Jaggia,Sanjiv,BUS,22,2.69,2.85,2.39,"['BUS 342', 'ECON 339', 'ECON 340', 'ECON 406']"
+Houer,Kevin,PHIL,2,3.0,2.5,2.5,"['PHIL 231', 'PHIL 126']"
+Siu,Christopher,CSC,11,3.72,3.9,3.72,"['CSC 248', 'CSC 225', 'CSC 202', 'CSC 349']"
+Breakspear,Anthony,ENGL,6,3.43,3.43,3.43,"['ENGL 134', 'ENGL 150']"
+Stanchev, Lubomir,CSC,2,3.0,2.0,3.5,"['DATA 301', 'CSC 365']"
+Shin,Austin,CSC,1,4.0,4.0,4.0,['CSC 231']
+Asplund,Richard,BUS,7,2.11,1.67,1.89,['BUS 499']
+Bohr,Gregory,SOC,54,3.39,3.43,3.35,"['GEOG 110', 'GEOG 150', 'SOC 150', 'GEOG 250', 'SOC 250', 'GEOG 308', 'GEOG 317', 'GEOG 318', 'GEOG 414', 'GEOG 455']"
+OLeary,Danielle,COMS,3,4.0,4.0,4.0,"['COMS', 'COMS 101']"
+Westwood,Joel,ENGL,155,2.73,2.87,2.68,"['ENGL 101', 'ENGL 148', 'HNRS 148', 'ENGL 149', 'ENGL 218', 'HUM 230', 'ENGL 303', 'HUM 303', 'LA 303', 'ENGL 320', 'HUM 320', 'LA 320', 'HUM 340', 'ENGL 145']"
+Zhang,Ning,POLS,47,2.58,2.47,2.85,"['POLS 229', 'POLS 321', 'POLS 324', 'POLS 325', 'POLS 328', 'POLS 382', 'POLS 428']"
+Young-Johnson,Connie,COMS,8,4.0,3.75,4.0,"['COMS 102', 'COMS 101']"
+Adams,Aubrie ,COMS,1,4.0,4.0,4.0,['COMS']
+Adan,Elizabeth,ART,37,3.56,3.66,3.48,"['ART 112', 'ART 118', 'ART 311', 'ART 312', 'ART 315', 'WGS 210']"
+Roesling,Ralph,ARCH,5,2.6,2.8,2.2,"['ARCH 253', 'ARCH 451', 'ARCH 452']"
+Cameron,Sarah,PHYS,3,3.0,3.25,3.5,['PSC 101']
+Speidel,Elbert,CM,8,3.44,2.89,3.56,"['CM 115', 'CM 211', 'CM 212']"
+Newey,Will,AERO,1,3.0,3.0,4.0,['AERO 299']
+Volpe,Ricky,AGB,17,3.49,3.32,3.53,"['AGB 327', 'AGB 404', 'AGB 422', 'AGB 425']"
+aradanas,clarito,SOC,5,3.0,3.0,3.33,"['ES 244', 'SOC 315', 'ES 322']"
+Ozawa,Kenneth,PHYS,49,2.82,2.86,2.64,"['CSC 110', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 211']"
+Pedersen,Ted,CSC,4,0.0,2.0,2.0,['CSC 102']
+Donig,Deb,ENGL,3,0.67,1.33,0.33,"['ENGL 364', 'ENGL 202']"
+Navarro,Jose,ENGL,27,3.41,3.45,3.28,"['ENGL 145', 'ENGL 202', 'ENGL 240', 'ES 243', 'ES 340', 'ENGL 346', 'ENGL 349', 'ENGL 381', 'ES 324', 'ES 112']"
+Estes,Allen,ARCE,2,3.0,3.25,3.5,"['ARCE 212', 'ARCE 106']"
+Reid,Anne,HIST,11,2.82,3.0,2.82,"['HIST 201', 'HIST 208', 'HIST 339']"
+Carroll,Jennifer,CHEM,24,2.49,2.53,2.33,"['CHEM 110', 'CHEM 127', 'CHEM 216', 'CHEM 217', 'CHEM 218', 'CHEM 221', 'CHEM 312', 'CHEM 316', 'CHEM 318', 'CHEM 458']"
+Pal,Nirupam,CE,68,1.19,1.22,1.19,"['ENGR 213', 'ENVE 216', 'ENVE 302', 'ENVE 304', 'ENVE 309', 'CE 331', 'ENGR 331', 'ENVE 331', 'ENVE 455', 'ENGR 581', 'ENGR 582']"
+Graecyn,Lydia,ENGL,11,2.42,2.42,2.75,"['ENGL 114', 'ENGL 134']"
+Ruttenberg,Benjamin,BIO,23,2.87,2.83,2.57,"['BIO 160', 'BIO 161', 'BIO 322']"
+Knight,Randy,PHYS,40,2.18,2.38,1.85,"['PHYS 107', 'PHYS 118', 'PHYS 121', 'PHYS 122', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PSC 201', 'PSC 202', 'PHYS 211', 'PHYS 212', 'PHYS 301', 'PHYS 302', 'PHYS 310', 'PHYS 323', 'ENVE 350']"
+Lammert,Amy,DSCI,10,2.42,2.42,2.08,"['FSN 125', 'DSCI 223', 'DSCI 231', 'FSN 311', 'FSN 319', 'FSN 364']"
+Walker,Randon,CHEM,24,2.96,2.84,3.25,"['CHEM 216', 'CHEM 218', 'CHEM 220', 'CHEM 312', 'CHEM 221']"
+Wilson,David,IME,9,3.0,3.11,2.89,"['IME 130', 'IME 142', 'IME 143', 'IME 144', 'LS 214', 'EE 346']"
+DeBruhl,Bruce,CSC,6,3.43,3.29,3.71,"['CSC 123', 'CSC 315', 'CPE 321', 'CSC 321', 'CSC 325', 'CSC 429']"
+Chinichian,Mostafa,EE,118,2.32,2.02,2.06,"['EE 112', 'EE 201', 'EE 211', 'EE 212', 'EE 213', 'CPE 219', 'EE 219', 'EE 228', 'EE 241', 'EE 242', 'EE 251', 'EE 301', 'EE 321', 'EE 342']"
+Heberling,Lydia ,ES,4,4.0,3.75,4.0,['ES 253']
+Gallardo,Angelo,EE,1,3.0,3.5,3.5,['EE 251']
+Marx,Steven,ENGL,38,1.76,1.95,1.76,"['ENGL 134', 'ENGL 145', 'ENGL 204', 'ENGL 230', 'ENGL 251', 'ENGL 255', 'ENGL 315', 'ENGL 330', 'HUM 330', 'ENGL 339', 'ENGL 354', 'ENGL 355', 'ENGL 380', 'ENGL 431', 'ENGL 515']"
+Kalin,Ruth,WGS,73,2.95,3.16,2.97,"['CM 101', 'COMS 101', 'COMS 102', 'WGS 301', 'WGS 320', 'WGS 340', 'WGS 145']"
+Devaney,Kevin,CE,88,2.1,2.19,2.05,"['CE 101', 'CE 102', 'CE 104', 'CE 201', 'CE 204', 'CE 205', 'CE 206', 'CE 207', 'ARCH 212', 'CE 259', 'CE 351', 'CE 355', 'CE 356', 'CE 454', 'CE 455', 'CE 457', 'CE 500', 'CE 540']"
+Dhillon,Anuraj,COMS,3,3.0,3.0,3.0,"['COMS 101', 'COMS 418', 'COMS 211']"
+Robertson,James,MATH,41,2.76,2.76,2.64,"['MATH 112', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 162', 'MATH 241', 'MATH 244', 'MATH 344']"
+Wang,Xuan,IME,2,3.5,3.0,3.0,['IME 327']
+Amos,Dave,CRP,1,4.0,4.0,4.0,['CRP']
+Stoffel,Mallory,BUS,1,4.0,4.0,4.0,['BUS']
+Miller,Charles,BUS,79,3.02,2.93,2.89,"['BUS 212', 'BUS 214', 'BUS 319', 'BUS 321', 'BUS 322', 'BUS 425']"
+Zahra,Alghoul,CHEM,23,3.17,2.96,3.04,"['CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 129']"
+Leitzell,Ashley,ME,58,2.86,2.82,2.72,"['ME 129', 'ME 130', 'ME 151', 'ME 211', 'ME 212', 'ME 228', 'ME 251', 'ME 318']"
+Francis,Cilnton,BIO,14,2.55,2.49,2.61,"['ZOO 323', 'BIO 401', 'BIO 445', 'BIO 323']"
+Martin-Elston,Erin,ENGL,64,2.46,2.63,2.44,"['ENGL 134', 'ENGL 143', 'ENGL 145', 'HNRS 145', 'ENGL 149', 'ENGL 147']"
+Lakeman,Sandra,ARCH,29,1.3,1.15,1.11,"['ARCH 111', 'ARCH 112', 'ARCH 121', 'ARCH 122', 'ARCH 123', 'ARCH 241', 'ARCH 251', 'ARCH 252', 'ARCH 253']"
+Mansfield,Steve,BUS,11,1.92,1.85,1.77,"['BUS 212', 'BUS 215', 'BUS 425']"
+Coffman,Lisa,ENGL,41,3.12,3.21,3.04,"['ENGL 134', 'ENGL 251', 'ENGL 253', 'ENGL 302', 'ENGL 341', 'ENGL 351', 'ENGL 386', 'ENGL 388']"
+Zhang,Chuancai,BUS,3,3.0,2.67,4.0,['BUS 319']
+Cashier,Dan,BUS,6,1.43,1.14,1.43,"['BUS 215', 'BUS 511']"
+Williams,Kevin,IME,35,3.73,3.18,3.56,"['IME 141', 'IME 142']"
+Battle,Martin,POLS,4,3.06,3.25,3.25,"['POLS 112', 'POLS 361']"
+Jercich,George,ART,8,2.78,2.78,3.0,"['ART 101', 'ART 107', 'ART 148', 'ART 348', 'ART 440']"
+Mirahmad,Mortazavi,STAT,39,2.78,2.88,2.78,"['STAT 217', 'STAT 221', 'STAT 250', 'STAT 251', 'STAT 252']"
+Cruikshanks,Randal,POLS,24,1.08,1.46,0.79,"['POLS 110', 'POLS 225', 'POLS 308', 'POLS 313', 'POLS 325']"
+Huzzey,Juliana,ASCI,38,3.06,3.03,2.8,"['ASCI 101', 'ASCI 112', 'ASCI 363', 'DSCI 412', 'ASCI 479']"
+Bickel,Christopher,SOC,33,3.71,3.63,3.71,"['SOC 110', 'SOC 111', 'SOC 316', 'SOC 406', 'SOC 412']"
+Hwang,Jennie,COMS,5,1.5,1.0,2.0,"['SPC 101', 'SPC 312', 'SCM 322', 'SPC 419']"
+Olmstead,Jennifer,KINE,10,3.36,3.09,3.45,"['KINE 260', 'KINE 407', 'PE 407', 'KINE 451']"
+Parham,Nancy,CSC,78,2.87,2.97,2.67,"['CSC 141', 'CSC 234', 'CSC 302']"
+Gill,Paige,AGB,14,1.4,1.67,1.47,"['AGB 202', 'AGB 212', 'AGB 301']"
+Palandoken,Hasan,CHEM,41,2.79,3.1,2.56,"['CHEM 216', 'CHEM 217', 'CHEM 312', 'CHEM 316', 'CHEM 317', 'CHEM 318']"
+Kolegraff,Stacy,CM,5,3.52,3.04,3.68,"['CM 214', 'CM 335', 'CM 371']"
+Prochello,Sholeh,ENGL,3,2.33,2.33,3.0,['ENGL 134']
+Henderson,Stan,DSCI,5,3.17,2.5,2.5,"['DSCI 121', 'DSCI 241', 'DSCI 422']"
+Kidder,Jean,EDUC,2,3.0,3.0,3.33,['EDUC 207']
+Lascano,Gustavo,DSCI,5,1.0,1.17,1.17,"['DSCI 101', 'DSCI 301']"
+Hagen,Charles,PHIL,71,3.22,3.38,2.93,"['PHIL 126', 'PHIL 217', 'PHIL 230', 'PHIL 231', 'PHIL 311', 'PHIL 312', 'PHIL 313', 'PHIL 314', 'PHIL 320']"
+Valencia-Laver,Debora,PSY,1,4.0,4.0,4.0,['PSY']
+Kornbluth,Megan,BIO,3,2.0,2.0,2.25,"['BIO 111', 'BIO 151']"
+Zamora,Erin,COMS,9,4.0,4.0,4.0,['COMS 101']
+DeTurris,Dianne,AERO,33,2.05,2.08,2.28,"['AERO 101', 'AERO 299', 'AERO 301', 'AERO 303', 'AERO 304', 'AERO 401', 'AERO 540']"
+Pierce,Todd,ENGL,35,3.11,3.32,3.17,"['ENGL 134', 'ENGL 240', 'ENGL 242', 'ENGL 320', 'ENGL 343', 'ENGL 350', 'ENGL 487']"
+Shafran,Aric,ECON,59,2.11,2.16,2.16,"['ECON 201', 'ECON 221', 'ECON 434', 'ECON 435', 'ECON 222']"
+Beaton,Brian,LS,50,0.22,0.22,0.24,"['BUS 101', 'DANC 101', 'ENGL 101', 'PEM 109', 'PEW 119', 'MATH 122', 'LS 123', 'BRAE 171', 'BOT 190', 'ZOO 195', 'PM 202', 'SS 222', 'BUS 241', 'IT 331', 'GRC 333', 'JPNS 333', 'HIST 354', 'HNRS 354', 'MCRO 389', 'HIST 400', 'FR 404', 'PM 404', 'LA 405', 'GSB 409', 'HUM 418', 'IME 420', 'MCRO 420', 'RELS 420', 'PM 444', 'SCM 448', 'SCM 501', 'BOT 505', 'AERO 510', 'LS 520', 'ITAL 528', 'PHIL 555', 'RELS 555', 'GEOG 589', 'MATH 460', 'GSP 101']"
+Baranski,John,HIST,1,2.0,3.0,3.0,['HIST 322']
+Mirafzal,Hoda,CHEM,30,2.32,2.48,1.87,"['CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 129']"
+Mukhopadhyay,Sumona,CSC,4,2.5,2.25,2.75,"['CSC 101', 'CSC 466']"
+Simmt,Kevin,POLS,2,3.5,2.5,4.0,"['POLS 359', 'POLS 229']"
+Porumamilla,Hemanth,ME,37,2.86,2.92,2.54,"['ME 134', 'ME 211', 'ME 212', 'ME 318', 'ME 422', 'ME 440']"
+Barlow,Philip,CM,3,2.25,2.75,2.25,"['CM 102', 'CM 460', 'CM 462']"
+Liu,Mei-Ling,CSC,43,2.52,2.5,2.33,"['CSC 101', 'CPE 102', 'CSC 102', 'CSC 347', 'CPE 365', 'CSC 365', 'CSC 369', 'CSC 469', 'CSC 569']"
+Beaton,Eric,MATE,2,3.5,3.5,4.0,['MATE 210']
+Dunne,Alex,ENGL,1,4.0,4.0,4.0,['ENGL']
+Miller,Jeffrey,ART,1,2.0,1.0,1.0,['ART 101']
+Pringle,Sean,CE,3,3.33,3.33,3.0,"['CE 204', 'CE 259']"
+Kann,David,ENGL,58,1.8,1.98,1.68,"['ENGL 134', 'ENGL 215', 'ENGL 240', 'ENGL 241', 'ENGL 303', 'ENGL 331', 'ENGL 340', 'ENGL 342', 'ENGL 351', 'ENGL 380', 'ENGL 388', 'ENGL 391', 'ENGL 449', 'ENGL 505', 'ENGL 511']"
+Nelson,Jill,ARCE,9,2.1,2.3,1.7,"['ARCE 211', 'ARCE 212', 'ARCE 315', 'ARCE 451']"
+Olsen,Eric,ITP,29,1.77,1.6,1.87,"['IT 303', 'IT 371', 'IT 403', 'IT 410', 'IT 428', 'IT 520', 'GSB 534']"
+Carleton,David,MATH,4,1.8,1.2,1.6,['MATH 118']
+Retsek,Dylan,MATH,131,3.89,3.92,3.87,"['MATH 112', 'MATH 141', 'HNRS 142', 'MATH 142', 'HNRS 143', 'MATH 143', 'MATH 206', 'HNRS 241', 'MATH 241', 'MATH 248', 'MATH 306', 'MATH 408', 'MATH 412', 'MATH 413', 'MATH 550']"
+McCleskey,Patrick,ITP,6,2.57,2.14,2.57,"['IT 137', 'IT 150']"
+McGowan,Lucy,AGB,2,4.0,3.5,4.0,['AGB 212']
+Powell,Ian,PHYS,6,4.0,4.0,4.0,"['PHYS 143', 'PHYS 142']"
+Borin,Norm,BUS,44,1.52,1.56,1.71,"['BUS 346', 'BUS 450', 'BUS 452', 'BUS 454', 'BUS 455', 'GSB 524']"
+Ellis,Rebecca,BUS,20,2.91,2.96,2.78,"['BUS 384', 'BUS 387', 'BUS 471', 'BUS 475', 'GSB 583']"
+Breaux,Cynthia,PSY,56,3.84,3.82,3.79,"['PSY 101', 'PSY 201', 'PSY 202', 'PSY 323', 'PSY 370', 'PSY 405']"
+Derbidge,Nephi,CE,3,3.0,3.0,2.5,"['CE 259', 'CE 382']"
+Moss,Robb,CE,19,2.27,2.27,2.27,"['CE 381', 'CE 382', 'CE 467', 'CE 481', 'CE 488', 'CE 583']"
+Bates,Patricia,ENGL,2,2.5,2.0,2.0,['ENGL 134']
+Wu,David,BUS,3,4.0,4.0,3.0,['BUS 207']
+Wood,Zoe,CSC,34,3.47,3.47,3.39,"['CPE 101', 'CSC 101', 'CPE 123', 'CSC 123', 'CSC 203', 'CPE 471', 'CSC 471', 'CSC 473']"
+Linsenbard,Gail,WGS,17,2.5,2.72,2.5,"['WGS 201', 'PHIL 231', 'PHIL 336', 'WGS 336']"
+Lancaster,Megan,ENGL,9,3.4,3.4,3.3,"['ENGL 134', 'ENGL 149']"
+john,arun,AERO,0,0.0,0.0,0.0,[]
+schaeffer,robert,SOC,18,3.5,3.17,3.44,"['SOC 110', 'SOC 118', 'SOC 218', 'SOC 395']"
+Singh,Jagjit,ITP,19,2.79,3.21,2.79,"['IT 303', 'IT 330', 'IT 331', 'IT 408', 'IT 457', 'IT 475']"
+Terry,Ray,MATH,106,1.87,1.99,1.51,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 206', 'MATH 241', 'MATH 242', 'MATH 244', 'MATH 317', 'MATH 318', 'MATH 344']"
+Vasquez,Kristian ,ES,1,4.0,4.0,4.0,['ES']
+Vagnoni,David,DSCI,6,3.33,3.0,3.33,"['ASCI 220', 'DSCI 301']"
+McDonald,Ashley,CHEM,39,1.93,2.44,1.86,"['CHEM 124', 'CHEM 127', 'CHEM 128', 'CHEM 351', 'CHEM 353', 'CHEM 111', 'CHEM 352', 'CHEM 357']"
+Perales,Marian,ES,8,1.44,1.89,1.78,"['ES 112', 'ES 323']"
+Erker,Jay,CHEM,87,1.66,1.55,1.74,"['CHEM 110', 'CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 128', 'CHEM 129']"
+Kitts,Christopher,BIO,3,2.0,1.75,1.5,"['BIO 221', 'MCRO 221', 'BIO 400']"
+Farber,Charmaine,GRC,15,3.44,3.61,3.56,"['GRC 201', 'GRC 338', 'GRC 339']"
+Jones,Jeff,CE,34,2.84,2.78,2.82,"['CE 204', 'CE 205', 'CE 211', 'ME 211']"
+Brady,Pamalee,ARCE,39,0.98,1.21,0.79,"['ARCE 211', 'ARCE 212', 'ARCE 222', 'ARCE 226', 'ARCE 303', 'ARCE 304', 'ARCE 315', 'ARCE 321', 'ARCE 371', 'ARCE 372', 'ARCE 444']"
+Tarantino,Jon,AERO,26,3.15,3.15,3.12,"['AERO 121', 'ARCE 211', 'ARCE 212', 'ARCE 225', 'ARCE 226', 'ARCE 227', 'AERO 300', 'ARCE 315', 'ME 318', 'AERO 420']"
+Gharibyan,Hasmik,CSC,138,1.46,1.59,1.4,"['CPE 102', 'CSC 102', 'CPE 103', 'CSC 103', 'CPE 349', 'CSC 349', 'CSC 430', 'CSC 445', 'CSC 449', 'CSC 540']"
+Saha,Koushik,ITP,6,2.5,2.67,2.5,['IT 330']
+Imam,Ali,ME,1,1.0,1.0,1.0,['ME']
+Dickinson,Jeremy,PHIL,30,2.88,2.88,2.81,"['PHIL 230', 'PHIL 231', 'PHIL 312', 'PHIL 317', 'PHIL 335']"
+Klisch,Stephen,ME,52,2.98,3.14,2.79,"['ME 211', 'MCRO 212', 'ME 212', 'ME 326', 'ME 328', 'ME 402', 'ME 501', 'ME 503']"
+Buyco,Ryan,ES,6,3.67,3.83,3.67,"['ES 256', 'ES 335']"
+Jaffe,Samuel,EE,4,3.4,3.4,3.4,['EE 151']
+Bross,Kristina,ENGL,3,2.67,3.33,3.0,"['ENGL 340', 'ENGL 515']"
+Farzan,Siavash,EE,3,4.0,4.0,4.0,"['EE 302', 'EE 215']"
+Hancock,Justin,CHEM,11,2.73,2.82,2.91,"['CHEM 124', 'CHEM 127', 'CHEM 128']"
+Trice,Tom,WGS,27,3.68,3.56,3.62,"['HNRS 161', 'HIST 215', 'HIST 216', 'HNRS 216', 'WGS 216', 'HIST 303', 'HIST 317', 'HIST 371', 'HIST 400', 'HIST 426', 'HIST 427', 'HIST 460']"
+Richert,Benjamin,MATH,88,3.13,2.96,3.08,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 161', 'MATH 206', 'MATH 241', 'MATH 244', 'MATH 248', 'MATH 406', 'MATH 437', 'MATH 481']"
+Ainsworth,Chris,BUS,1,4.0,4.0,4.0,['BUS']
+Bunting,Jaimie,BIO,10,3.89,3.89,3.7,"['BIO 111', 'BIO 150']"
+McNeil,Christina,TH,6,3.0,3.14,2.57,"['DANC 133', 'DANC 210', 'DANC 233']"
+Ochs,Nancy,AGB,3,3.0,3.5,3.25,"['AGB 323', 'AGB 331']"
+Dills,Sauny,ENGL,19,2.9,3.05,2.9,"['ENGL 145', 'ENGL 148', 'ENGL 149', 'ENGL 252', 'ENGL 302']"
+Goschke,Grace,BIO,124,2.33,2.33,2.18,"['BIO 111', 'BIO 302']"
+Buckalew,Chris,CSC,47,3.35,3.46,3.28,"['CPE 101', 'CSC 101', 'CSC 102', 'CPE 103', 'CSC 103', 'CSC 203', 'CPE 471', 'CSC 471', 'CSC 474', 'CSC 475', 'CSC 479']"
+Fagan,Kevin,SPAN,53,3.04,2.86,2.93,"['ITAL 101', 'SPAN 101', 'SPAN 102', 'SPAN 103', 'SPAN 121', 'SPAN 122', 'SPAN 123', 'SPAN 133', 'SPAN 201', 'SPAN 203', 'SPAN 205', 'SPAN 221', 'PHIL 231', 'SPAN 303', 'HUM 310', 'SPAN 402', 'SPAN 416']"
+Beug,Jim,CSC,10,1.75,1.67,1.75,"['CSC 330', 'CPE 453', 'CSC 453', 'CSC 550']"
+Duffin,Robert,PHYS,19,0.45,0.5,0.4,"['PHYS 101', 'PHYS 123', 'PHYS 132', 'PHYS 141']"
+Moran,Bradley,CHEM,3,3.67,3.67,3.67,"['CHEM 124', 'CHEM 125']"
+Lampart,Wendy,CHEM,31,0.59,0.34,0.72,"['CHEM 124', 'CHEM 127', 'CHEM 150']"
+Lepore,Jason,ECON,59,2.36,2.25,2.28,"['ECON 201', 'ECON 221', 'ECON 311', 'ECON 403', 'ECON 408', 'ECON 511']"
+Danowitz,Andrew,CPE,11,2.39,1.91,2.41,"['CPE 133', 'CPE 233', 'CPE 329', 'CPE 442', 'CPE 202']"
+Sapper ,Erik,CHEM,5,4.0,4.0,3.6,"['CHEM 124', 'CHEM 127']"
+Chance,Beth,STAT,69,3.4,3.41,3.37,"['STAT 130', 'STAT 150', 'STAT 217', 'STAT 301', 'STAT 302', 'STAT 320', 'STAT 321', 'STAT 324', 'STAT 410', 'STAT 414', 'STAT 418', 'STAT 512', 'STAT 313']"
+Owen,Frank,ME,30,1.79,2.03,1.72,"['ME 211', 'ME 212', 'ME 318', 'ME 326', 'ME 422', 'ME 428', 'ME 441']"
+Mwangi,James,ARCE,23,2.8,2.92,2.68,"['ARCE 211', 'ARCE 212', 'ARCE 221', 'ARCE 223', 'ARCE 305', 'ARCE 371', 'ARCE 372', 'ARCE 451', 'ARCE 452']"
+Snape,Severus,CHEM,11,3.07,3.14,2.57,"['CHEM 101', 'CHEM 110', 'CHEM 124', 'CHEM 125', 'CHEM 129', 'DANC 133', 'CHEM 202', 'CHEM 211', 'CHEM 242', 'CHEM 394']"
+Pokazanyeva,Anna,WGS,3,3.0,2.67,3.33,"['RELS 370', 'WGS 370', 'WGS 371']"
+Greve,Adrienne,CRP,8,3.33,3.44,2.89,"['CRP 336', 'CRP 342', 'CRP 411', 'CRP 445']"
+Leu,Billy,CE,2,2.33,2.0,3.0,"['CE 422', 'CE 522']"
+Matza,Daria,JOUR,2,3.0,2.0,3.0,['JOUR 285']
+Barjami,Saimar,PHYS,22,2.96,2.54,2.96,"['PHYS 121', 'PHYS 122', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 142']"
+Culbreath,Christopher,PHYS,15,2.34,2.07,2.4,['PHYS 142']
+Strand,Christine,BIO,12,3.46,3.54,3.0,"['ZOO 331', 'BIO 408', 'ZOO 422', 'BIO 432', 'BIO 433']"
+Meisenheimer,Kristen,CHEM,22,3.6,3.64,3.76,"['CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 129', 'CHEM 216', 'CHEM 217', 'CHEM 312', 'CHEM 316', 'CHEM 317', 'CHEM 319', 'CHEM 324']"
+Barrett,Elizabeth,PSY,47,3.44,3.41,3.42,"['CD 254', 'PSY 254', 'PSY 323', 'PSY 370', 'PSY 450', 'PSY 460', 'PSY 520']"
+Sze,Lawrence,MATH,167,2.47,2.33,2.58,"['MATH 118', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 161', 'MATH 206', 'MATH 221', 'MATH 241', 'MATH 244', 'MATH 336', 'MATH 341', 'MATH 437', 'MATH 481', 'MATH 334']"
+Keller,Elmo,CSC,13,3.54,3.62,3.23,"['CPE 357', 'CSC 357', 'CSC 453', 'CPE 454', 'CSC 454']"
+Horst,William,PHYS,173,2.07,2.33,1.96,"['PHYS 111', 'MATH 118', 'PHYS 121', 'PHYS 122', 'PHYS 123', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'MATH 141', 'PHYS 141', 'PHYS 142', 'PSY 143', 'PHYS 143']"
+Colvin,Kurt,IME,21,3.5,3.59,3.64,"['IME 142', 'IME 144', 'IME 335', 'IME 412', 'IME 420']"
+Sitko,Mark,TH,5,3.6,3.2,3.8,"['TH 210', 'TH 227']"
+Balakrishnan,Jerry,STAT,1,2.0,1.0,2.0,['STAT']
+Linn,Jason,HIST,94,3.57,3.62,3.51,"['HIST 110', 'HIST 201', 'HIST 208', 'HIST 210', 'HIST 221', 'HIST 222', 'HIST 441']"
+Soldatenko,Gabriel,ES,5,2.0,2.4,2.8,['ES 255']
+Randazzo,Anthony,ITP,38,1.83,1.86,1.81,"['IT 326', 'IT 329', 'IT 371', 'IT 410', 'IT 411', 'IT 512', 'IT 515']"
+Nuttall,Brent,ARCE,20,3.57,3.57,3.62,"['ARCE 211', 'ARCE 212', 'ARCE 226', 'ARCE 304', 'ARCE 315', 'ARCE 371', 'ARCE 448', 'ARCE 451', 'ARCE 452']"
+Greenly-Wacker,Mallary,BIO,9,2.56,2.89,3.0,['BIO 161']
+Clements,John,CSC,66,2.6,2.56,2.53,"['CPE 102', 'CSC 102', 'CPE 123', 'CSC 123', 'CSC 202', 'CPE 430', 'CSC 430']"
+Huitron,Jose,BUS,2,4.0,4.0,4.0,['BUS 310']
+Johnston,Amanda,ME,2,4.0,4.0,4.0,"['ME 234', 'ME 211']"
+Magnusson,Shirley,EDUC,3,0.75,0.5,1.75,"['EDUC 414', 'EDUC 432']"
+Ferreira,Les,DSCI,12,3.85,3.85,3.85,"['DSCI 330', 'DSCI 420']"
+Mulholland,Kathryn,POLS,1,0.0,1.0,2.0,['POLS']
+Pinto,Sari,ENGL,56,2.7,2.9,2.65,"['ENGL 102', 'ENGL 114', 'ENGL 134', 'ENGL 145', 'ENGL 302']"
+Cabrinha,Idona,MU,1,4.0,4.0,4.0,['MU']
+Gillen,Glen,PHYS,46,2.85,2.88,2.79,"['PHYS 121', 'PHYS 122', 'PHYS 123', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 211', 'PHYS 323']"
+Yost,Jenn,BIO,48,3.94,3.96,3.88,"['BIO 121', 'BOT 121', 'BIO 160', 'BIO 161', 'BIO 313', 'BOT 313', 'BIO 433', 'BOT 433']"
+McFarland,Lee,IME,72,3.39,3.38,3.41,"['ME 129', 'IME 130', 'ME 134', 'IME 151', 'ME 151', 'ME 152', 'ME 251', 'IME 314', 'IME 319', 'IME 320', 'IME 421', 'ME 428', 'ME 463']"
+Yeung,Chi,DSCI,10,3.9,3.51,3.9,"['DSCI 231', 'DSCI 233', 'DSCI 401', 'ASCI 290']"
+Loehr,Hayley,AGB,2,2.67,3.0,3.0,['AGB 410']
+Shaban,Ali,EE,45,3.58,3.53,3.42,"['EE 112', 'EE 201', 'EE 211', 'EE 212', 'EE 242', 'EE 255', 'EE 295', 'EE 303', 'EE 325', 'EE 406', 'EE 518']"
+Foroohar,Manzar,ES,116,2.63,2.79,2.46,"['HIST 210', 'ES 214', 'HIST 214', 'HIST 217', 'ES 314', 'HIST 314', 'HIST 315', 'HIST 340', 'HIST 341']"
+Hanretty-Church,Connie,PSY,22,3.43,3.48,3.35,"['PSY 201', 'PSY 202', 'PSY 460']"
+Glanz,Hunter,STAT,21,3.1,2.95,3.18,"['STAT 218', 'STAT 251', 'STAT 312', 'STAT 330', 'STAT 331']"
+Hoffman,Kenneth,PHYS,7,3.13,3.0,3.0,['GEOL 205']
+Eagon,Scott,CHEM,30,3.06,3.0,3.0,"['CHEM 110', 'CHEM 216', 'CHEM 218', 'CHEM 316', 'CHEM 317', 'CHEM 318', 'CHEM 319', 'CHEM 377', 'CHEM 217']"
+Allebe,Adrienne,ART,4,2.5,3.0,2.25,"['ART 111', 'AGC 594']"
+Chan,Bernette,DATA,1,4.0,4.0,4.0,['DATA']
+Kocsis,David,BUS,38,3.47,3.47,3.47,"['BUS 391', 'BUS 392', 'BUS 460', 'BUS 470', 'BUS 499']"
+Anderson-Cain,Brittany,SPAN,14,3.21,3.07,3.29,"['SPAN 101', 'SPAN 103', 'SPAN 111', 'SPAN 122', 'SPAN 203', 'MCRO 213', 'SPAN 233', 'SPAN 301', 'SPAN 305']"
+Marion,Grace,ENGL,2,3.5,4.0,3.5,['ENGL 134']
+Rossman,Eileen,ME,62,2.35,2.69,2.07,"['ME 211', 'ME 212', 'ME 236', 'ME 326', 'ME 329', 'ME 341', 'ME 347', 'ME 428']"
+Cirone,Joan,PSY,1,2.0,0.0,2.0,['PSY 205']
+Barata,Antonio,MU,109,2.08,2.24,1.85,"['MU 101', 'MU 114', 'MU 120', 'MU 305', 'MU 308', 'MU 310', 'MU 311', 'MU 312', 'MU 318', 'MU 352']"
+Frishberg,Daniel,CSC,1,3.0,3.0,4.0,['CSC']
+Krieger,Daniel,HIST,96,3.11,3.0,3.16,"['HIST 101', 'HIST 111', 'HIST 215', 'HIST 223', 'HIST 225', 'HIST 303', 'HIST 311', 'HIST 312', 'HIST 315', 'HIST 352', 'HIST 353', 'HIST 385', 'HIST 400', 'HIST 415', 'HIST 445', 'HIST 453']"
+Choi,Don,ARCH,66,3.16,3.43,2.89,"['ARCH 217', 'ARCH 218', 'ARCH 219', 'ARCH 221', 'ARCH 222', 'ARCH 320', 'ARCH 420']"
+Bagnall,James,ARCH,15,2.33,1.78,2.17,"['ENVE 101', 'ARCH 121', 'ARCH 122', 'ARCH 123', 'ARCH 131', 'ARCH 132']"
+Huang,Darren,CSC,7,1.3,1.3,1.6,"['CSC 101', 'FSN 101', 'CSC 141', 'CPE 357']"
+Kang,Wilson,ECON,5,4.0,3.4,4.0,"['ECON 221', 'ECON 424', 'ECON 464']"
+Gorman,Larry,BUS,216,2.94,3.09,2.68,"['BUS 342', 'BUS 343', 'BUS 346', 'BUS 431', 'BUS 433', 'BUS 444', 'BUS 462']"
+Swanson,Justin,ENGL,33,2.63,2.23,2.63,['ENGL 134']
+Mayer,Hans,ME,55,2.76,3.05,2.66,"['ME 236', 'AERO 301', 'ME 302', 'ME 341', 'ME 343', 'ME 347', 'ME 357', 'BMED 434', 'BMED 435']"
+Kuwahara,Sara,BRAE,2,4.0,3.5,4.0,"['BRAE 348', 'BRAE 150']"
+Lopez,Robert,MATH,3,3.33,3.0,3.67,"['MATH 143', 'MATH 244', 'MATH 118']"
+Glassmeyer,Sonja,KINE,10,3.2,3.4,3.4,"['KINE 250', 'KINE 280', 'KINE 408', 'KINE 450']"
+D'elia,Christopher,ME,3,3.25,3.0,2.75,"['CSC 231', 'ME 326']"
+Funston-Timms,Benjamin,SOC,44,3.71,3.73,3.6,"['GEOG 150', 'SOC 150', 'GEOG 250', 'GEOG 300', 'GEOG 308', 'GEOG 328', 'GEOG 370', 'SOC 370', 'GEOG 408']"
+Lutz,Bryan,IME,1,4.0,4.0,4.0,['IME']
+Anderson,Christian,GER,30,3.49,3.49,3.55,"['GER 101', 'GER 102', 'GER 103', 'GER 202', 'GER 203', 'CRP 335', 'GER 350']"
+Flushman,Tanya,LS,2,1.67,2.67,1.67,"['EDUC 428', 'LS 428']"
+Nguyen,Priscilla,ME,1,2.5,2.0,2.0,['MATH 118']
+Long,Todd,PHIL,49,2.8,3.0,2.62,"['PHIL 230', 'PHIL 231', 'PHIL 350', 'PHIL 411']"
+Johann,Sadie,ENGL,36,3.41,3.59,3.59,"['ENGL 133', 'ENGL 134', 'ENGL 145', 'ENGL 148', 'ENGL 149', 'HNRS 149', 'ENGL 147']"
+Greenwood,Brian,NR,15,2.58,2.52,2.64,"['REC 101', 'REC 160', 'REC 201', 'REC 260', 'RPTA 201']"
+Georgeou,Trian,IME,22,3.73,3.78,3.83,"['IME 140', 'IME 142', 'IME 143', 'IME 144', 'IME 145', 'IME 335', 'IME 146']"
+Patel,Vedant,ME,1,1.0,1.0,0.0,['ME']
+Contu,Francesco,CHEM,117,2.88,2.78,2.87,"['CHEM 111', 'CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 129', 'CHEM 331', 'CHEM 128']"
+Speece,Jill,IME,9,1.67,1.89,1.78,"['IME 223', 'IME 305', 'IME 326', 'IME 420', 'IME 424', 'IME 101']"
+Hosford,Andrew,ASCI,6,3.29,3.14,3.14,"['ASCI 211', 'ASCI 221', 'ASCI 384']"
+Kohlen,Ken,ARCH,5,1.17,1.83,1.33,"['ARCH 106', 'ARCH 231']"
+Neff,Grace,CHEM,124,3.47,3.43,3.41,"['CHEM 111', 'CHEM 124', 'CHEM 125', 'CHEM 127', 'CHEM 128']"
+Gollnick,Susan,FSN,13,2.93,2.93,2.79,"['FSN 210', 'FSN 310', 'FSN 315']"
+Kristo,Aleksandra,FSN,1,4.0,4.0,4.0,['FSN']
+Lawrence,Kris,ME,9,3.8,3.4,3.4,"['ME 129', 'ME 251', 'ME 326']"
+Stanko,Taryn,BUS,15,3.26,3.2,2.79,"['BUS 387', 'BUS 389', 'BUS 489']"
+Heath,Rebecca,COMS,29,2.35,2.32,2.42,['COMS 101']
+DeBrish,Andrea,BIO,1,1.5,2.5,2.0,['BIO 111']
+Klingenberg,BJ,CSC,3,4.0,4.0,3.67,"['CSC 402', 'CSC 308']"
+Grassl,Richard,MATH,6,3.29,3.0,3.43,"['MATH 141', 'MATH 143', 'MATH 221']"
+Manning,Chris,AEPS,4,1.2,1.0,1.6,['EHS 127']
+Mori,Barbara,SOC,38,1.05,1.11,1.08,"['SOC 105', 'SOC 110', 'HUM 310', 'SOC 310', 'SOC 311', 'SOC 316', 'SOC 350', 'SOC 421']"
+Malama,Bwalya,SS,18,3.63,3.53,3.11,"['SS 121', 'ES 140', 'ENVE 144', 'ES 144', 'FNR 144', 'GEOL 201']"
+Evans,Julie,AGB,2,0.33,0.33,0.33,"['AGB 323', 'AGB 331']"
+Wormley,K,CE,3,4.0,3.67,3.67,"['CE 222', 'CE 321']"
+Moretti,Alicia,ENGL,23,3.22,3.12,3.22,"['ENGL 134', 'ENGL 290', 'ENGL 391']"
+Ellis,Allison,BUS,1,3.0,3.0,4.0,['BUS']
+Junco,Maria,TH,19,1.71,2.0,1.57,"['DANC 132', 'DANC 232', 'DANC 233', 'DANC 300', 'DANC 321', 'TH 321', 'DANC 332', 'DANC 340']"
+Kuriabova,Tatiana,PHYS,21,2.36,2.1,2.32,"['PHYS 121', 'PHYS 122', 'PHYS 123', 'PHYS 131', 'PHYS 132', 'PHYS 211', 'PHYS 301']"
+Keas,Heidi,MATH,7,2.38,2.38,2.88,"['MATH 118', 'MATH 221']"
+Norman,Humberto,ARCH,11,3.67,3.75,3.67,"['ARCH 131', 'ARCH 132', 'ARCH 133', 'ARCH 252']"
+Bordbar,Michael,CHEM,6,3.0,2.83,3.0,"['CHEM', 'CHEM 312']"
+Anderson,Lisa ,BUS,1,4.0,4.0,4.0,['BUS']
+Deswart,Elisabeth,FSN,1,2.0,2.0,2.5,['FSN 310']
+Burroughs,Virginia,ASCI,16,1.53,1.82,1.24,"['ASCI 112', 'ASCI 229']"
+Spann,Sarah,NR,10,3.0,3.2,2.8,"['ENVE 142', 'FNR 142', 'FNR 202', 'CRP 416', 'FNR 416']"
+Lawson,Marian,BUS,1,0.0,1.0,1.0,['BUS 401']
+Neuhaus,Tom,FSN,40,2.38,2.33,2.05,"['FSN 101', 'FSN 121', 'FSN 250', 'FSN 304']"
+Abler,Fred,ARCH,5,1.75,1.5,1.88,"['ARCH 121', 'CPE 484', 'CSC 484']"
+Simon,Lisa,BUS,140,2.0,2.07,1.98,"['BUS 221', 'ECON 221', 'EDES 221', 'BUS 222', 'ECON 222', 'BUS 342', 'BUS 346', 'BUS 348', 'BUS 349', 'BUS 418', 'BUS 446', 'BUS 448']"
+Lecat,Benoît,WVIT,2,3.0,3.0,2.5,['WVIT 102']
+Jansen,Daniel,CE,33,3.35,3.45,3.12,"['CE 111', 'CE 201', 'CE 204', 'CE 205', 'CE 207', 'CE 259', 'CE 355', 'CE 559']"
+Hogue,Andrew,ARCE,2,1.33,1.67,1.33,"['ARCE 211', 'ARCE 227']"
+Aversano,Doug,NR,9,3.5,3.5,3.29,"['FNR 204', 'FNR 308', 'NR 204']"
+Moore,Laura,ARCH,7,3.24,2.34,2.57,"['ARCH 131', 'ARCH 132']"
+Zammit,Ronald,PHYS,66,2.92,2.77,2.92,"['PHYS 121', 'PHYS 131', 'PHYS 133', 'PHYS 206', 'PHYS 256', 'PHYS 357']"
+Kaltenbach,Jason,ITP,1,2.5,2.0,2.0,['IT 350']
+Kuhn,Devin,PHIL,32,2.36,2.52,2.24,"['RELS 201', 'WS 301', 'WGS 340', 'RELS 370', 'WGS 370', 'WS 370', 'RELS 374', 'RELS 378']"
+O’Connor,Beth,ENGL,2,1.5,3.5,2.5,['ENGL 134']
+Espinoza-Wade,Eric,ME,1,4.0,4.0,4.0,['ME']
+Surfleet,Chris,NR,18,2.53,2.0,2.21,"['SS 202', 'FNR 215', 'FNR 218', 'FNR 320', 'FNR 420', 'NR 320']"
+Schnupp,Alvin,TH,33,2.91,3.13,2.63,"['TH 210', 'TH 220', 'TH 230', 'TH 240', 'TH 290', 'TH 330', 'TH 342']"
+Goodman,Anya,CHEM,35,2.55,2.42,2.7,"['CHEM 128', 'CHEM 308', 'CHEM 313', 'CHEM 371', 'CHEM 475', 'CHEM 418']"
+Clucas,Meika,SOC,12,2.33,2.25,2.0,"['SOC 105', 'SOC 106', 'SOC 315', 'SOC 355', 'SOCS 355', 'SOC 423']"
+Doub,Phillip,FSN,18,2.95,2.95,3.0,"['FSN 102', 'AGB 201', 'AGB 306', 'AGB 401', 'AGB 443', 'FSN 443', 'AGB 450', 'AGB 463']"
+Fahs,Michael,COMS,47,2.14,2.42,2.14,"['SCM 101', 'SPC 101', 'SPC 102', 'COMS 213', 'SPC 213', 'COMS 301', 'SPC 301', 'SPC 316', 'SPC 330', 'SPC 413', 'COMS 450']"
+Gutierrez,Oscar,ES,1,4.0,4.0,4.0,['ES']
+Birdsall,Derik,MATH,2,3.33,3.0,3.0,['MATH 118']
+Vallarta,Mt,ES,1,1.0,2.0,2.0,['ES']
+Cabrinha,Mark,ARCH,7,3.0,2.75,2.63,"['ARCH 122', 'ARCH 251', 'ARCH 253', 'ARCH 341', 'ARCH 351', 'ARCH 352']"
+Moyer,Cynthia,AGED,15,1.75,2.13,1.81,"['REC 110', 'REC 205', 'REC 210', 'AGED 424']"
+Thompson,Richard,NR,9,2.67,2.44,2.67,"['FNR 326', 'FNR 465']"
+El Badawy,Amro,CE,19,3.82,3.82,3.87,"['CE 251', 'ENVE 323', 'ENVE 324', 'ENVE 325', 'ENVE 331', 'CE 431', 'ENVE 438', 'ENVE 470']"
+Latner,Michael,POLS,80,2.07,2.1,2.04,"['POLS 112', 'POLS 316', 'POLS 317', 'POLS 319', 'POLS 445']"
+Moore,Matthew,POLS,49,3.6,3.66,3.62,"['POLS 111', 'POLS 112', 'POLS 230', 'POLS 245', 'POLS 295', 'POLS 334', 'POLS 337', 'POLS 348', 'POLS 349', 'POLS 430']"
+Frisco,Patrick,COMS,59,3.37,3.45,3.4,"['CM 101', 'COMS 101', 'SPC 101', 'COMS 201']"
+Cooper,Solveg,BUS,5,2.14,2.14,2.29,"['BUS 346', 'GRC 361', 'BUS 401']"
+Daughtrey ,Trisha ,BUS,3,2.67,2.33,3.0,"['BUS 215', 'BUS 320']"
+Chi,Haoyan,BUS,34,3.51,3.25,3.42,"['MATH 118', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 182', 'MATH 221', 'MATH 244']"
+Koutsos,Elizabeth,ASCI,7,3.0,3.0,2.75,"['ASCI 320', 'ASCI 330', 'PM 330', 'VS 340', 'ASCI 350']"
+Maerz,Addison,BUS,3,3.0,3.67,3.0,['BUS 387']
+Velasquez,Gloria,SPAN,36,2.49,2.66,2.09,"['SPAN 101', 'SPAN 121', 'SPAN 233', 'SPAN 301', 'SPAN 305', 'HUM 312', 'ES 321', 'ES 323']"
+Lynch,Melinda,AEPS,4,2.8,2.8,2.8,"['EHS 215', 'EHS 225']"
+Qu,Bing,CE,17,3.18,3.29,2.77,"['CE 207', 'CE 251', 'CE 351', 'CE 356', 'CE 208']"
+Hasan,Mohammad,ME,4,4.0,4.0,4.0,"['ME 212', 'ME 326', 'ME 318']"
+Guyader,Andrew,ARCE,64,1.55,1.51,1.48,"['ARCE 204', 'CE 204', 'CE 207', 'ARCE 211', 'ARCE 212', 'ME 212', 'ARCE 226', 'ARCE 302', 'CSC 342', 'ARCE 351']"
+Pawlowski,Almont,EE,2,2.33,1.67,2.33,"['EE 242', 'EE 251']"
+Bernard,Thomas,TH,7,1.75,1.88,1.75,"['TH 225', 'TH 250', 'TH 270', 'TH 295', 'TH 325', 'TH 432']"
+Walter,Virginia,AEPS,15,1.47,1.67,1.33,"['EHS 120', 'AG 210', 'EHS 210', 'EHS 230', 'EHS 327', 'CRSC 333', 'EHS 342', 'EHS 345']"
+DeBetz,J.F.,STAT,4,2.6,3.0,2.8,['STAT 312']
+Cardinal,Kristen,BMED,17,3.02,3.12,3.08,"['BMED 101', 'BMED 111', 'LIB 326', 'BMED 420', 'ENGR 420', 'BMED 422', 'BMED 510']"
+Ngalande,Cedrick,AERO,1,1.0,0.5,1.0,['AERO 405']
+Moon,Preston,POLS,4,3.4,3.2,3.0,"['HUM 303', 'LS 303', 'POLS 303']"
+Frentzel,Justin,CRP,6,3.75,3.5,3.63,"['CRP 213', 'CRP 315', 'CRP 410', 'ECON 410', 'BUS 442']"
+Shani,Abraham,BUS,50,1.88,1.91,1.86,"['BUS 387', 'BUS 464', 'BUS 477', 'GSB 513']"
+Baukol,Collin,AERO,2,3.5,3.25,2.75,['AERO 215']
+DeWerth-Pallmeyer,Dwight,JOUR,3,2.0,2.0,1.5,"['JOUR 218', 'JOUR 385', 'JOUR 401']"
+Reichardt,Paul,BRAE,1,2.0,2.0,2.0,['BRAE']
+Kang,Ike,ASCI,1,3.0,3.0,4.0,['ASCI']
+Daly,James,STAT,72,3.34,3.33,3.27,"['STAT 130', 'STAT 217', 'STAT 221', 'STAT 251', 'STAT 252', 'STAT 321', 'STAT 322']"
+Fogle,Emily,CHEM,61,1.71,1.87,1.64,"['CHEM 101', 'CHEM 110', 'CHEM 127', 'CHEM 128', 'CHEM 313', 'CHEM 371', 'CHEM 373', 'CHEM 474', 'CHEM 403']"
+Franchi,Trevor,IME,1,2.0,2.0,4.0,['IME 431']
+Yang,Fan,MATH,62,3.25,2.95,3.27,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 161', 'MATH 221', 'MATH 241', 'MATH 244', 'MATH 182']"
+Dunton,Steve,EE,4,3.25,2.75,3.0,"['EE 201', 'EE 504', 'EE 113']"
+Synder,Susan,AEPS,1,4.0,4.0,4.0,['AEPS']
+Brown,Louisa,CRP,3,1.25,1.0,1.25,"['CRP 201', 'CRP 314']"
+Illingworth,Curtis,ARCH,21,2.87,2.91,2.65,"['ARCH 106', 'ARCH 111', 'ARCH 121', 'ARCH 122', 'ARCH 123', 'ARCH 221', 'ARCH 341', 'ARCH 351', 'ARCH 352', 'ARCH 353', 'ARCH 451']"
+Scholz,Joachim,BUS,18,1.78,1.89,1.56,"['BUS 418', 'BUS 453']"
+Bergman,Sky,ART,15,2.24,2.35,2.47,"['ART 221', 'ART 222', 'ART 223', 'ART 224', 'ART 260', 'ART 325', 'ART 383', 'ART 468']"
+Rossman,Allan,STAT,72,3.28,3.44,2.98,"['STAT 130', 'STAT 150', 'STAT 217', 'STAT 218', 'STAT 221', 'STAT 230', 'STAT 251', 'STAT 252', 'STAT 301', 'STAT 305', 'STAT 312', 'STAT 321', 'STAT 350', 'STAT 425', 'STAT 426', 'STAT 427']"
+Camp,Charles,MATH,50,1.57,1.49,1.57,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 241', 'MATH 304', 'MATH 344', 'MATH 418', 'MATH 451', 'MATH 452']"
+Talebi,Ali,BUS,1,1.0,1.0,1.0,['BUS 439']
+Hagobian,Todd,KINE,5,3.17,3.17,3.33,['KINE 303']
+Peterson,Zachary,CSC,21,3.75,3.57,3.62,"['CPE 123', 'CSC 123', 'CSC 323', 'CSC 453', 'CSC 456', 'CSC 458']"
+Janssen,Carol,BUS,47,3.83,3.83,3.67,"['BUS 207', 'BUS 404']"
+Roy,Soma,STAT,44,2.82,2.93,2.86,"['STAT 217', 'STAT 218', 'STAT 251', 'STAT 301', 'STAT 302', 'STAT 305', 'STAT 321', 'STAT 323', 'STAT 150']"
+Ringer,Lindsay,LA,1,0.0,0.0,2.0,['GEOG']
+Twomey,Colleen,GRC,6,2.83,3.17,3.0,"['GRC 201', 'GRC 203', 'GRC 337']"
+Reich,Jonathan,ARCH,3,2.67,2.67,2.33,"['EDES 406', 'ARCH 481']"
+Crockett,Bob,BMED,21,3.41,3.32,3.45,"['BMED 101', 'BMED 110', 'ENGR 110', 'ENGR 112', 'BIO 212', 'BMED 212', 'ENGR 213', 'BMED 500', 'ENGR 551', 'IME 577']"
+Enholm,Jennie,BUS,29,3.19,3.1,3.23,"['AGB 212', 'BUS 212', 'AGB 214', 'BUS 214', 'BUS 215', 'BUS 319', 'AGB 323']"
+Reeves,Astrid,LA,50,3.54,3.48,3.64,"['LA 111', 'LA 202', 'LA 204', 'LA 211', 'LA 212', 'LA 213', 'LA 251', 'LA 330', 'LA 341', 'LA 402']"
+Looper,Brian,PHIL,2,4.0,4.0,4.0,['PHIL 331']
+Bensky,Tom,PHYS,94,3.08,3.26,3.01,"['ASTR 101', 'ASTR 102', 'PSC 103', 'PHYS 121', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 256', 'PHYS 315', 'PHYS 323', 'ASTR 324', 'PHYS 324']"
+Carr,Janice,BUS,53,3.3,3.28,3.4,"['BUS 214', 'BUS 314', 'BUS 320', 'BUS 321', 'BUS 415']"
+Linn,Joyce,MATH,45,3.65,3.69,3.49,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 241', 'MATH 244', 'MATH 344']"
+OToole,Fred,PHIL,36,2.19,2.38,1.92,"['PHIL 125', 'PHIL 126', 'PHIL 225', 'PHIL 230']"
+Kingsbury,Kevin,CHEM,44,2.95,3.0,2.84,"['CHEM 110', 'CHEM 128', 'CHEM 129', 'CHEM 216', 'CHEM 312', 'CHEM 313', 'CHEM 316', 'CHEM 317', 'CHEM 318', 'CHEM 319', 'CHEM 445', 'CHEM 481']"
+Gill,Samantha,NR,31,2.09,2.09,1.97,"['FNR 201', 'FNR 215', 'BRAE 237', 'FNR 237', 'BRAE 247', 'FNR 247', 'FNR 315', 'FNR 318', 'AERO 414']"
+Taylor,Emily,BIO,35,3.69,3.58,3.56,"['BIO 123', 'BIO 162', 'BIO 232', 'ZOO 331', 'ZOO 332', 'BIO 407', 'BIO 434']"
+Jumonville,Frank,ME,5,2.5,1.83,2.17,['ME 443']
+Judge,Joel,ASCI,19,3.64,3.64,3.45,"['ASCI 141', 'ASCI 142', 'ASCI 143', 'ASCI 221', 'ASCI 222', 'ASCI 260', 'ASCI 304', 'ASCI 490']"
+Anderson,Bing,BUS,58,2.39,2.37,2.38,"['BUS 301', 'BUS 342', 'BUS 349', 'BUS 433', 'BUS 439']"
+Eller,Dan,JOUR,46,3.96,3.94,3.91,"['KINE 250', 'JOUR 312', 'JOUR 342', 'JOUR 413', 'JOUR 415', 'JOUR 460']"
+Kurfess,Franz,CSC,26,3.11,2.86,3.36,"['CPE 102', 'CSC 102', 'CPE 317', 'CPE 480', 'CSC 480', 'CPE 481', 'CSC 481', 'CPE 484', 'CSC 484', 'CSC 486', 'CSC 580', 'CSC 581']"
+Savage,Brett,POLS,3,4.0,3.67,4.0,"['POLS 245', 'POLS 344']"
+Miller,Michael,MATH,1,4.0,4.0,4.0,['MATH']
+Sprayberry,Kim,ASCI,15,3.87,3.8,3.87,"['ASCI 229', 'ASCI 438', 'ASCI 490', 'ASCI 310']"
+Bradley,Ivan,GRC,10,2.91,2.64,3.18,['GRC 377']
+O'Neill,Megan,BIO,87,1.23,1.26,1.02,"['BIO 111', 'BIO 212', 'BIO 213', 'BIO 231', 'BIO 232', 'ZOO 332', 'CSC 110', 'BIO 306']"
+Erisen,Elif,POLS,2,2.0,1.75,1.5,['POLS 360']
+Kohlen,Corinne,FSN,13,3.42,3.42,3.64,"['FSN 121', 'FSN 210', 'FSN 250', 'FSN 310', 'FSN 315']"
+Gasiorek,Sean,MATH,43,3.75,3.84,3.78,"['MATH 112', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 241']"
+Dabkowski,Montserrat,MATH,4,4.0,4.0,4.0,"['MATH 141', 'MATH 118']"
+Merayyan,Saad,CE,1,2.25,2.25,1.75,['CE 440']
+Barkhuff,William,MATE,1,2.0,1.0,2.0,['MATE']
+Knight,Charles,BIO,94,1.7,1.75,1.57,"['BIO 101', 'BIO 111', 'BIO 213', 'BIO 263', 'BIO 326', 'BOT 326', 'BIO 330', 'BIO 414', 'BIO 434', 'BIO 435', 'BIO 446']"
+Meagher,James,ME,25,2.33,2.33,2.37,"['ME 211', 'ME 212', 'ME 318', 'ME 404', 'ME 517']"
+Garrison,Ednie,WGS,4,2.0,1.5,2.75,['WGS 201']
+Steffora,Tom,PSY,2,4.0,4.0,4.0,['PSY 405']
+Cairns,Kathleen,HIST,26,3.5,3.58,3.46,"['HIST 208', 'HIST 322', 'HIST 435', 'WS 435', 'HIST 440']"
+Kirk,Colleen,MATH,80,3.75,3.67,3.75,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 241', 'MATH 244', 'MATH 317', 'MATH 344', 'MATH 501']"
+Keesey,Douglas,ENGL,13,3.36,3.64,3.29,"['ENGL 371', 'ENGL 372']"
+Cowitz,Mary,LS,18,2.05,2.3,1.8,"['LS 211', 'LS 270', 'LS 311', 'LS 370', 'LS 412']"
+Fernflores,Francisco,PHIL,26,3.13,3.26,3.13,"['PHIL 230', 'PHIL 231', 'PHIL 321', 'PHIL 241', 'PHIL 421']"
+Noland,Jaymie,ASCI,33,3.18,3.18,3.06,"['ASCI 101', 'ASCI 102', 'ASCI 112', 'ASCI 201', 'ASCI 223', 'VS 223', 'ASCI 227']"
+McCaughey,Timothy,MATH,80,1.12,1.18,1.12,"['MATH 118', 'MATH 121', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 161', 'MATH 162', 'MATH 221', 'MATH 241', 'MATH 244']"
+Sing,Lyndee,GRC,1,4.0,4.0,4.0,['GRC 220']
+Smith,Ryan,CE,7,3.72,3.14,3.85,"['CE 204', 'MATE 210', 'MATE 465']"
+Hawthorne,Dan,PSY,21,3.29,3.62,3.19,"['PSY 252', 'PSY 323', 'PSY 329', 'PSY 351']"
+MacDonald,Kent,ARCH,11,3.5,3.5,3.58,"['ARCH 123', 'ARCH 251', 'ARCH 252', 'ARCH 253', 'ARCH 443']"
+Kyriakides,Chrysanthos,PHYS,41,1.5,1.57,1.09,"['PHYS 121', 'PHYS 122', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 151']"
+Bellardo,John,CSC,36,2.56,2.44,2.43,"['CSC 101', 'CPE 123', 'CSC 123', 'CSC 225', 'CSC 349', 'CPE 453', 'CSC 453', 'CPE 458', 'CPE 464', 'CSC 464', 'CSC 465', 'CPE 569', 'CPE 315']"
+Barnes,Timothy,HIST,129,3.08,3.42,2.86,"['HIST 101', 'HIST 201', 'HIST 204', 'HIST 207', 'HIST 215', 'HIST 217', 'HIST 305', 'HIST 400', 'HIST 401']"
+Conway,Bethany,COMS,22,2.22,2.52,1.96,"['COMS 101', 'REC 140', 'COMS 218', 'JOUR 218', 'COMS 302', 'COMS 312', 'COMS 322', 'COMS 386', 'COMS 419']"
+Alexander,Benjamin,BUS,20,2.05,1.76,1.9,"['BUS 401', 'WGS 500']"
+Ryan,Kathy,PSY,48,2.38,2.4,2.38,"['PSY 201', 'PSY 202', 'PSY 330', 'PSY 366', 'PSY 458']"
+Stannard,Sandy,ARCH,2,2.0,2.0,2.0,['ARCH 481']
+Murray,Rich,EE,5,3.15,3.15,3.5,"['EE 460', 'EE 462', 'EE 143']"
+Kolkailah,Faysal,AERO,51,1.45,1.57,1.48,"['AERO 315', 'AERO 331', 'AERO 430', 'AERO 431', 'AERO 532']"
+Lertwachara,Kaveepan,BUS,30,3.44,3.44,3.44,"['BUS 290', 'IT 371', 'BUS 390', 'BUS 391', 'BUS 392']"
+Sparks,Jacob,PHIL,5,3.0,3.6,3.0,"['PHIL 323', 'PHIL 331']"
+McDaniel,Andrew,BRAE,6,1.29,1.14,1.43,"['BRAE 128', 'BRAE 141', 'BRAE 331', 'BRAE 340']"
+Murphy,Todd,AGB,3,3.0,3.0,3.25,"['AGB 324', 'AGB 326']"
+Morrission,Cindy,ENGL,30,3.06,2.9,2.94,"['ENGL 114', 'ENGL 134', 'ENGL 149']"
+Estrada,Aaron,PSY,34,2.58,2.73,2.58,"['PSY 252', 'PSY 305', 'PSY 323', 'PSY 370', 'PSY 372', 'PSY 555']"
+Hill,Debi,UNIV,1,4.0,4.0,4.0,['UNIV']
+Hall,Andrew,ENGL,1,4.0,4.0,4.0,['ENGL']
+Walsh,Daniel,MATE,53,2.71,2.49,2.47,"['ENGR 110', 'ENGR 111', 'MATE 210', 'ENGL 213', 'ENGR 213', 'BMED 420', 'MATE 440', 'BMED 530']"
+Bales,Delaney,ME,5,2.33,2.0,2.33,"['IME 140', 'ME 251']"
+Swan,Ben,BRAE,2,4.0,4.0,4.0,['BRAE 321']
+LoCascio,James,ME,163,1.98,2.41,1.8,"['ME 211', 'ME 212', 'ME 240', 'ME 302', 'ME 303', 'ME 312', 'IME 341', 'ME 341', 'ME 343', 'ME 344', 'ME 346', 'ME 350']"
+Haberland,Matthew,BRAE,1,4.0,3.0,3.0,['DATA']
+Sattler,Meredith,ARCH,9,2.56,2.56,2.34,"['EDES 123', 'ARCH 251', 'ARCH 252', 'ARCH 253', 'ARCH 307', 'EDES 350']"
+Lordus,Ginger,FSN,22,3.39,3.52,3.61,"['FSN 210', 'FSN 250', 'FSN 315']"
+Satumtira,Nisa,CHEM,40,1.87,1.68,2.16,"['CHEM 111', 'CHEM 124', 'CHEM 127', 'CHEM 128', 'CHEM 129', 'CHEM 125']"
+Howard,Zeljka,CRP,25,2.54,2.62,2.31,"['CRP 203', 'CRP 211', 'CRP 212', 'CRP 410', 'CRP 411', 'CRP 515']"
+Payan,Rose-Marie,ECON,32,1.25,1.19,1.22,"['ECON 124', 'ECON 222', 'ECON 252', 'ECON 401', 'ECON 405']"
+Chivens,Donald,ME,10,2.25,1.92,2.25,"['ME 124', 'ME 211', 'ME 212', 'ME 314']"
+Wolf,Mitch,BUS,38,2.84,2.79,2.53,"['BUS 346', 'BUS 356', 'BUS 446', 'BUS 450', 'BUS 451', 'BUS 488']"
+Shelton,Mark,AGED,15,3.53,3.67,3.27,"['AGED 110', 'AG 452']"
+Hartig-Ferrer,Ana,SPAN,51,2.76,2.76,2.67,"['SPAN 101', 'SPAN 102', 'SPAN 103', 'SPAN 121', 'SPAN 122', 'SPAN 124', 'SPAN 201', 'SPAN 203', 'SPAN 233', 'SPAN 301']"
+Schulte,Leanna,CHEM,3,3.67,3.33,4.0,['CHEM 127']
+Campos Chillon,Fernando,ASCI,17,2.11,2.06,1.89,"['ASCI 351', 'ASCI 406', 'ASCI 407']"
+Davis,Brian,MATE,3,3.67,3.67,4.0,['MATE 210']
+Todorov,Todor,MATH,142,2.26,2.44,1.77,"['MATH 119', 'MATH 124', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 206', 'MATH 241', 'MATH 242', 'MATH 244', 'MATH 248', 'MATH 304', 'MATH 317', 'MATH 323', 'MATH 344', 'MATH 412', 'MATH 418']"
+Adam,Sandra,AGB,15,2.63,2.44,2.56,"['AGB 214', 'AGB 323', 'AGB 331', 'BUS 387']"
+Grant-Holcomb,Arlene,FSN,42,3.57,3.48,3.59,"['FSN 101', 'FSN 121', 'FSN 210', 'FSN 250', 'FSN 343', 'FSN 344']"
+Katona,Leah,COMS,28,2.9,3.13,2.93,['COMS 101']
+Ho,Iris,CSC,4,4.0,4.0,4.0,"['CSC 240', 'CSC 248']"
+Burdd,Mathew ,ASCI,1,3.0,2.0,2.0,['ASCI 333']
+Sueda,Shinjiro,CSC,3,4.0,3.67,3.67,"['CPE 102', 'CSC 471']"
+Hasselbrink,Carson ,CHEM,2,4.0,4.0,4.0,"['CHEM 216', 'CHEM 312']"
+Maas,Andrew ,ME,2,4.0,4.0,4.0,['ME 228']
+Brovar,Alan,PSY,25,3.5,3.35,3.54,"['PSY 202', 'PSY 317', 'PSY 330', 'PSY 422']"
+Isom,Denise,ES,44,2.24,2.6,2.07,"['ES 112', 'ES 212', 'ES 320', 'ES 381']"
+Rincker,Lee,ASCI,18,3.78,3.72,3.56,"['ASCI 221', 'ASCI 222']"
+Castilow ,Dan ,ES,8,4.0,4.0,4.0,['ES 254']
+Montano,Damien,ES,5,4.0,4.0,4.0,"['ES 255', 'WGS 345', 'ES 253']"
+Freberg,Laura,PSY,114,3.41,3.44,3.34,"['PSY 101', 'PSY 201', 'PSY 304', 'PSY 340', 'PSY 456']"
+Logan,Kristen,POLS,22,2.35,2.66,2.39,"['POLS 112', 'POLS 229', 'POLS 225']"
+DiGangi,Donna,CE,0,0.0,0.0,0.0,[]
+Levenson,Harvey,GRC,18,3.1,3.4,3.0,"['GRC 101', 'GRC 460']"
+Lemieux,Patrick,ME,38,2.6,2.74,2.61,"['ME 303', 'ME 341', 'ME 343', 'ME 347', 'ME 350', 'ME 422', 'ME 444', 'ME 488', 'ME 542']"
+Gibbs,David,MATE,23,2.46,2.58,2.46,"['IME 142', 'IME 143', 'MATE 143', 'IME 144', 'MATE 215', 'ENGR 302', 'MATE 425']"
+Tomanek,Lars,BIO,12,1.84,1.67,2.08,"['BIO 162', 'BIO 324', 'BIO 361']"
+Battles,Ralph,BUS,40,2.44,2.19,2.3,"['ECON 337', 'BUS 342', 'BUS 431', 'BUS 434', 'BUS 435']"
+Lamorre,Elizabeth,ES,38,2.51,2.56,2.7,"['ES 112', 'WGS 201', 'SOC 311', 'WS 311', 'WGS 340']"
+Lipson,Brooke-Ashley,COMS,3,4.0,4.0,4.0,"['CPE 101', 'COMS 101']"
+Rinzler,Paul,MU,72,2.11,2.43,1.88,"['MU 101', 'MU 170', 'MU 207', 'MU 221', 'MU 222', 'MU 259', 'MU 324']"
+Bates,Jennifer,ENGL,32,2.52,2.58,2.34,"['ENGL 134', 'ENGL 149', 'ENGL 147']"
+Lascola,Gregory,PHYS,3,2.4,2.0,2.6,['PHYS 133']
+Eltzroth,Thomas,AEPS,13,3.33,3.56,3.33,"['EHS 201', 'EHS 315', 'EHS 361']"
+Janke,Dawn,ENGL,8,3.34,3.24,3.46,"['ENGL 133', 'ENGL 134', 'ENGL 145', 'ENGL 364', 'ENGL 368']"
+Barber,Cliff,ITP,26,2.72,2.17,2.38,"['IT 332', 'IT 333', 'BUS 371', 'IT 371', 'IT 406', 'IT 407']"
+Nasir,Fariha,PHYS,10,2.0,2.25,1.92,"['PHYS 123', 'PHYS 132']"
+Jackson,Lorraine,COMS,83,2.41,2.44,2.43,"['COMS 101', 'COMS 102', 'SCM 102', 'SPC 102', 'COMS 103', 'SPC 202', 'COMS 311', 'SCM 311', 'SPC 311', 'REC 360', 'COMS 418', 'SPC 418', 'COMS 421', 'SPC 421', 'SPC 461', 'SPC 480']"
+McLaughlin,William,COMS,4,3.5,3.33,3.33,"['SCM 101', 'SPC 101']"
+Jeffreys,Scott,AEPS,2,2.67,2.33,2.33,['FRSC 123']
+Main,David,BRAE,6,0.57,0.57,0.29,['BRAE 133']
+Pouraghabagher,Sisi,BUS,56,3.79,3.81,3.67,['BUS 214']
+Banfield,Dan,BUS,19,3.92,3.86,3.81,"['BUS 214', 'BUS 215']"
+Anderson,Trisha,BUS,33,2.72,2.78,2.56,"['AGB 214', 'BUS 214', 'BUS 215', 'AGB 224', 'BUS 320']"
+Lascola,Russ,PHIL,17,1.5,1.4,1.4,"['PHIL 230', 'PHIL 231']"
+Goldberg,Saul,EE,5,2.5,2.0,1.0,"['EE 201', 'EE 211', 'EE 295', 'EE 302', 'EE 342']"
+Teo,Ka,CSC,11,1.19,1.0,1.92,"['CSC 248', 'CSC 349']"
+Pinheiro,Joseph,ME,6,3.33,3.67,3.33,"['ME 211', 'ME 347', 'ME 420', 'ME 341']"
+Murray,William,ME,30,2.97,2.9,3.03,"['ME 212', 'ME 305', 'ME 326', 'ME 405', 'ME 422', 'ME 506']"
+Kelly,Cay,FR,5,2.83,2.5,2.5,"['FR 101', 'FR 102', 'FR 122']"
+Murphy,Janet,PSY,23,1.88,1.96,2.08,"['CD 128', 'CD 130', 'CD 230', 'PSY 254', 'PSY 256', 'CD 304']"
+Hesselgrave,Bill,MATH,189,3.44,3.42,3.27,"['MATH 112', 'MATH 118', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 144', 'MATH 161', 'MATH 182', 'MATH 206', 'MATH 221', 'MATH 241', 'MATH 242', 'MATH 244', 'MATH 304', 'MATH 318', 'MATH 344']"
+Hampsey,John,ENGL,89,3.01,3.12,2.72,"['ENGL 250', 'ENGL 251', 'ENGL 253', 'ENGL 261', 'ENGL 303', 'ENGL 304', 'ENGL 333', 'ENGL 350', 'ENGL 352', 'ENGL 380', 'ENGL 439', 'ENGL 459', 'ENGL 502']"
+Parajuli,Bishal,PHYS,3,4.0,3.67,4.0,"['PHYS 143', 'PHYS 121']"
+Vokos,Stamatis,PHYS,3,2.67,1.33,2.33,"['PHYS 104', 'PHYS 141']"
+Eickemeyer,James,PHYS,19,2.56,2.63,2.56,"['ASTR 101', 'ASTR 102', 'PHYS 104', 'PHYS 121', 'PHYS 133', 'PHYS 141', 'GEOL 201', 'ASTR 202', 'GEO 205', 'MATH 221', 'SCM 335']"
+Ninh,Thien-Huong,SOC,31,0.61,0.55,0.67,"['HUM 110', 'SOC 110', 'SOCS 110', 'SOC 421']"
+Cravens,R.G.,POLS,1,4.0,4.0,4.0,['POLS 230']
+Monadi,Reza,PHYS,4,3.25,2.5,4.0,['PHYS 143']
+Delany,Jim,MATH,40,1.21,1.28,0.95,"['MATH 141', 'MATH 142', 'MATH 143', 'MATH 241', 'MATH 242', 'MATH 244', 'MATH 336']"
+Hendricks,Bill,AGED,2,3.0,3.0,2.33,['REC 405']
+Kwong,Philip,MSL,3,3.25,3.25,3.25,"['MSC 112', 'MSC 211']"
+Benito,Casey,ARCH,1,4.0,4.0,3.0,['ARCH']
+Brain,Matt,CHEM,6,3.13,3.0,2.75,"['CHEM 202', 'VS 202', 'WS 202', 'WS 405', 'WS 406']"
+Halisky,Linda,ENGL,11,3.38,3.31,3.31,"['ENGL 303', 'ENGL 400', 'ENGL 431', 'ENGL 432', 'ENGL 449', 'ENGL 459', 'ENGL 511']"
+Higgins,Lindsey,AGB,20,2.36,2.41,2.55,"['AGB 301', 'AGB 405', 'AGB 443', 'AGB 554']"
+Harris,King,JOUR,4,2.67,2.67,3.0,"['JOUR 203', 'JOUR 333']"
+Cheney,Charise,ES,69,2.68,2.83,2.56,"['ES 101', 'ES 110', 'ES 112', 'HNRS 112', 'ES 201', 'ES 212', 'ES 302', 'ES 320', 'ES 321', 'ES 325', 'ES 380']"
+Lane,Kerry,ME,3,3.0,3.0,4.0,"['ME 212', 'ME 211']"
+Curiel,Carol,ENGL,71,2.37,2.55,2.38,"['ENGL 134', 'ENGL 145', 'ENGL 251', 'ENGL 252', 'ENGL 253', 'ENGL 254', 'ENGL 350']"
+Jessica,Abrams,COMS,3,3.0,3.0,3.0,"['SPC 101', 'SPC 315']"
+Daniels,Denise,PSY,16,3.12,3.29,3.29,"['CD 102', 'EDUC 207', 'CD 209', 'PSY 209', 'CD 329', 'CD 350', 'CD 401', 'CD 430']"
+Hartman,Bret,CSC,3,4.0,4.0,3.0,['CSC 321']
+Valdez,James,ITP,19,3.8,3.6,3.85,"['IT 150', 'IT 302', 'BUS 310', 'IT 326', 'IT 402', 'IT 403', 'IT 406', 'IT 411', 'IT 428']"
+Feldman,Jake,ARCE,14,3.07,3.07,3.13,"['ARCE 226', 'ARCE 315', 'ARCE 316', 'ARCE 322', 'ARCE 371']"
+Morgan,Livingston,ENGL,30,2.44,2.62,2.29,"['ENGL 134', 'ENGL 145', 'ENGL 149']"
+Chen,Sophia,CHIN,11,2.93,2.76,2.5,"['CE 101', 'FORL 101', 'CE 103', 'FORL 103', 'CHIN 103']"
+Waycott,William,AGED,2,0.5,0.0,1.0,['AGED 120']
+Spiller,Terry,MU,13,4.0,4.0,4.0,"['MU 101', 'MU 152', 'MU 153', 'MU 253', 'MU 324']"
+Martinez,Angel,EE,2,3.33,2.33,3.33,['CPE 259']
+Brown,Kenneth,IME,7,3.17,3.17,3.17,"['IME 143', 'IME 302', 'IME 537']"
+Slivovsky,Lynne,EE,21,1.96,2.09,2.0,"['CPE 129', 'CPE 169', 'EE 229', 'CPE 269', 'CPE 329', 'EE 329', 'CPE 350', 'CPE 462']"
+Villegas,Dan,ECON,187,1.47,1.67,1.35,"['ECON 101', 'ZOO 101', 'ECON 201', 'ECON 210', 'ECON 221', 'ECON 303', 'HNRS 303', 'ECON 304', 'ECON 311', 'ECON 325', 'ECON 330', 'ECON 417']"
+Schwartz,Debora,ENGL,128,1.72,2.0,1.63,"['ENGL 203', 'ENGL 204', 'ENGL 205', 'ENGL 230', 'ENGL 252', 'ENGL 253', 'ENGL 303', 'ENGL 330', 'ENGL 331', 'ENGL 339', 'ENGL 380', 'ENGL 389', 'ENGL 400', 'ENGL 430', 'ENGL 439', 'ENGL 459', 'ENGL 501', 'ENGL 512']"
+Subert,Maria,COMS,6,3.0,2.17,3.0,"['COMS 100', 'COMS 316', 'COMS 101']"
+Lynne,Hillary,ARCE,4,3.4,3.4,3.4,['ARCE 257']
+Mukherjee,Joydeep,CSC,4,4.0,4.0,4.0,"['CSC 305', 'CSC 357']"
+Betnar,Bret,LA,1,4.0,4.0,4.0,['LA']
+Lloyd-Moffett,Stephen,PHIL,48,3.42,3.67,3.27,"['RELS 201', 'RELS 203', 'RELS 205', 'PHIL 301', 'RELS 301', 'RELS 302', 'RELS 306', 'RELS 308', 'RELS 309', 'PHIL 310', 'RELS 310', 'RELS 311', 'RELS 372', 'PHIL 380', 'RELS 380']"
+Miller,Chad,PHYS,7,4.0,3.85,4.0,"['PHYS 142', 'PHYS 121', 'PHYS 143']"
+Demsetz,Elizabeth,PHYS,82,3.08,3.24,3.14,"['PSC 101', 'PHYS 102', 'PSC 102', 'PHYS 121', 'PHYS 122', 'PHYS 123', 'PHYS 131', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 200', 'PHYS 211']"
+Aleksandrov,Tstevan ,CHEM,5,1.8,1.8,1.4,"['CHEM 128', 'CHEM 125', 'CHEM 124']"
+Saavedra,Mauricio,POLS,5,3.5,3.75,3.5,['POLS 361']
+Zarowitz,Michael,BIO,9,3.11,2.56,3.11,['BIO 303']
+Samuel,Tony,MATH,32,2.29,2.32,2.46,"['MATH 142', 'MATH 143', 'MATH 306']"
+Mintz,Steven,BUS,31,1.91,1.85,1.61,"['BUS 215', 'BUS 321', 'BUS 424']"
+Mack,Rainer,ART,10,3.18,3.18,3.27,"['ART 101', 'ART 111', 'ART 112']"
+Yip,Chris,ARCH,62,1.74,1.78,1.65,"['ARCH 217', 'ARCH 218', 'ARCH 219', 'ARCH 318', 'AERO 319', 'ARCH 319', 'ARCH 320', 'ARCH 352', 'ARCH 420', 'ARCH 453']"
+Costanzo,Philip,CHEM,37,3.51,3.48,3.51,"['CHEM 216', 'CHEM 312', 'CHEM 316', 'CHEM 317', 'CHEM 318', 'CHEM 349', 'CHEM 517', 'CHEM 545']"
+Harbison,Rebecca,PHYS,30,1.16,0.97,1.23,"['ASTR 101', 'ASTR 102', 'PHYS 104', 'PHYS 121', 'PHYS 132', 'PHYS 133', 'PHYS 141']"
+Anderson,Bradford,BUS,1,2.0,3.0,2.0,['BUS']
+Boone,Joseph,PHYS,22,1.46,1.71,1.33,"['PHYS 121', 'PHYS 131', 'PHYS 133', 'MATH 143', 'PHYS 211', 'PSC 305']"
+Pierce,Lucas,CSC,1,4.0,4.0,4.0,['CSC']
+Covey,William,ENGL,6,3.43,3.57,3.57,"['ENGL 343', 'ENGL 370', 'ENGL 371', 'ENGL 372']"
+Patton,Linda,MATH,118,3.69,3.6,3.7,"['MATH 124', 'HNRS 134', 'MATH 141', 'HNRS 142', 'MATH 142', 'MATH 143', 'MATH 206', 'HNRS 241', 'MATH 241', 'MATH 242', 'MATH 244', 'MATH 306', 'MATH 344', 'MATH 406', 'MATH 408', 'MATH 412', 'MATH 419', 'MATH 482']"
+Montecalvo,Joseph,FSN,22,2.96,3.04,2.87,"['FSN 125', 'FSN 204', 'FSN 264', 'FSN 270', 'FSN 275', 'FSN 278', 'FSN 329', 'ENGL 350', 'FSN 364']"
+Biezad,Daniel,AERO,15,2.32,1.95,2.14,"['AERO 310', 'AERO 320', 'AERO 420']"
+Harvey,Dwight,ME,2,1.5,1.0,3.0,['ME 129']
+Leighton,Ying,EE,6,2.17,0.67,2.67,"['EE 321', 'EE 201']"
+Houghton,David,CE,9,3.41,3.02,3.41,"['CE 475', 'CE 251']"
+Hamann,Kris,IME,7,3.64,3.64,3.52,"['IME 144', 'IME 146']"
+Wright,Ava,PHIL,3,3.33,3.0,3.33,['PHIL 323']
+Connolly,Cristina,AGB,15,1.5,1.31,1.63,"['AGB 202', 'AGB 212', 'AGB 318', 'AGB 327']"
+Jones,Forrest,AGB,1,1.67,1.67,1.67,['AGB 213']
+Rehnberg,Zoe,STAT,10,2.3,2.5,2.8,"['STAT 301', 'STAT 331']"
+Holtzapple,Robert,PHYS,64,3.63,3.77,3.49,"['PHYS 133', 'PHYS 141', 'PHYS 202', 'PHYS 405', 'PHYS 406']"
+Paradis,Jeffrey,CHEM,5,2.0,1.5,2.0,"['CHEM 124', 'CHEM 125', 'CHEM 127']"
+Andrews,Amelia,POLS,9,2.3,2.1,2.4,"['POLS 111', 'POLS 112', 'POLS 180', 'POLS 350', 'POLS 359']"
+Bridger,Sarah,HIST,30,3.23,3.29,3.13,"['HIST 111', 'HIST 202', 'HIST 207', 'HIST 322', 'HIST 326', 'HIST 440']"
+Lindert,Lisa,CHEM,27,1.63,1.57,1.46,"['CHEM 127', 'CHEM 128', 'CHEM 313', 'CHEM 371']"
+Hoadley,Rod,ITP,32,2.89,2.89,2.86,"['IME 142', 'IME 143', 'IME 144', 'IT 144', 'IT 206', 'IT 260', 'IT 345', 'IT 407']"
+Paniagua,John,HIST,2,4.0,3.5,4.0,"['HIST 304', 'HIST 223']"
+Beckett,Debbie,ASCI,3,3.5,3.25,3.25,"['ASCI 303', 'ASCI 406']"
+Bell,Thomas,CPE,19,1.25,1.15,1.05,"['CPE 229', 'CPE 269', 'CPE 317', 'CPE 327', 'CPE 329']"
+Burn,Shawn,PSY,71,3.63,3.71,3.63,"['PSY 201', 'PSY 252', 'PSY 256', 'PSY 303', 'PSY 311', 'WS 311', 'PSY 341', 'PSY 351', 'PSY 352', 'PSY 360']"
+Macedo,Jose,IME,36,1.79,1.79,1.63,"['IME 223', 'IME 326', 'IME 426', 'IME 427', 'IME 430', 'IME 470']"
+Norton,Vivian,MATH,6,2.13,2.13,1.88,"['MATH 116', 'MATE 117', 'MATH 117', 'MATH 118']"
+Klay,Jennifer,PHYS,28,1.7,1.67,1.7,"['PHYS 101', 'PSC 101', 'ASTR 102', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 202', 'PHYS 340']"
+Tully-Doyle,Ryan,MATH,12,4.0,4.0,4.0,"['MATH 142', 'MATH 306', 'MATH 143', 'MATH 241', 'MATH 412', 'MATH 413', 'MATH 304']"
+Hughes,Thomas,MATH,3,0.75,0.25,0.5,['MATH 118']
+Montez,Ramon,MSL,2,3.0,2.67,2.67,"['MSC 103', 'MSC 303']"
+Russell,Craig,MU,107,3.66,3.56,3.58,"['MU 101', 'MU 120', 'MU 121', 'MU 229', 'MU 321', 'MU 324', 'MU 329']"
+Pilkington,Wayne,EE,42,3.56,3.65,3.44,"['CPE 129', 'EE 129', 'EE 151', 'EE 228', 'EE 328', 'EE 368', 'EE 419', 'EE 327']"
+Christiansen,Jodi,PHYS,44,1.67,1.4,1.54,"['PHYS 121', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 211', 'ASTR 302', 'ASTR 326']"
+Bomstad,Linda,PHIL,28,2.77,2.85,2.46,"['PHIL 125', 'PHIL 126', 'PHIL 230', 'PHIL 231', 'PHIL 314']"
+McCullough,Michael,AGB,1,4.0,4.0,4.0,['NR']
+Coleman,James,SOC,74,2.8,2.97,2.67,"['SOC 106', 'SOC 110', 'SOC 218', 'SOC 310', 'SOC 377', 'SOC 402']"
+Thatcher,Tracy,CE,17,2.71,2.83,2.83,"['ENVE 264', 'ENVE 309', 'ENVE 324', 'ENVE 325', 'ENVE 330', 'ENVE 331', 'ENVE 421', 'ENVE 111']"
+Hannings,David,AEPS,32,1.18,1.39,0.91,"['EHS 120', 'EHS 121', 'EHS 124', 'EHS 230', 'EHS 231', 'EHS 232', 'EHS 327']"
+Geringer,John,BUS,24,3.59,3.7,3.74,"['AGED 293', 'BUS 303', 'BUS 401', 'BUS 402', 'AERO 403', 'BUS 403']"
+Kim,Jun-Hyun,LA,5,3.0,2.83,3.17,"['LA 204', 'LA 431']"
+Duarte,Arthur,AGB,6,1.67,1.67,1.33,['AG 250']
+YEh,Grace,ES,38,3.46,3.62,3.49,"['ES 244', 'ES 322', 'ES 335']"
+Watson,Sean,MATH,6,2.83,3.0,2.83,"['MATH 244', 'MATH 142']"
+Babu,Praveen,BIO,64,3.32,3.41,3.17,"['BIO 112', 'BIO 210', 'BIO 213', 'BIO 302', 'BIO 303', 'SCM 325']"
+Ruiz,Trevor,STAT,4,2.25,3.5,3.5,"['STAT 425', 'STAT 218']"
+Main,Kelly,CRP,10,2.45,2.55,2.27,"['CRP 215', 'CRP 410', 'CRP 411', 'CRP 412']"
+Hanson,Jim,CE,14,3.6,3.53,3.6,"['CE 381', 'CE 382', 'CE 481', 'CE 585']"
+Leal,Jennifer ,ES,2,1.0,1.0,2.0,['ES 253']
+Kreeger,Karen,ENGL,20,1.56,1.64,1.76,"['ENGL 102', 'ENGL 112', 'ENGL 134', 'ENGL 145', 'ENGL 148', 'ENGL 149', 'ENGL 310']"
+Osborn,Brian,ARCH,3,3.0,3.0,3.25,"['ARCH 242', 'ARCH 252']"
+Cooper,Mary,ME,104,2.18,2.26,2.09,"['ME 134', 'ME 151', 'ME 152', 'ME 211', 'ME 212', 'ARCE 221', 'ARCE 225', 'ARCE 257', 'ME 302', 'ME 318']"
+Gervasi,Jeff,MATH,43,3.86,3.86,3.85,"['MATH 118', 'MATH 142', 'MATH 143', 'MATH 221', 'MATH 222', 'MATH 141', 'MATH 241']"
+Fabijanic,John,ME,22,2.6,2.64,2.6,"['ME 134', 'ME 211', 'ME 212', 'ME 329', 'ME 416', 'ME 428', 'ME 441']"
+Koch,Martin,IME,58,3.7,3.38,3.61,"['IME 141', 'ENGR 212']"
+Bergen,Anne,BIO,14,3.27,3.2,3.07,"['PSC 101', 'BIO 111', 'BIO 211', 'LS 410']"
+Dawoodbhoy,Taha,PHYS,3,3.33,3.67,3.33,"['PHYS 143', 'PHYS 123']"
+Parolini,Michael,ARCE,1,2.5,2.5,2.0,['ARCE 315']
+Metcalf,Lynn,BUS,32,2.36,2.42,2.22,"['BUS 246', 'BUS 346', 'BUS 418', 'BUS 446', 'BUS 454', 'BUS 458', 'BUS 488']"
+Padavana,Bella,MATH,1,4.0,4.0,4.0,['MATH']
+Wilson,Michael,EE,5,3.0,2.8,3.6,"['EE 112', 'EE 347', 'EE 348']"
+Frantz,Derik,CHEM,34,3.55,3.61,3.45,"['CHEM 216', 'CHEM 217', 'CHEM 218', 'CHEM 316', 'CHEM 317', 'CHEM 312']"
+Jenkin,Bryce,MATH,212,3.4,3.42,3.32,"['MATH 112', 'MATH 118', 'MATH 119', 'MATH 141', 'MATH 142', 'MATH 143', 'MATH 144', 'MATH 161', 'MATH 162', 'MATH 182', 'MATH 221', 'MATH 241', 'MATH 244', 'MATH 344']"
+Corcoran,John,EE,32,2.91,2.63,3.13,"['EE 208', 'EE 211', 'EE 212', 'EE 248', 'EE 302', 'EE 308', 'EE 346', 'EE 348', 'EE 409', 'EE 449']"
+Carmichael,Andrew,PHYS,37,2.36,2.21,2.33,"['PHYS 121', 'PHYS 122', 'PHYS 132', 'PHYS 133', 'PHYS 141', 'PHYS 211']"
+Hutchcraft,Jamie,PSY,6,2.71,2.71,3.14,['PSY 202']
+Marlow,Colleen,PHYS,42,1.48,1.69,1.5,"['PHYS 101', 'PSC 101', 'PHYS 132', 'PHYS 133', 'PHYS 141']"
+MacElroy,William,LA,10,2.55,2.36,2.18,"['LA 101', 'LA 130', 'LA 235', 'LA 456']"
+MacCarley,Arthur,EE,29,1.94,1.94,1.91,"['EE 111', 'EE 151', 'CPE 336', 'EE 409', 'EE 432', 'EE 434', 'CPE 436', 'EE 449', 'EE 450']"
+Wright,Bruce,AERO,17,3.32,3.42,3.42,"['AERO 310', 'AERO 311']"
+McDermott,Steven,COMS,63,2.13,1.99,2.21,"['SCM 101', 'SPC 101', 'COMS 102', 'SCM 102', 'SPC 102', 'SPC 112', 'SPC 202', 'SPC 217', 'SPC 308', 'COMS 312', 'SCM 312', 'SPC 312', 'SPC 411', 'SCM 416', 'SPC 416']"
+Cardinal,Trevor,BMED,19,2.54,2.73,2.35,"['BIO 111', 'FORL 302', 'BIO 400', 'BIO 460', 'BMED 460', 'ENGR 460', 'BMED 560', 'BMED 102']"
+Fredrickson,Cameron,MATH,22,0.65,0.92,0.69,"['MATH 141', 'MATH 118']"
+Olsen,Clare,ARCH,4,3.6,3.6,3.4,"['ARCH 131', 'ARCH 253']"
+Rice,Thomas,SS,40,3.45,3.5,3.3,"['SS 101', 'SS 121', 'SS 321', 'SS 431', 'SS 433']"
+Howard,Jonathan,CE,1,2.0,2.0,1.0,['CE']
+Jones,Bobbi,BUS,4,1.6,1.6,1.6,"['BUS 321', 'BUS 429']"
+Kuhn,Kevin,AERO,4,1.71,2.14,2.43,"['AERO 310', 'IT 371']"
+Veloz,Larisa,HIST,7,3.43,3.57,3.57,['HIST 206']
+Khurana,Beena,BUS,5,3.17,2.83,3.0,['BUS 302']
+Mussulman,Ronald,ME,0,0.0,0.0,0.0,[]
+Ellis,Karen,MATH,2,0.75,1.25,1.0,['MATH 142']
+Appel,Christopher,SS,55,3.56,3.63,3.54,"['SS 110', 'SS 121', 'SS 131', 'SS 221', 'ES 363']"
+Meyer,Beth,ENGL,13,3.0,3.0,3.14,"['CSC 110', 'ENGL 134', 'ENGL 143']"
+Watts,Katharine,CHEM,8,3.25,3.38,2.88,"['CHEM 125', 'CHEM 128', 'CHEM 313', 'CHEM 371', 'CHEM 373', 'CHEM 475']"
+Bernau,Simon,MATH,6,1.71,1.14,1.86,"['MATH 143', 'MATH 241']"
+Nakata,Takeshi,PHYS,9,0.45,0.64,1.09,"['PHYS 132', 'PHYS 141']"
+McCormick,Kathryn,ART,19,2.23,2.5,2.32,"['ART 181', 'ART 238', 'ART 260', 'ART 313', 'ART 331', 'ART 333', 'ART 337', 'ART 400', 'ART 431', 'ART 438', 'ART 463']"
+Demirci,Sinem,STAT,3,4.0,3.33,3.33,['STAT 218']
+Horney,Marc,ASCI,19,2.85,2.9,2.9,"['ASCI 112', 'ASCI 220', 'ASCI 221', 'ASCI 328', 'ASCI 329']"
+Friend,Kerry,CHEM,37,3.36,3.23,3.33,['CHEM 111']
+Botwin,Mike,ARCE,10,2.75,2.5,2.63,"['ARCE 222', 'ARCH 222', 'ARCE 302', 'ARCE 305', 'ARCE 371', 'ARCE 446']"
+Valle,Victor,ES,19,0.89,1.0,0.94,"['ES 114', 'ES 300', 'ES 323', 'ES 430']"
+Swanagon,Russell,LS,38,2.55,2.42,2.82,"['LS 101', 'LS 201', 'LS 260', 'LS 310']"
+Smidt,Robert,STAT,90,2.9,2.87,2.84,"['STAT 212', 'STAT 217', 'STAT 218', 'STAT 221', 'STAT 252', 'STAT 312', 'STAT 321', 'STAT 323']"
+Dittmann,Steven,EE,2,2.0,2.0,1.67,['EE 295']
+Soder,Paula,BUS,1,3.0,3.0,3.0,['BUS 302']
+Lema,Kristin,BIO,20,2.67,2.81,2.62,"['BIO 231', 'BIO 361', 'BIO 409', 'BIO 434']"
+Kolodziejski,Lauren,COMS,1,4.0,4.0,4.0,['COMS']
+Walker,John,STAT,86,2.91,3.07,2.91,"['PHYS 121', 'STAT 217', 'STAT 221', 'STAT 251', 'STAT 252', 'STAT 302', 'STAT 313', 'STAT 324', 'STAT 465', 'STAT 513']"
+Hutchinson,Bradley,EE,1,3.0,3.0,3.0,['EE 375']
+Bowerman,Susan,FSN,1,2.0,2.5,2.0,['FSN 250']
+Martin,Sadie,ENGL,14,3.61,3.55,3.76,"['ENGL 145', 'ENGL 102', 'ENGL 134']"
+Slayter,Erik,BUS,71,3.68,3.69,3.7,"['AGB 214', 'BUS 214', 'BUS 215', 'BUS 221', 'AGB 260', 'AGB 323', 'BUS 323']"
+Neal,Emily,BIO,36,1.94,2.03,1.79,"['BIO 161', 'BIO 221', 'MCRO 221']"
+Glavan,Matthew,MATH,10,2.64,2.27,2.27,"['MATH 118', 'MATH 221']"
+Jansen,Rebecca,CE,2,1.26,1.01,0.75,['CE 204']
+Griffin,Lanny,BMED,44,2.77,2.57,2.68,"['MATE 210', 'BIO 213', 'BMED 213', 'BRAE 213', 'ENGR 213', 'MATE 215', 'BMED 310', 'BMED 410', 'BMED 420', 'BMED 450', 'MATE 530']"
